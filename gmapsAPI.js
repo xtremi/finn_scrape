@@ -1,4 +1,4 @@
-apiKey = "AIzaSyCx4TAE6BQDwALfrJeuapxLDnryAWc9uhE"
+
 
 var googleMapsClient = require('@google/maps').createClient({
   key: apiKey,
