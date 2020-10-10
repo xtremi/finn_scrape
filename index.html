@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+ 
+<!--<script type = "text/javascript" src="scrape.js"></script>-->
+
+<body onload="initPage()">
+
+	<form id="search-form" method="post">
+		Addresse 1: <br>
+		<input type="text" name="address1" id="address1" value = ""> <br>
+		
+		Addresse 2: <br>
+		<input type="text" name="address2" id="address2" value =""> <br>
+		
+		Max distance from center (km): <br>
+		<input type="number" name="maxDistance" id="maxDistance" value =""> <br>
+		
+		Min area (m^2): <br>
+		<input type="number" name="minArea" id="minArea" value =""> <br>
+		
+		Max price (NOK): <br>
+		<input type="number" name="maxPrice" id="maxPrice" value =""> <br>
+		
+		<input type="submit" value = "Search">
+		<div class="loader" id ="loader"></div>
+		<br>	
+	</form>
+	
+	<br>
+	
+	<table id="datatable" class="table table-dark">
+		<thead>
+			<tr>
+				<th>img</th>
+				<th>ID</th>
+				<th>Descr.</th>
+				<th>Price (total)</th>
+				<th>Area</th>
+				<th>kr/m2</th>
+				<th>Time 1 (transit)</th>
+				<th>Time 1 (driving)</th>
+				<th>Dist. 1</th>
+				<th>Time 2 (transit)</th>
+				<th>Time 2 (driving)</th>
+				<th>Dist. 2</th>				
+				<th>Address</th>
+				
+			</tr>
+		</thead>
+		
+		<tbody id="tbody">
+		</tbody>
+	
+	
+	</table>
+</body>
+
+<script type="text/javascript">
+	 	 
+	 document.getElementById("address1").value 		= "Helsfyr T-bane, Oslo, Norway";
+	 document.getElementById("address2").value 		= "Oslo, Jernbanetorget, T-bane";
+	 document.getElementById("maxDistance").value 	= 35;
+	 document.getElementById("minArea").value 		= 105;
+	 document.getElementById("maxPrice").value 		= 4000000;
+	 const $loader = $('#loader');
+	
+	 
+	function clearTable(){
+		var new_tbody = document.createElement('tbody');			
+		var old_tbody = document.getElementById('tbody');
+		new_tbody.id = 'tbody';
+		old_tbody.parentNode.replaceChild(new_tbody, old_tbody)	
+	}
+ 
+	const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
+
+	const comparer = (idx, asc) => (a, b) => ((v1, v2) => 
+		v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
+		)(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+	
+	
+	function initPage(){
+		setupTableSort();				
+		$loader.hide();
+		console.log("init")
+	}
+	
+	
+	function setupTableSort(){
+		console.log("table sort");
+		document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+			const table  = th.closest('table');
+			const tbody  = table.getElementsByTagName("tbody")[0];
+			Array.from(tbody.querySelectorAll('tr:nth-child(n+1)'))
+				.sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+				.forEach(tr => tbody.appendChild(tr) );
+		})));
+	}
+	
+	function real(x){
+		return Number.parseFloat(x).toFixed(2)
+	}
+	function time(s) {
+		return new Date(s*1000).toISOString().slice(11, -5);
+	}
+	function addHousesToTable(houses){
+		clearTable();
+	
+		var table  = document.getElementById("datatable");
+		var tbody  = table.getElementsByTagName("tbody")[0];
+		
+		for(id in houses){
+			el = houses[id];
+			
+			var row   = tbody.insertRow();
+			var cells = [];
+			const N_CELLS = 13;
+			for(i = 0; i < N_CELLS; i++)
+				cells.push(row.insertCell(i));
+			
+			var i = 0;
+			cells[i++].innerHTML = ("<img src=" + el.imgurl + " width=\"60.\">");
+			cells[i++].innerHTML = ("<a href=" + el.url + ">" + el.id + "</a>");				
+			cells[i++].innerHTML = el.description;
+			
+			cells[i++].innerHTML = real(el.price / 1e6) + "mill";
+			cells[i++].innerHTML = real(el.area) + "m2";
+			cells[i++].innerHTML = real(el.price / el.area);
+			
+			cells[i++].innerHTML = time(el.travel_details.transit.time1);			
+			cells[i++].innerHTML = time(el.travel_details.driving.time1);
+			cells[i++].innerHTML = real(el.travel_details.driving.dist1/1000) + "km";
+			
+			cells[i++].innerHTML = time(el.travel_details.transit.time2);
+			cells[i++].innerHTML = time(el.travel_details.driving.time2);
+			cells[i++].innerHTML = real(el.travel_details.driving.dist2/1000) + "km";
+			
+			cells[i++].innerHTML = el.address;
+			
+			if(	el.travel_details.transit.time1 > 3600 || 
+				el.travel_details.driving.time1 > 3600 || 
+				el.travel_details.driving.time2 > 3600 ||
+				el.travel_details.driving.time2 > 3600)
+			{
+				row.style.backgroundColor = "rgba(220,10,10,.3)"; 
+			}
+			
+			if(	el.travel_details.transit.time1 == 0 || 
+				el.travel_details.driving.time1 == 0 || 
+				el.travel_details.driving.time2 == 0 ||
+				el.travel_details.driving.time2 == 0)
+			{
+				row.style.backgroundColor = "rgba(220,220,10,.3)"; 
+			}			
+		}
+
+	}
+</script>
+
+
+<script type="text/javascript">
+		const $form = $('#search-form');
+		
+		$form.on('submit', submitHandler)
+		
+
+		
+		function submitHandler (e) {
+			e.preventDefault()
+
+			$loader.show();
+
+			$.ajax({
+				url: '/run_finn_scrape',
+				type:'POST',
+				data: $form.serialize(),
+				timeout: 600000
+			}).done(response => {
+				console.log(response);
+				addHousesToTable(response.houses);
+				$loader.hide();
+			})
+
+		}		
+</script>
+
+
+
+
+
+
+</html>
