@@ -234,30 +234,6 @@ async function getHousesDetails(page, houses_data, prevHouses_data){
 			
 	}
 	
-	//Object.keys(houses_data.houses).forEach(await checkHouseData);
-	
-	
-	/*for(i = 0; i < houses.length; i++){
-		const str = "[" + (i+1) + "/" + houses.length + "] id  : " + houses[i].id;
-		process.stdout.write(str + " reading....");
-				
-		
-		await page.goto(houses[i].url, {timeout: 0});		
-				
-		
-		houses[i].imgurl  		= await getHouseImage(page);		
-		houses[i].address 		= await getHouseAddress(page);
-		houses[i].description 	= await getHouseDescription(page);
-		var details 			= await getHouseDetails(page);	
-		var prices 				= await getAdditionalPriceDetails(page);
-		houses[i].details = {...details, ...prices};
-		cleanHouseData(houses[i]);
-		countKeys(houses[i]);		
-		//console.log("\t addr: " + houses[i].address);
-		//console.log("\t house: " + JSON.stringify(houses[i],0,2));
-		
-		process.stdout.write("complete!\n")
-	}*/
 }
 
 
@@ -325,10 +301,10 @@ async function getNumberOfPages(page, url){
 	var lastPageFound = false;
 	while(!lastPageFound){
 		
-		lastPage = await getLastPage(page);
-				
+		lastPage = await getLastPage(page);				
 		console.log("Current last page is " + lastPage.toString());
-		if(previousLastPage == lastPage){
+		
+		if(previousLastPage <= lastPage){
 			lastPageFound = true;
 		}
 		else{
@@ -493,15 +469,16 @@ async function getAllTravelDetails(houseData, address1, address2){
 				var j = index_map[counter++];
 				
 				var id = houseData.ids[i]
-				houseData.houses[id].travel_details = {}			
+							
 				
 				if(j >= 0){
+					houseData.houses[id].travel_details = {}
 					var tdTransit = getTravelDurationsAndDistances(travelDetailsTransit.rows[j]);
 					var tdDriving = getTravelDurationsAndDistances(travelDetailsDriving.rows[j]);
 					houseData.houses[id].travel_details.transit = tdTransit;
 					houseData.houses[id].travel_details.driving = tdDriving;
 				}
-				else{
+				else if(!("travel_details" in houseData.houses[id])){
 					houseData.houses[id].travel_details.transit = emptyTD;
 					houseData.houses[id].travel_details.driving = emptyTD;
 				}
@@ -572,12 +549,15 @@ function writeCSVfile(obj, filepath){
 
 async function run(data_input){
 	
+	var houseDataJsonFilePath = "house_data.json";
+	var locationsCSVfile = "locations.csv";
+	
 	var search_url = base_url;	
 	search_url += ("&radius=" 				+ Math.round(data_input.maxDistance * 1000));
 	search_url += ("&price_collective_to=" 	+ data_input.maxPrice);
 	search_url += ("&area_from=" 			+ data_input.minArea);
 		
-	console.log("RUN");
+	console.log("|Starting scraping Finn.no with puppeteer|");
 	var headless_state 	= true;
 	const browser 		= await puppeteer.launch({headless: headless_state});
 	const page 			= await browser.newPage({timeout: 0});
@@ -585,35 +565,62 @@ async function run(data_input){
 	maxPages = await getNumberOfPages(page, search_url);
 	console.log("Max pages: " + maxPages.toString());
 	
-	var house_data = await getAllHouseLinksAndIDs(page, search_url, maxPages);
-		
-	console.log("Total houses: " + (house_data.ids.length).toString());
+	var newHouseData = await getAllHouseLinksAndIDs(page, search_url, maxPages);		
+	console.log("Total houses (new from scraping): " + (newHouseData.ids.length).toString());
 	
-	var prevHouseData = readJSONfile("house_data.json");
+	var prevHouseData = readJSONfile(houseDataJsonFilePath);
+	console.log("Total houses (saved on disk)    : " + (prevHouseData.ids.length).toString());
 	
-	await getHousesDetails(page, house_data, prevHouseData);
+	await getHousesDetails(page, newHouseData, prevHouseData);
 	
 	if(USE_GMAPS)
-		await getAllTravelDetails(house_data, data_input.address1, data_input.address2);
+		await getAllTravelDetails(newHouseData, data_input.address1, data_input.address2);
 	else
-		setFakeTravelDetails(house_data.houses);
+		setFakeTravelDetails(newHouseData.houses);
 	
-	var house_data_all = prevHouseData;
-	for(var id of house_data.ids){
+	/*
+		Contatenate houses from previously read and newly scraped
+		into house_data_all (write to house_data.json)
+		Checking that no duplicates.
+	*/
+	console.log("Collecting previous and new house data...");
+	
+	var house_data_all = { "houses" : {}, "ids" : []};
+	console.log(house_data_all);
 		
-		if(!(id in house_data_all.houses)){			
-			house_data_all.houses[id] = house_data.houses[id];
-			house_data_all.ids.push(id);			
-		}
-		
+	//add all new houses:
+	for(var id of newHouseData.ids){
+		house_data_all.houses[id] = newHouseData.houses[id]
+		house_data_all.ids.push(id);		
 	}
+	//add all previous houses if not already there from prevHouseData):
+	for(var id of prevHouseData.ids){
+		if(!(id in house_data_all.houses)){	
+			house_data_all.houses[id] = prevHouseData.houses[id]
+			house_data_all.ids.push(id);	
+		}
+	}
+	console.log("Done!");
 	
-	writeJSONfile(house_data_all, "house_data.json");
-	writeCSVfile(house_data, "locations.csv");
+	
+	/*console.log("house_data_all")
+	console.log(house_data_all.ids)
+	console.log("prevHouseData")
+	console.log(prevHouseData.ids)
+	console.log("newHouseData")
+	console.log(newHouseData.ids)*/
+	
+
+	writeJSONfile(house_data_all, houseDataJsonFilePath);
+	console.log("House data written to " + houseDataJsonFilePath);
+	
+	writeCSVfile(newHouseData, locationsCSVfile);
+	console.log("Location data written to " + locationsCSVfile);
+	
 	
 	//console.log(JSON.stringify(house_data.houses,0,2));
 	browser.close();
-	return house_data;
+	return newHouseData;
 }
 
 
