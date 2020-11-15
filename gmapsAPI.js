@@ -21,10 +21,10 @@ async function getTravelDetails(to, from, travelMode){
 		.asPromise()
 		.then((response) => {
 			results = response.json;
-			console.log("got response");
+			console.log("got response (" + travelMode + ")");
 		})
 		.catch((err) =>{
-			console.log("err");
+			console.log("err (" + travelMode + ")");
 			console.log(err);
 		});	
 	return results;

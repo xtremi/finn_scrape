@@ -296,25 +296,27 @@ async function getNumberOfPages(page, url){
 	
 		
 	var previousLastPage = 1;
-	var lastPage 		 = 1;
+	var newLastPage 	 = 1;
 		
 	var lastPageFound = false;
 	while(!lastPageFound){
 		
-		lastPage = await getLastPage(page);				
-		console.log("Current last page is " + lastPage.toString());
+		newLastPage = await getLastPage(page);				
+		console.log("Current last page is " + newLastPage.toString());
 		
-		if(previousLastPage <= lastPage){
+		if(newLastPage <= previousLastPage){
+			newLastPage = previousLastPage;
+			console.log(" is less than previous last page; last page is " +  newLastPage.toString());			
 			lastPageFound = true;
 		}
 		else{
-			previousLastPage = lastPage;
-			var nextPageUrl = url + "&page=" + lastPage.toString();
+			previousLastPage = newLastPage;
+			var nextPageUrl = url + "&page=" + newLastPage.toString();
 			console.log("Going to: " + nextPageUrl);
 			await page.goto(nextPageUrl);
 		}								
 	}
-	return lastPage;
+	return newLastPage;
 }
 
 /*
@@ -323,10 +325,11 @@ Iterates every page, and returns an array of objects with
 properties <id> and <url> of each house.
 */
 async function getAllHouseLinksAndIDs(page, search_url, max_pages){
-	
+
+    
 	var all_house_links_and_ids = [];
 	
-	for(page_number = 1; page_number <= maxPages; page_number++){
+	for(var page_number = 1; page_number <= max_pages; page_number++){
 		var url = search_url;
 		if(page_number != 1){
 			url += ("&page=" + page_number.toString());
@@ -346,9 +349,18 @@ async function getAllHouseLinksAndIDs(page, search_url, max_pages){
 	house_data.houses = {};
 	house_data.ids = [];
 		
-	all_house_links_and_ids.forEach(function (item, index){
-		house_data.houses[item.id] = item;
-		house_data.ids.push(item.id);
+    all_house_links_and_ids.forEach(function (item, index) {
+
+        //Check if duplicate:
+        if (!(item.id in house_data.houses)) {
+            house_data.houses[item.id] = item;
+            house_data.ids.push(item.id);
+        }
+        else {
+            console.log(" - Duplicate house id : " + item.id.toString());
+        }
+
+
 	})	
 	return house_data;
 }
@@ -562,7 +574,7 @@ async function run(data_input){
 	const browser 		= await puppeteer.launch({headless: headless_state});
 	const page 			= await browser.newPage({timeout: 0});
 	
-	maxPages = await getNumberOfPages(page, search_url);
+	var maxPages = await getNumberOfPages(page, search_url);
 	console.log("Max pages: " + maxPages.toString());
 	
 	var newHouseData = await getAllHouseLinksAndIDs(page, search_url, maxPages);		
