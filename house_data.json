@@ -1,1 +1,3515 @@
-{}
+{
+  "houses": {
+    "94907924": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=94907924",
+      "id": "94907924",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/30/4/949/079/24_2081624605.jpg",
+      "address": "Solbakklia 7, 2165 Hvam",
+      "description": "Tomteråsen, Hvam: Halvpart av tomannsbolig med attraktiv og barnevennlig beliggenhet. 4 soverom - 2 bad",
+      "details": {
+        "Omkostninger": 86342,
+        "Totalpris": 3486342,
+        "Kommunale avg.": 5635,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 140,
+        "Bruksareal": 156,
+        "Byggeår": "2012",
+        "Energimerking": "B - Oransje",
+        "Tomteareal": 275,
+        "Bruttoareal": 173,
+        "Prisantydning": 3400000
+      },
+      "area": 156,
+      "price": 3486342,
+      "travel_details": {
+        "transit": {
+          "dist1": 63533,
+          "time1": 6587,
+          "dist2": 57120,
+          "time2": 5547
+        },
+        "driving": {
+          "dist1": 47628,
+          "time1": 2177,
+          "dist2": 52605,
+          "time2": 2645
+        }
+      }
+    },
+    "132390736": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=132390736",
+      "id": "132390736",
+      "imgurl": "https://images.finncdn.no/dynamic/960w/2019/4/vertical-/05/6/132/390/736_1110181096.jpg",
+      "address": "Feviksvingen 53 D, 2033 Åsgreina",
+      "description": "Åsgreina - Ramstadåsen - Visningsuke 23.- 29. november - Nye leiligheter i nyetablert felt - Barnevennlig beliggenhet - Pendlervennlig - Ingen forskuddsbetaling",
+      "details": {
+        "Omkostninger": 17857,
+        "Totalpris": 2915857,
+        "Areal": 67,
+        "Soverom": "2 - 3",
+        "Boligtype": "Leilighet",
+        "Eieform": "Eier (Selveier)",
+        "Energimerking": "B - rød",
+        "Pris fra": 2898000,
+        "Pris til": 3498000
+      },
+      "area": 67,
+      "price": 2915857,
+      "travel_details": {
+        "transit": {
+          "dist1": 43956,
+          "time1": 5140,
+          "dist2": 48186,
+          "time2": 5895
+        },
+        "driving": {
+          "dist1": 39743,
+          "time1": 2133,
+          "dist2": 43895,
+          "time2": 2881
+        }
+      }
+    },
+    "158703632": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=158703632",
+      "id": "158703632",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/5/vertical-2/15/2/158/703/632_1400399942.jpg",
+      "address": "Tenorveien 2A, 1859 Slitu",
+      "description": "Lys, pen eierleilighet i 4. etg. Bl.a. 3 soverom. Visning avtales v/henv. til megler",
+      "details": {
+        "Omkostninger": 59912,
+        "Totalpris": 1794912,
+        "Felleskost/mnd.": 4680,
+        "Boligtype": "Leilighet",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 108,
+        "Bruksareal": 111,
+        "Etasje": "4",
+        "Byggeår": "1956",
+        "Tomteareal": 2048,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 476020,
+        "Prisantydning": 1735000
+      },
+      "area": 111,
+      "price": 1794912,
+      "travel_details": {
+        "transit": {
+          "dist1": 64954,
+          "time1": 6301,
+          "dist2": 61518,
+          "time2": 5323
+        },
+        "driving": {
+          "dist1": 64533,
+          "time1": 3010,
+          "dist2": 59186,
+          "time2": 3098
+        }
+      }
+    },
+    "161801392": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=161801392",
+      "id": "161801392",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/3/vertical-2/17/2/161/801/392_626723227.jpg",
+      "address": "Bekkefaret 2, 2150 Årnes",
+      "description": "Koselig og velstelt 6-roms enebolig i barnevennlig område med terrasse og ildsted",
+      "details": {
+        "Omkostninger": 94942,
+        "Totalpris": 3394942,
+        "Kommunale avg.": 12868,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "5",
+        "Primærrom": 187,
+        "Bruksareal": 201,
+        "Byggeår": "1952",
+        "Tomteareal": 884,
+        "Bruttoareal": 221,
+        "Verditakst": 4000000,
+        "Låneverdi": "3 400 000 kr",
+        "Prisantydning": 3300000
+      },
+      "area": 201,
+      "price": 3394942,
+      "travel_details": {
+        "transit": {
+          "dist1": 61060,
+          "time1": 5489,
+          "dist2": 57624,
+          "time2": 4511
+        },
+        "driving": {
+          "dist1": 51691,
+          "time1": 2426,
+          "dist2": 56668,
+          "time2": 2894
+        }
+      }
+    },
+    "162509179": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=162509179",
+      "id": "162509179",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/13/9/162/509/179_856891462.jpg",
+      "address": "Formoenga 45, 3340 Åmot",
+      "description": "#SMÅBRUK - Drømmer du om eget småbruk? Med mulighet for dyrehold og en tilbaketrukket tilværelse",
+      "details": {
+        "Omkostninger": 88770,
+        "Totalpris": 3078770,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 161,
+        "Bruksareal": 161,
+        "Byggeår": "1915",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 7384,
+        "Bruttoareal": 178,
+        "Formuesverdi": 686751,
+        "Prisantydning": 2990000
+      },
+      "area": 161,
+      "price": 3078770,
+      "travel_details": {
+        "transit": {
+          "dist1": 86162,
+          "time1": 8132,
+          "dist2": 83341,
+          "time2": 7356
+        },
+        "driving": {
+          "dist1": 91874,
+          "time1": 4719,
+          "dist2": 84838,
+          "time2": 4674
+        }
+      }
+    },
+    "165246017": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=165246017",
+      "id": "165246017",
+      "imgurl": "https://images.finncdn.no/dynamic/960w/2019/12/vertical-2/10/7/165/246/017_1913578720.jpg",
+      "address": "Feviksvingen 15 A, 2033 Åsgreina",
+      "description": "Ramstadåsen - Åsgreina - Visningsuke 23.- 29. nov. -5-roms leil. over to etasjer",
+      "details": {
+        "Omkostninger": 3515857,
+        "Totalpris": 3705857,
+        "Felleskost/mnd.": 2300,
+        "Primærrom": 107,
+        "Bruksareal": 113,
+        "Soverom": "3",
+        "Rom": "5",
+        "Etasje": "2.",
+        "Ant etasjer": "2",
+        "Boligtype": "Leilighet",
+        "Eieform": "Eier (Selveier)",
+        "Energimerking": "B - rød",
+        "Solforhold": "Meget gode, balkong ligger sør/vestvendt",
+        "Pris": 3498000
+      },
+      "area": 113,
+      "price": 3705857,
+      "travel_details": {
+        "transit": {
+          "dist1": 43956,
+          "time1": 5140,
+          "dist2": 48186,
+          "time2": 5895
+        },
+        "driving": {
+          "dist1": 39743,
+          "time1": 2133,
+          "dist2": 43895,
+          "time2": 2881
+        }
+      }
+    },
+    "172316868": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=172316868",
+      "id": "172316868",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/14/8/172/316/868_487843085.jpg",
+      "address": "Angellstien 3, 1960 Løken",
+      "description": "Enebolig over 3 plan med stort potensial og behov for oppussing. Barnevennlig og solrik beliggenhet.",
+      "details": {
+        "Omkostninger": 75670,
+        "Totalpris": 2475670,
+        "Kommunale avg.": 15240,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 139,
+        "Bruksareal": 165,
+        "Byggeår": "1950",
+        "Energimerking": "G - Oransje",
+        "Rom": "4",
+        "Tomteareal": 411,
+        "Bruttoareal": 178,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 790064,
+        "Prisantydning": 2400000
+      },
+      "area": 165,
+      "price": 2475670,
+      "travel_details": {
+        "transit": {
+          "dist1": 46917,
+          "time1": 4188,
+          "dist2": 49986,
+          "time2": 3940
+        },
+        "driving": {
+          "dist1": 46700,
+          "time1": 2558,
+          "dist2": 51677,
+          "time2": 3026
+        }
+      }
+    },
+    "176320403": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=176320403",
+      "id": "176320403",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/4/vertical-2/20/3/176/320/403_1289631303.jpg",
+      "address": "Dælenenga 8, 1930 Aurskog",
+      "description": "#AURSKOG - Nyere enebolig i landlige omgivelser - Boligen har vesentlige feil og mangler - Eldre uthus",
+      "details": {
+        "Omkostninger": 77892,
+        "Totalpris": 2567892,
+        "Kommunale avg.": 10275,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 177,
+        "Bruksareal": 177,
+        "Byggeår": "2016",
+        "Tomteareal": 1219,
+        "Bruttoareal": 201,
+        "Formuesverdi": 150000,
+        "Prisantydning": 2490000
+      },
+      "area": 177,
+      "price": 2567892,
+      "travel_details": {
+        "transit": {
+          "dist1": 39326,
+          "time1": 3808,
+          "dist2": 42995,
+          "time2": 4867
+        },
+        "driving": {
+          "dist1": 40005,
+          "time1": 2254,
+          "dist2": 44982,
+          "time2": 2722
+        }
+      }
+    },
+    "177042266": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=177042266",
+      "id": "177042266",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/5/vertical-2/06/6/177/042/266_225074022.jpg",
+      "address": "Haraldsrudhagan, 3370 Vikersund",
+      "description": "KUN 1 igjen! Innholdsrik halvpart av tomannsbolig under oppføring.",
+      "details": {
+        "Omkostninger": 17525,
+        "Totalpris": 3307520,
+        "Primærrom": 105,
+        "Bruksareal": 137,
+        "Soverom": "3",
+        "Boligtype": "Tomannsbolig",
+        "Eieform": "Eier (Selveier)",
+        "Pris": 3290000
+      },
+      "area": 137,
+      "price": 3307520,
+      "travel_details": {
+        "transit": {
+          "dist1": 87734,
+          "time1": 7646,
+          "dist2": 84914,
+          "time2": 6990
+        },
+        "driving": {
+          "dist1": 93468,
+          "time1": 4747,
+          "dist2": 82452,
+          "time2": 4889
+        }
+      }
+    },
+    "183647822": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=183647822",
+      "id": "183647822",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/8/vertical-2/21/2/183/647/822_1990929849.jpg",
+      "address": "Fosserveien 210, 1963 Fosser",
+      "description": "Kombinasjonsbygg leiligheter/næring - 2 leiligheter - Næringsdel / frisørsalong - 2 mål tomt",
+      "details": {
+        "Omkostninger": 76374,
+        "Totalpris": 3076374,
+        "Kommunale avg.": 21979,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 283,
+        "Bruksareal": 384,
+        "Etasje": "4",
+        "Byggeår": "1900",
+        "Energimerking": "G - Oransje",
+        "Rom": "5",
+        "Tomteareal": 2013,
+        "Bruttoareal": 422,
+        "Prisantydning": 3000000
+      },
+      "area": 384,
+      "price": 3076374,
+      "travel_details": {
+        "transit": {
+          "dist1": 69265,
+          "time1": 7588,
+          "dist2": 65733,
+          "time2": 5660
+        },
+        "driving": {
+          "dist1": 54401,
+          "time1": 3024,
+          "dist2": 59378,
+          "time2": 3492
+        }
+      }
+    },
+    "183975076": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=183975076",
+      "id": "183975076",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/05/6/183/975/076_1143418962.jpg",
+      "address": "Hemnesveien 539, 1970 Hemnes",
+      "description": "Huset i skogen over to etasjer - 2 stuer, 3 soverom & garasje. Solrik tomt på 1.173 kvm.",
+      "details": {
+        "Omkostninger": 68842,
+        "Totalpris": 2618842,
+        "Kommunale avg.": 6923,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 141,
+        "Bruksareal": 166,
+        "Etasje": "2",
+        "Tomteareal": 1173,
+        "Bruttoareal": 181,
+        "Formuesverdi": 200034,
+        "Mobil": "959 40 591",
+        "Prisantydning": 2550000
+      },
+      "area": 166,
+      "price": 2618842,
+      "travel_details": {
+        "transit": {
+          "dist1": 88674,
+          "time1": 11479,
+          "dist2": 85132,
+          "time2": 9539
+        },
+        "driving": {
+          "dist1": 61117,
+          "time1": 3542,
+          "dist2": 66094,
+          "time2": 4010
+        }
+      }
+    },
+    "186492861": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=186492861",
+      "id": "186492861",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/8/vertical-2/11/1/186/492/861_103697436.jpg",
+      "address": "Bromannsgangen 17, 3041 Drammen",
+      "description": "RENOVERINGSOBJEKT - Horisontaldelt tomannsbolig (hel) på Strømsø",
+      "details": {
+        "Omkostninger": 81342,
+        "Totalpris": 3281342,
+        "Kommunale avg.": 21770,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 131,
+        "Bruksareal": 139,
+        "Etasje": "3",
+        "Byggeår": "1800",
+        "Energimerking": "G - Oransje",
+        "Rom": "6",
+        "Tomteareal": 257,
+        "Bruttoareal": 156,
+        "Formuesverdi": 951295,
+        "Mobil": "454 15 814",
+        "Prisantydning": 3200000
+      },
+      "area": 139,
+      "price": 3281342,
+      "travel_details": {
+        "transit": {
+          "dist1": 45514,
+          "time1": 4065,
+          "dist2": 42694,
+          "time2": 3289
+        },
+        "driving": {
+          "dist1": 50254,
+          "time1": 2443,
+          "dist2": 43218,
+          "time2": 2397
+        }
+      }
+    },
+    "187105261": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=187105261",
+      "id": "187105261",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/8/vertical-2/07/1/187/105/261_1950705856.jpg",
+      "address": "Helgelandsbråtan 10B, 2730 Lunner",
+      "description": "Innholdsrik halvpart av tomannsbolig med flotte uteområder. Barnevennlig område med kort veg til Lunner sentrum.",
+      "details": {
+        "Omkostninger": 73900,
+        "Totalpris": 2973900,
+        "Kommunale avg.": 18985,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 167,
+        "Bruksareal": 183,
+        "Etasje": "3",
+        "Byggeår": "2006",
+        "Energimerking": "D - Oransje",
+        "Rom": "5",
+        "Tomteareal": 1218,
+        "Bruttoareal": 202,
+        "Formuesverdi": 638383,
+        "Prisantydning": 2900000
+      },
+      "area": 183,
+      "price": 2973900,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 60742,
+          "time1": 3551,
+          "dist2": 62926,
+          "time2": 3957
+        }
+      }
+    },
+    "188012935": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=188012935",
+      "id": "188012935",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/26/5/188/012/935_1682491442.jpg",
+      "address": "Runden 33, 2740 Roa",
+      "description": "Innholdsrik enebolig på stor og flat tomt med fin og solrik beliggenhet. Stor garasje og carport",
+      "details": {
+        "Omkostninger": 82592,
+        "Totalpris": 3072592,
+        "Kommunale avg.": 17233,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 153,
+        "Bruksareal": 178,
+        "Etasje": "3",
+        "Byggeår": "1971",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 1347,
+        "Bruttoareal": 201,
+        "Formuesverdi": 635510,
+        "Mobil": "416 44 286",
+        "Prisantydning": 2990000
+      },
+      "area": 178,
+      "price": 3072592,
+      "travel_details": {
+        "transit": {
+          "dist1": 62280,
+          "time1": 5651,
+          "dist2": 58766,
+          "time2": 4701
+        },
+        "driving": {
+          "dist1": 55779,
+          "time1": 3227,
+          "dist2": 57963,
+          "time2": 3633
+        }
+      }
+    },
+    "188790982": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=188790982",
+      "id": "188790982",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/2/188/790/982_1875367077.jpg",
+      "address": "Gardermovegen 158, 2032 Maura",
+      "description": "Hyggelig enebolig med sokkelleilighet i naturskjønne og grønne omgivelser. - Kun ca. 17 min til Jessheim.",
+      "details": {
+        "Omkostninger": 76092,
+        "Totalpris": 3066092,
+        "Kommunale avg.": 11914,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 153,
+        "Bruksareal": 157,
+        "Etasje": "2",
+        "Byggeår": "1968",
+        "Energimerking": "G - Oransje",
+        "Rom": "6",
+        "Tomteareal": 1610,
+        "Bruttoareal": 178,
+        "Formuesverdi": 630163,
+        "Verditakst": 3400000,
+        "Mobil": "465 45 247",
+        "Prisantydning": 2990000
+      },
+      "area": 157,
+      "price": 3066092,
+      "travel_details": {
+        "transit": {
+          "dist1": 65238,
+          "time1": 6361,
+          "dist2": 61389,
+          "time2": 4622
+        },
+        "driving": {
+          "dist1": 52362,
+          "time1": 2392,
+          "dist2": 57339,
+          "time2": 2860
+        }
+      }
+    },
+    "189416510": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=189416510",
+      "id": "189416510",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/0/189/416/510_509927623.jpg",
+      "address": "Storsandveien 50B, 3475 Sætre",
+      "description": "Pen halvpart av vertikaldelt tomannsbolig m/4 soverom. Utsikt mot Oslofjorden. Terrasse og garasjekjeller.",
+      "details": {
+        "Omkostninger": 96122,
+        "Totalpris": 3886122,
+        "Kommunale avg.": 3047,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 144,
+        "Bruksareal": 215,
+        "Byggeår": "2009",
+        "Energimerking": "D - Oransje",
+        "Tomteareal": 170,
+        "Bruttoareal": 156,
+        "Formuesverdi": 741972,
+        "Verditakst": 4450000,
+        "Prisantydning": 3790000
+      },
+      "area": 215,
+      "price": 3886122,
+      "travel_details": {
+        "transit": {
+          "dist1": 51019,
+          "time1": 6422,
+          "dist2": 48188,
+          "time2": 5870
+        },
+        "driving": {
+          "dist1": 48357,
+          "time1": 2571,
+          "dist2": 43010,
+          "time2": 2659
+        }
+      }
+    },
+    "189537781": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=189537781",
+      "id": "189537781",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/8/vertical-2/28/1/189/537/781_927031255.jpg",
+      "address": "Stålfjæra 3, 3340 Åmot",
+      "description": "Sjarmerende enebolig i etablert boligområde i sentrum. Umiddelbar nærhet til butikker. Gangavstand til skoler",
+      "details": {
+        "Omkostninger": 63900,
+        "Totalpris": 2563900,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 158,
+        "Bruksareal": 163,
+        "Etasje": "2",
+        "Byggeår": "1922",
+        "Energimerking": "G - Oransje",
+        "Rom": "3",
+        "Tomteareal": 1045,
+        "Bruttoareal": 187,
+        "Formuesverdi": 788093,
+        "Verditakst": 2500000,
+        "Prisantydning": 2500000
+      },
+      "area": 163,
+      "price": 2563900,
+      "travel_details": {
+        "transit": {
+          "dist1": 76615,
+          "time1": 6541,
+          "dist2": 73795,
+          "time2": 5885
+        },
+        "driving": {
+          "dist1": 83332,
+          "time1": 4191,
+          "dist2": 76296,
+          "time2": 4145
+        }
+      }
+    },
+    "189810708": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=189810708",
+      "id": "189810708",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/8/vertical-2/30/8/189/810/708_1847918736.jpg",
+      "address": "Tårnvegen 16, 1929 Auli",
+      "description": "Velholdt enebolig med integrert garasje, koselig hage, solrike uteplasser og rolig, barnevennlig beliggenhet.",
+      "details": {
+        "Omkostninger": 100392,
+        "Totalpris": 3490392,
+        "Kommunale avg.": 12468,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 141,
+        "Bruksareal": 162,
+        "Byggeår": "1976",
+        "Energimerking": "F - Gul",
+        "Tomteareal": 732,
+        "Bruttoareal": 181,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 822396,
+        "Prisantydning": 3390000
+      },
+      "area": 162,
+      "price": 3490392,
+      "travel_details": {
+        "transit": {
+          "dist1": 49082,
+          "time1": 5051,
+          "dist2": 45646,
+          "time2": 4073
+        },
+        "driving": {
+          "dist1": 43800,
+          "time1": 2369,
+          "dist2": 49231,
+          "time2": 3230
+        }
+      }
+    },
+    "190304357": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190304357",
+      "id": "190304357",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/11/7/190/304/357_1345601794.jpg",
+      "address": "Klokkerudveien 95, 1550 Hølen",
+      "description": "Koselig enebolig - alt på en flate. Landlig, usjenert beliggende mellom Son og Hølen. Stall/uthus 31 m2.",
+      "details": {
+        "Omkostninger": 63800,
+        "Totalpris": 3198800,
+        "Kommunale avg.": 2738,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 111,
+        "Bruksareal": 124,
+        "Etasje": "1",
+        "Byggeår": "1979",
+        "Energimerking": "G - Oransje",
+        "Rom": "6",
+        "Tomteareal": 945,
+        "Formuesverdi": 803007,
+        "Verditakst": 3300000,
+        "Prisantydning": 3135000
+      },
+      "area": 124,
+      "price": 3198800,
+      "travel_details": {
+        "transit": {
+          "dist1": 54399,
+          "time1": 7127,
+          "dist2": 48348,
+          "time2": 5909
+        },
+        "driving": {
+          "dist1": 53218,
+          "time1": 2779,
+          "dist2": 47871,
+          "time2": 2867
+        }
+      }
+    },
+    "190306168": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190306168",
+      "id": "190306168",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/9/vertical-2/07/8/190/306/168_927118756.jpg",
+      "address": "Olumslinna 391, 3520 Jevnaker",
+      "description": "NY PRIS - ENEBOLIG MED STOR TOMT - OLUMSLINNA 391 - JEVNAKER",
+      "details": {
+        "Omkostninger": 68420,
+        "Totalpris": 2758420,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 149,
+        "Bruksareal": 151,
+        "Etasje": "2",
+        "Byggeår": "1950",
+        "Energimerking": "C - Oransje",
+        "Renovert år": "2005",
+        "Tomteareal": 4396,
+        "Formuesverdi": 579162,
+        "Prisantydning": 2690000
+      },
+      "area": 151,
+      "price": 2758420,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "190442487": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190442487",
+      "id": "190442487",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/9/vertical-2/07/7/190/442/487_73128837.jpg",
+      "address": "Orrmyrveien 11, 3475 Sætre",
+      "description": "SÆTRE - Enebolig i rekke med garasje - Store terrasser og opparbeidet hage i barnevennlig boligområde!",
+      "details": {
+        "Omkostninger": 101320,
+        "Totalpris": 3601320,
+        "Kommunale avg.": 11082,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 123,
+        "Bruksareal": 131,
+        "Byggeår": "1974",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 368,
+        "Bruttoareal": 139,
+        "Formuesverdi": 687745,
+        "Verditakst": 3500000,
+        "Lånetakst": "3 100 000 kr",
+        "Prisantydning": 3500000
+      },
+      "area": 131,
+      "price": 3601320,
+      "travel_details": {
+        "transit": {
+          "dist1": 44844,
+          "time1": 5694,
+          "dist2": 42013,
+          "time2": 5142
+        },
+        "driving": {
+          "dist1": 51261,
+          "time1": 2840,
+          "dist2": 45914,
+          "time2": 2928
+        }
+      }
+    },
+    "190846838": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190846838",
+      "id": "190846838",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/05/8/190/846/838_1436793045.jpg",
+      "address": "Rypeveien 3G, 3050 Mjøndalen",
+      "description": "Tiltalende innholdsrik enderekkehus over 3 plan med garasje, 3 soverom og 2 bad - gode solforhold",
+      "details": {
+        "Fellesgjeld": 289322,
+        "Omkostninger": 11127,
+        "Totalpris": 3190449,
+        "Felleskost/mnd.": 4500,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "3",
+        "Primærrom": 126,
+        "Bruksareal": 128,
+        "Etasje": "1",
+        "Byggeår": "1965",
+        "Energimerking": "G - Oransje",
+        "Rom": "4",
+        "Tomteareal": 5641,
+        "Bruttoareal": 148,
+        "Fellesformue": 83742,
+        "Formuesverdi": 626019,
+        "Verditakst": 2900000,
+        "Prisantydning": 2890000
+      },
+      "area": 128,
+      "price": 3190449,
+      "travel_details": {
+        "transit": {
+          "dist1": 57357,
+          "time1": 5948,
+          "dist2": 54537,
+          "time2": 5172
+        },
+        "driving": {
+          "dist1": 64642,
+          "time1": 3196,
+          "dist2": 57605,
+          "time2": 3151
+        }
+      }
+    },
+    "190894397": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190894397",
+      "id": "190894397",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/11/7/190/894/397_2049377386.jpg",
+      "address": "Svingen 32, 1860 Trøgstad",
+      "description": "Velholdt og praktisk enebolig over to plan med bl.a. 4 soverom - 2 stuer - garasje. Solrik tomt. Husk påmelding !",
+      "details": {
+        "Omkostninger": 87892,
+        "Totalpris": 2777892,
+        "Kommunale avg.": 9986,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 158,
+        "Bruksareal": 228,
+        "Byggeår": "1975",
+        "Tomteareal": 1051,
+        "Bruttoareal": 255,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 731383,
+        "Prisantydning": 2690000
+      },
+      "area": 228,
+      "price": 2777892,
+      "travel_details": {
+        "transit": {
+          "dist1": 84823,
+          "time1": 9045,
+          "dist2": 81387,
+          "time2": 8127
+        },
+        "driving": {
+          "dist1": 62523,
+          "time1": 3594,
+          "dist2": 70364,
+          "time2": 3722
+        }
+      }
+    },
+    "190963924": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=190963924",
+      "id": "190963924",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/20/4/190/963/924_876870247.jpg",
+      "address": "Didriksborgveien 33, 1960 Løken",
+      "description": "Koselig og velholdt enebolig med romslig tomt | Landlige omgivelser | Dobbelgarasje",
+      "details": {
+        "Omkostninger": 78842,
+        "Totalpris": 3178842,
+        "Kommunale avg.": 16156,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 189,
+        "Bruksareal": 228,
+        "Byggeår": "1970",
+        "Energimerking": "F - Oransje",
+        "Tomteareal": 1404,
+        "Bruttoareal": 246,
+        "Formuesverdi": 850925,
+        "Prisantydning": 3100000
+      },
+      "area": 228,
+      "price": 3178842,
+      "travel_details": {
+        "transit": {
+          "dist1": 76266,
+          "time1": 10475,
+          "dist2": 72724,
+          "time2": 8535
+        },
+        "driving": {
+          "dist1": 54140,
+          "time1": 3117,
+          "dist2": 59117,
+          "time2": 3585
+        }
+      }
+    },
+    "191044176": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191044176",
+      "id": "191044176",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/9/vertical-0/10/6/191/044/176_828153772.jpg",
+      "address": "Slittungveien 4, 1859 Slitu",
+      "description": "Slittungvn 4 til salgs . En eiendom som har vert under renovering de seinere år .",
+      "details": {
+        "Omkostninger": 100000,
+        "Totalpris": 3250000,
+        "Felleskost/mnd.": 0,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 141,
+        "Bruksareal": 204,
+        "Byggeår": "1987",
+        "Energimerking": "G - Gul",
+        "Rom": "10",
+        "Tomteareal": 945,
+        "Grunnflate": 100,
+        "Formuesverdi": 850000,
+        "Felleskost/mnd. etter avdragsfri periode": "0 kr",
+        "Prisantydning": 3150000
+      },
+      "area": 204,
+      "price": 3250000,
+      "travel_details": {
+        "transit": {
+          "dist1": 75101,
+          "time1": 6934,
+          "dist2": 71665,
+          "time2": 6016
+        },
+        "driving": {
+          "dist1": 65102,
+          "time1": 3091,
+          "dist2": 59754,
+          "time2": 3179
+        }
+      }
+    },
+    "191097214": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191097214",
+      "id": "191097214",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/20/4/191/097/214_1307090260.jpg",
+      "address": "Markaveien 18, 3360 Geithus",
+      "description": "Tiltalende og romslig enebolig på 2,7 mål tomt - Pent opparbeidet - Fin utsikt utover Geithus og Øståsen",
+      "details": {
+        "Omkostninger": 79525,
+        "Totalpris": 3204525,
+        "Kommunale avg.": 4462,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 178,
+        "Bruksareal": 215,
+        "Etasje": "2",
+        "Byggeår": "1937",
+        "Energimerking": "G - Gul",
+        "Rom": "5",
+        "Tomteareal": 2755,
+        "Bruttoareal": 215,
+        "Formuesverdi": 892392,
+        "Verditakst": 3300000,
+        "Prisantydning": 3125000
+      },
+      "area": 215,
+      "price": 3204525,
+      "travel_details": {
+        "transit": {
+          "dist1": 85771,
+          "time1": 8187,
+          "dist2": 82951,
+          "time2": 7531
+        },
+        "driving": {
+          "dist1": 90257,
+          "time1": 4643,
+          "dist2": 83221,
+          "time2": 4598
+        }
+      }
+    },
+    "191114986": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191114986",
+      "id": "191114986",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/26/6/191/114/986_1497484067.jpg",
+      "address": "Granstadveien 5, 3370 Vikersund",
+      "description": "KUN 1 IGJEN! Nyoppførte vertikaldelt tomannsbolig over to plan. Innholdsrik og tiltalende bolig med 3 soverom",
+      "details": {
+        "Omkostninger": 7800,
+        "Totalpris": 3197800,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 130,
+        "Bruksareal": 135,
+        "Etasje": "2",
+        "Byggeår": "2020",
+        "Energimerking": "B - Rød",
+        "Rom": "4",
+        "Tomteareal": 5229,
+        "Bruttoareal": 154,
+        "Prisantydning": 3190000
+      },
+      "area": 135,
+      "price": 3197800,
+      "travel_details": {
+        "transit": {
+          "dist1": 84224,
+          "time1": 7830,
+          "dist2": 81403,
+          "time2": 7054
+        },
+        "driving": {
+          "dist1": 90817,
+          "time1": 4670,
+          "dist2": 83781,
+          "time2": 4625
+        }
+      }
+    },
+    "191172814": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191172814",
+      "id": "191172814",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/26/4/191/172/814_1467209743.jpg",
+      "address": "Ulvengutua 81, 2720 Grindvoll",
+      "description": "Enebolig med oppussingsbehov. Usjenert, landlig og solrik beliggenhet. 4 soverom. Dobbel garasje.",
+      "details": {
+        "Omkostninger": 51400,
+        "Totalpris": 2051400,
+        "Kommunale avg.": 5483,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 162,
+        "Bruksareal": 166,
+        "Etasje": "2",
+        "Byggeår": "1939",
+        "Energimerking": "G - Gul",
+        "Tomteareal": 564,
+        "Bruttoareal": 180,
+        "Formuesverdi": 620699,
+        "Verditakst": 2000000,
+        "Prisantydning": 2000000
+      },
+      "area": 166,
+      "price": 2051400,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 63600,
+          "time1": 3711,
+          "dist2": 65784,
+          "time2": 4117
+        }
+      }
+    },
+    "191307425": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191307425",
+      "id": "191307425",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/01/5/191/307/425_1857051021.jpg",
+      "address": "Oppdalslinna 427, 2740 Roa",
+      "description": "Stor enebolig med solrik tomt, uthus/garasje, butikklokale og tekniske oppgraderinger. Barnevennlig område.",
+      "details": {
+        "Omkostninger": 60420,
+        "Totalpris": 1850420,
+        "Kommunale avg.": 15983,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Primærrom": 253,
+        "Bruksareal": 333,
+        "Byggeår": "1943",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 1736,
+        "Bruttoareal": 365,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 597789,
+        "Prisantydning": 1790000
+      },
+      "area": 333,
+      "price": 1850420,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 60359,
+          "time1": 3448,
+          "dist2": 62543,
+          "time2": 3854
+        }
+      }
+    },
+    "191390615": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191390615",
+      "id": "191390615",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/9/vertical-2/21/5/191/390/615_1472572300.jpg",
+      "address": "Vestre Sponeveien 76, 3340 Åmot",
+      "description": "Koselig enebolig med 1,6 mål tomt. Høy, stor dobbeltgarasje med løftebukk. Uthus.",
+      "details": {
+        "Omkostninger": 76092,
+        "Totalpris": 3066092,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 124,
+        "Bruksareal": 124,
+        "Byggeår": "1900",
+        "Energimerking": "G - Gul",
+        "Tomteareal": 1675,
+        "Bruttoareal": 136,
+        "Formuesverdi": 707271,
+        "Prisantydning": 2990000
+      },
+      "area": 124,
+      "price": 3066092,
+      "travel_details": {
+        "transit": {
+          "dist1": 78660,
+          "time1": 8093,
+          "dist2": 75840,
+          "time2": 7437
+        },
+        "driving": {
+          "dist1": 85571,
+          "time1": 4404,
+          "dist2": 78534,
+          "time2": 4359
+        }
+      }
+    },
+    "191538498": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191538498",
+      "id": "191538498",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/06/8/191/538/498_326784379.jpg",
+      "address": "Skaugveien 51, 1911 Flateby",
+      "description": "Bo barnevennlig i et lyst enderekkehus med fem soverom og to stuer. Hage, tre uteplasser, garasje og utsikt mot Øyeren.",
+      "details": {
+        "Omkostninger": 101292,
+        "Totalpris": 3691292,
+        "Kommunale avg.": 13072,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "5",
+        "Primærrom": 150,
+        "Bruksareal": 153,
+        "Etasje": "2",
+        "Byggeår": "1975",
+        "Energimerking": "F - Oransje",
+        "Tomteareal": 268,
+        "Bruttoareal": 168,
+        "Formuesverdi": 843106,
+        "Prisantydning": 3590000
+      },
+      "area": 153,
+      "price": 3691292,
+      "travel_details": {
+        "transit": {
+          "dist1": 38611,
+          "time1": 4086,
+          "dist2": 35174,
+          "time2": 3096
+        },
+        "driving": {
+          "dist1": 31412,
+          "time1": 1768,
+          "dist2": 35537,
+          "time2": 2428
+        }
+      }
+    },
+    "191936008": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=191936008",
+      "id": "191936008",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/8/191/936/008_535305919.jpg",
+      "address": "Ole Reistads veg 7F, 2067 Jessheim",
+      "description": "Attraktiv familiebolig m/ 3 soverom, bad og vaskerom | Garasje og solrikt uteareal | Barnevennlig og sentrumsnært!",
+      "details": {
+        "Fellesgjeld": 145892,
+        "Omkostninger": 81092,
+        "Totalpris": 3416984,
+        "Felleskost/mnd.": 3275,
+        "Kommunale avg.": 10176,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 118,
+        "Bruksareal": 127,
+        "Etasje": "3",
+        "Byggeår": "1960",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 13533,
+        "Bruttoareal": 139,
+        "Fellesformue": 9812,
+        "Formuesverdi": 1087566,
+        "Prisantydning": 3190000
+      },
+      "area": 127,
+      "price": 3416984,
+      "travel_details": {
+        "transit": {
+          "dist1": 46863,
+          "time1": 3843,
+          "dist2": 58546,
+          "time2": 3432
+        },
+        "driving": {
+          "dist1": 38295,
+          "time1": 1694,
+          "dist2": 43272,
+          "time2": 2162
+        }
+      }
+    },
+    "192365036": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=192365036",
+      "id": "192365036",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/9/vertical-2/22/6/192/365/036_1177593587.jpg",
+      "address": "Hadelandsvegen 1726, 2742 Grua",
+      "description": "Enebolig på romslig tomt, rett nord for Grua. Gangavstand til skole, butikk og togstasjon.",
+      "details": {
+        "Omkostninger": 50030,
+        "Totalpris": 1850030,
+        "Kommunale avg.": 8344,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 109,
+        "Bruksareal": 168,
+        "Byggeår": "1959",
+        "Rom": "5",
+        "Tomteareal": 1422,
+        "Bruttoareal": 187,
+        "Formuesverdi": 473436,
+        "Verditakst": 2000000,
+        "Prisantydning": 1800000
+      },
+      "area": 168,
+      "price": 1850030,
+      "travel_details": {
+        "transit": {
+          "dist1": 57846,
+          "time1": 5193,
+          "dist2": 54332,
+          "time2": 4243
+        },
+        "driving": {
+          "dist1": 52057,
+          "time1": 3024,
+          "dist2": 54241,
+          "time2": 3430
+        }
+      }
+    },
+    "193497324": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=193497324",
+      "id": "193497324",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/02/4/193/497/324_191437536.jpg",
+      "address": "Åsvegen 782, 2032 Maura",
+      "description": "ELDRE ENEBOLIG MAURA I NANNESTAD",
+      "details": {
+        "Omkostninger": 57592,
+        "Totalpris": 2307592,
+        "Kommunale avg.": 14920,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Primærrom": 148,
+        "Bruksareal": 282,
+        "Tomteareal": 2733,
+        "Grunnflate": 175,
+        "Bruttoareal": 311,
+        "Formuesverdi": 836496,
+        "Prisantydning": 2250000
+      },
+      "area": 282,
+      "price": 2307592,
+      "travel_details": {
+        "transit": {
+          "dist1": 64346,
+          "time1": 5470,
+          "dist2": 60910,
+          "time2": 4372
+        },
+        "driving": {
+          "dist1": 55205,
+          "time1": 2415,
+          "dist2": 60182,
+          "time2": 2883
+        }
+      }
+    },
+    "194294779": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194294779",
+      "id": "194294779",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/09/9/194/294/779_1843751786.jpg",
+      "address": "Sætherveien 209, 1866 Båstad",
+      "description": "Båstad // Praktisk enebolig med behov for vedlikehold/modernisering // meget fin beliggenhet ved Øyeren",
+      "details": {
+        "Omkostninger": 53872,
+        "Totalpris": 2153872,
+        "Kommunale avg.": 5994,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 147,
+        "Bruksareal": 168,
+        "Byggeår": "1992",
+        "Energimerking": "E - Rød",
+        "Tomteareal": 1955,
+        "Formuesverdi": 728002,
+        "Telefon": "64 91 34 00",
+        "Mobil": "982 39 605",
+        "Fax": "64 91 34 01",
+        "Prisantydning": 2100000
+      },
+      "area": 168,
+      "price": 2153872,
+      "travel_details": {
+        "transit": {
+          "dist1": 103050,
+          "time1": 11748,
+          "dist2": 99614,
+          "time2": 10830
+        },
+        "driving": {
+          "dist1": 49962,
+          "time1": 2944,
+          "dist2": 54938,
+          "time2": 3412
+        }
+      }
+    },
+    "194338394": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194338394",
+      "id": "194338394",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/28/4/194/338/394_1199348439.jpg",
+      "address": "Festningsåsen 6A, 1860 Trøgstad",
+      "description": "NY PRIS! Rekkehus med populær beliggenhet. Kort vei til skole og barnehage. Solrik terrasse og hage. 3 soverom. Garasje.",
+      "details": {
+        "Fellesgjeld": 408675,
+        "Omkostninger": 1160,
+        "Totalpris": 2499835,
+        "Felleskost/mnd.": 5988,
+        "Boligtype": "Leilighet",
+        "Eieform bolig": "Andel",
+        "Soverom": "3",
+        "Primærrom": 107,
+        "Bruksareal": 113,
+        "Byggeår": "1976",
+        "Energimerking": "E - Gul",
+        "Rom": "4",
+        "Tomteareal": 11039,
+        "Bruttoareal": 123,
+        "Boligselgerforsikring": "Ja",
+        "Fellesformue": 49531,
+        "Formuesverdi": 502437,
+        "Prisantydning": 2090000
+      },
+      "area": 113,
+      "price": 2499835,
+      "travel_details": {
+        "transit": {
+          "dist1": 83339,
+          "time1": 8722,
+          "dist2": 79903,
+          "time2": 7804
+        },
+        "driving": {
+          "dist1": 62772,
+          "time1": 3568,
+          "dist2": 69354,
+          "time2": 3579
+        }
+      }
+    },
+    "194690425": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194690425",
+      "id": "194690425",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/13/5/194/690/425_83761340.jpg",
+      "address": "Engaveien 23, 1911 Flateby",
+      "description": "Meget pent og innholdsrikt enderekkehus på Flateby! | 5 soverom - Garasje - Nytt kjøkken - Nye overflater - Solrik",
+      "details": {
+        "Omkostninger": 106270,
+        "Totalpris": 3796270,
+        "Kommunale avg.": 13551,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Primærrom": 149,
+        "Bruksareal": 165,
+        "Byggeår": "1972",
+        "Tomteareal": 262,
+        "Bruttoareal": 182,
+        "Formuesverdi": 783716,
+        "Prisantydning": 3690000
+      },
+      "area": 165,
+      "price": 3796270,
+      "travel_details": {
+        "transit": {
+          "dist1": 35520,
+          "time1": 4762,
+          "dist2": 38522,
+          "time2": 3734
+        },
+        "driving": {
+          "dist1": 33063,
+          "time1": 1961,
+          "dist2": 38039,
+          "time2": 2429
+        }
+      }
+    },
+    "194701258": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194701258",
+      "id": "194701258",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/12/8/194/701/258_907703107.jpg",
+      "address": "Vipestubben 3, 2170 Fenstad",
+      "description": "Enebolig i kjede - Flott beliggende eiendom m/garasje - Stor terrasse - Hage - Rett ved barneskolen",
+      "details": {
+        "Omkostninger": 89020,
+        "Totalpris": 3289020,
+        "Kommunale avg.": 19000,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 176,
+        "Bruksareal": 207,
+        "Byggeår": "1970",
+        "Energimerking": "G - Lysegrønn",
+        "Tomteareal": 1900,
+        "Bruttoareal": 219,
+        "Prisantydning": 3200000
+      },
+      "area": 207,
+      "price": 3289020,
+      "travel_details": {
+        "transit": {
+          "dist1": 88875,
+          "time1": 5888,
+          "dist2": 85439,
+          "time2": 4790
+        },
+        "driving": {
+          "dist1": 55600,
+          "time1": 2565,
+          "dist2": 60577,
+          "time2": 3032
+        }
+      }
+    },
+    "194758883": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194758883",
+      "id": "194758883",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/13/3/194/758/883_266297578.jpg",
+      "address": "Muninveien 45, 3518 Hønefoss",
+      "description": "Rekkehus med tre soverom, god lagringsplass og garasje i attraktiv skolekrets.",
+      "details": {
+        "Fellesgjeld": 940995,
+        "Omkostninger": 1090,
+        "Totalpris": 2792085,
+        "Felleskost/mnd.": 6541,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "3",
+        "Primærrom": 116,
+        "Bruksareal": 126,
+        "Etasje": "2",
+        "Byggeår": "1978",
+        "Energimerking": "E - Oransje",
+        "Rom": "4",
+        "Tomteareal": 24000,
+        "Bruttoareal": 142,
+        "Fellesformue": 14565,
+        "Formuesverdi": 573292,
+        "Prisantydning": 1850000
+      },
+      "area": 126,
+      "price": 2792085,
+      "travel_details": {
+        "transit": {
+          "dist1": 62484,
+          "time1": 7138,
+          "dist2": 59916,
+          "time2": 6445
+        },
+        "driving": {
+          "dist1": 68146,
+          "time1": 3667,
+          "dist2": 61109,
+          "time2": 3621
+        }
+      }
+    },
+    "194860243": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194860243",
+      "id": "194860243",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/14/3/194/860/243_2076924768.jpg",
+      "address": "Fjellveien 2, 1963 Fosser",
+      "description": "FOSSER - Enebolig på stor hjørnetomt i landlige omgivelser. Sydvendt terrasse, fin hage og garasje med hobbyrom.",
+      "details": {
+        "Omkostninger": 80270,
+        "Totalpris": 2730270,
+        "Kommunale avg.": 16155,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "1",
+        "Primærrom": 166,
+        "Bruksareal": 187,
+        "Byggeår": "1973",
+        "Energimerking": "E - Gul",
+        "Rom": "7",
+        "Tomteareal": 1171,
+        "Bruttoareal": 214,
+        "Formuesverdi": 726418,
+        "Prisantydning": 2650000
+      },
+      "area": 187,
+      "price": 2730270,
+      "travel_details": {
+        "transit": {
+          "dist1": 70188,
+          "time1": 7772,
+          "dist2": 66656,
+          "time2": 5844
+        },
+        "driving": {
+          "dist1": 53794,
+          "time1": 3062,
+          "dist2": 58771,
+          "time2": 3530
+        }
+      }
+    },
+    "194867351": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194867351",
+      "id": "194867351",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/04/1/194/867/351_1728684089.jpg",
+      "address": "Varderingen 6B, 2054 Mogreina",
+      "description": "Pen 5-roms selveierleilighet over 2 plan! -Solrik balkong -Carport",
+      "details": {
+        "Omkostninger": 76342,
+        "Totalpris": 3076342,
+        "Felleskost/mnd.": 2600,
+        "Kommunale avg.": 9738,
+        "Boligtype": "Leilighet",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 108,
+        "Bruksareal": 111,
+        "Etasje": "2",
+        "Byggeår": "2006",
+        "Rom": "6",
+        "Tomteareal": 2785,
+        "Bruttoareal": 122,
+        "Formuesverdi": 1120087,
+        "Mobil": "992 76 549",
+        "Prisantydning": 3000000
+      },
+      "area": 111,
+      "price": 3076342,
+      "travel_details": {
+        "transit": {
+          "dist1": 69799,
+          "time1": 4907,
+          "dist2": 66363,
+          "time2": 3809
+        },
+        "driving": {
+          "dist1": 49800,
+          "time1": 2151,
+          "dist2": 54777,
+          "time2": 2619
+        }
+      }
+    },
+    "194880212": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194880212",
+      "id": "194880212",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/05/2/194/880/212_554851366.jpg",
+      "address": "Mellomenga 85, 3404 Lier",
+      "description": "Halvpart av tomannsbolig i attraktivt og barnevennlig boligområde - garasje - fin hage - terrasser - 3 soverom",
+      "details": {
+        "Omkostninger": 96342,
+        "Totalpris": 3896342,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 110,
+        "Bruksareal": 110,
+        "Byggeår": "1994",
+        "Tomteareal": 2064,
+        "Bruttoareal": 119,
+        "Formuesverdi": 860820,
+        "Verditakst": 3800000,
+        "Mobil": "454 87 388",
+        "Prisantydning": 3800000
+      },
+      "area": 110,
+      "price": 3896342,
+      "travel_details": {
+        "transit": {
+          "dist1": 52983,
+          "time1": 5493,
+          "dist2": 50161,
+          "time2": 4777
+        },
+        "driving": {
+          "dist1": 46766,
+          "time1": 2427,
+          "dist2": 39730,
+          "time2": 2381
+        }
+      }
+    },
+    "194920509": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194920509",
+      "id": "194920509",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/13/9/194/920/509_1291060970.jpg",
+      "address": "Jerpeveien 2, 3370 Vikersund",
+      "description": "Vikersund - Enebolig beliggende i et populært boligområde på Vikerjordet. Gangavstand til barne- og ungdomsskole.",
+      "details": {
+        "Omkostninger": 68650,
+        "Totalpris": 2758650,
+        "Kommunale avg.": 12632,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 146,
+        "Bruksareal": 188,
+        "Etasje": "2",
+        "Byggeår": "1975",
+        "Energimerking": "F - Oransje",
+        "Rom": "5",
+        "Tomteareal": 1027,
+        "Bruttoareal": 209,
+        "Formuesverdi": 781534,
+        "Verditakst": 3000000,
+        "Prisantydning": 2690000
+      },
+      "area": 188,
+      "price": 2758650,
+      "travel_details": {
+        "transit": {
+          "dist1": 90104,
+          "time1": 7861,
+          "dist2": 87283,
+          "time2": 7085
+        },
+        "driving": {
+          "dist1": 88072,
+          "time1": 4762,
+          "dist2": 81036,
+          "time2": 4717
+        }
+      }
+    },
+    "194997067": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=194997067",
+      "id": "194997067",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/11/7/194/997/067_1830995883.jpg",
+      "address": "Båstadveien 612, 1866 Båstad",
+      "description": "Nyoppført halvpart av tomannsbolig i landlige omgivelser i Båstad. Takterrasse og carport. Dobbeltboligforsikring.",
+      "details": {
+        "Omkostninger": 21970,
+        "Totalpris": 3311970,
+        "Kommunale avg.": 12874,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 121,
+        "Bruksareal": 128,
+        "Etasje": "1",
+        "Byggeår": "2020",
+        "Energimerking": "A - Rød",
+        "Tomteareal": 432,
+        "Bruttoareal": 161,
+        "Prisantydning": 3290000
+      },
+      "area": 128,
+      "price": 3311970,
+      "travel_details": {
+        "transit": {
+          "dist1": 92099,
+          "time1": 9627,
+          "dist2": 88663,
+          "time2": 8709
+        },
+        "driving": {
+          "dist1": 54295,
+          "time1": 3026,
+          "dist2": 76657,
+          "time2": 3921
+        }
+      }
+    },
+    "195395328": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195395328",
+      "id": "195395328",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/10/8/195/395/328_49931631.jpg",
+      "address": "Osloveien 1406, 1827 Hobøl",
+      "description": "Landlig beliggende enebolig m/gode solforhold | Høytliggende og usjenert beliggenhet | Garasje | Moderniseringsbehov",
+      "details": {
+        "Omkostninger": 83170,
+        "Totalpris": 2783170,
+        "Kommunale avg.": 12874,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 109,
+        "Bruksareal": 115,
+        "Byggeår": "1964",
+        "Rom": "4",
+        "Tomteareal": 993,
+        "Bruttoareal": 128,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 569978,
+        "Prisantydning": 2700000
+      },
+      "area": 115,
+      "price": 2783170,
+      "travel_details": {
+        "transit": {
+          "dist1": 43771,
+          "time1": 4844,
+          "dist2": 40117,
+          "time2": 4091
+        },
+        "driving": {
+          "dist1": 43842,
+          "time1": 2221,
+          "dist2": 38495,
+          "time2": 2309
+        }
+      }
+    },
+    "195525936": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195525936",
+      "id": "195525936",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/05/6/195/525/936_65421472.jpg",
+      "address": "Indre Løkkavei 39, 3515 Hønefoss",
+      "description": "Velholdt enebolig med attraktiv og sentral beliggenhet. Gangavstand til sentrum.",
+      "details": {
+        "Omkostninger": 80092,
+        "Totalpris": 3230092,
+        "Kommunale avg.": 13841,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 153,
+        "Bruksareal": 166,
+        "Byggeår": "1961",
+        "Energimerking": "G - Oransje",
+        "Rom": "3",
+        "Tomteareal": 689,
+        "Bruttoareal": 186,
+        "Formuesverdi": 531830,
+        "Verditakst": 3150000,
+        "Mobil": "975 33 470",
+        "Fax": "32 13 50 06",
+        "Prisantydning": 3150000
+      },
+      "area": 166,
+      "price": 3230092,
+      "travel_details": {
+        "transit": {
+          "dist1": 59952,
+          "time1": 7188,
+          "dist2": 57384,
+          "time2": 6495
+        },
+        "driving": {
+          "dist1": 66090,
+          "time1": 3813,
+          "dist2": 59054,
+          "time2": 3768
+        }
+      }
+    },
+    "195709804": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195709804",
+      "id": "195709804",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/10/4/195/709/804_399691687.jpg",
+      "address": "Slettumveien 2, 1960 Løken",
+      "description": "Velholdt og fin enebolig på stor, inngjerdet hjørnetomt m/solrik terrasse, anneks og dobbelgarasje. Kjellerstue m/peis.",
+      "details": {
+        "Omkostninger": 93142,
+        "Totalpris": 3193142,
+        "Kommunale avg.": 19259,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 140,
+        "Bruksareal": 184,
+        "Byggeår": "1978",
+        "Tomteareal": 1181,
+        "Bruttoareal": 200,
+        "Formuesverdi": 733032,
+        "Prisantydning": 3100000
+      },
+      "area": 184,
+      "price": 3193142,
+      "travel_details": {
+        "transit": {
+          "dist1": 73042,
+          "time1": 9415,
+          "dist2": 69500,
+          "time2": 7475
+        },
+        "driving": {
+          "dist1": 52046,
+          "time1": 2914,
+          "dist2": 57023,
+          "time2": 3382
+        }
+      }
+    },
+    "195744022": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195744022",
+      "id": "195744022",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/10/2/195/744/022_480997174.jpg",
+      "address": "Nordlivegen 92, 2070 Råholt",
+      "description": "Romslig enebolig sentralt på Råholt. 3 soverom, 2 stuer og god lagringsplass i boder.",
+      "details": {
+        "Omkostninger": 86342,
+        "Totalpris": 3486342,
+        "Kommunale avg.": 12263,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 170,
+        "Bruksareal": 199,
+        "Etasje": "2",
+        "Byggeår": "1967",
+        "Tomteareal": 599,
+        "Bruttoareal": 224,
+        "Formuesverdi": 667657,
+        "Mobil": "959 79 609",
+        "Prisantydning": 3400000
+      },
+      "area": 199,
+      "price": 3486342,
+      "travel_details": {
+        "transit": {
+          "dist1": 65664,
+          "time1": 4768,
+          "dist2": 62228,
+          "time2": 3670
+        },
+        "driving": {
+          "dist1": 52673,
+          "time1": 2270,
+          "dist2": 57650,
+          "time2": 2738
+        }
+      }
+    },
+    "195807039": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195807039",
+      "id": "195807039",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/04/9/195/807/039_2027751901.jpg",
+      "address": "Vierveien 3, 3340 Åmot",
+      "description": "Visning 15/11 kl. 13.30.-14.30! Velholdt 1/2-part av tomannsbolig i etablert boligområde - 3 soverom - Garasje",
+      "details": {
+        "Omkostninger": 63650,
+        "Totalpris": 2553650,
+        "Kommunale avg.": 5834,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 107,
+        "Bruksareal": 117,
+        "Etasje": "2",
+        "Byggeår": "1982",
+        "Energimerking": "F - Oransje",
+        "Rom": "4",
+        "Tomteareal": 479,
+        "Bruttoareal": 126,
+        "Formuesverdi": 567016,
+        "Verditakst": 2500000,
+        "Prisantydning": 2490000
+      },
+      "area": 117,
+      "price": 2553650,
+      "travel_details": {
+        "transit": {
+          "dist1": 78948,
+          "time1": 6858,
+          "dist2": 76128,
+          "time2": 6202
+        },
+        "driving": {
+          "dist1": 86320,
+          "time1": 4339,
+          "dist2": 79284,
+          "time2": 4294
+        }
+      }
+    },
+    "195842171": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195842171",
+      "id": "195842171",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/30/1/195/842/171_679738766.jpg",
+      "address": "Sætervegen 10, 2162 Brårud",
+      "description": "Innholdsrik og sjarmerende enebolig med god beliggenhet på feltet | Solrik hage | Garasje | Barnevennlig og rolig",
+      "details": {
+        "Omkostninger": 81342,
+        "Totalpris": 3281342,
+        "Kommunale avg.": 13786,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 154,
+        "Bruksareal": 183,
+        "Etasje": "2",
+        "Byggeår": "1980",
+        "Energimerking": "E - Gul",
+        "Tomteareal": 996,
+        "Bruttoareal": 235,
+        "Formuesverdi": 727571,
+        "Prisantydning": 3200000
+      },
+      "area": 183,
+      "price": 3281342,
+      "travel_details": {
+        "transit": {
+          "dist1": 86899,
+          "time1": 5797,
+          "dist2": 83463,
+          "time2": 4784
+        },
+        "driving": {
+          "dist1": 52906,
+          "time1": 2365,
+          "dist2": 57883,
+          "time2": 2833
+        }
+      }
+    },
+    "195853471": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195853471",
+      "id": "195853471",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/1/195/853/471_1322832069.jpg",
+      "address": "Hauglia 7, 1911 Flateby",
+      "description": "1/2 part tomannsbolig med flotte uteområder og svømmebasseng - Garasjeplass - Barnevennlig",
+      "details": {
+        "Omkostninger": 96342,
+        "Totalpris": 3896342,
+        "Kommunale avg.": 13703,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 158,
+        "Bruksareal": 162,
+        "Byggeår": "1980",
+        "Energimerking": "E - Gul",
+        "Rom": "4",
+        "Tomteareal": 375,
+        "Bruttoareal": 180,
+        "Formuesverdi": 914231,
+        "Prisantydning": 3800000
+      },
+      "area": 162,
+      "price": 3896342,
+      "travel_details": {
+        "transit": {
+          "dist1": 41107,
+          "time1": 4503,
+          "dist2": 37670,
+          "time2": 3513
+        },
+        "driving": {
+          "dist1": 32550,
+          "time1": 1877,
+          "dist2": 37527,
+          "time2": 2345
+        }
+      }
+    },
+    "195856332": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=195856332",
+      "id": "195856332",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/24/2/195/856/332_1267065612.jpg",
+      "address": "Geithusveien 38, 3360 Geithus",
+      "description": "Koselig enebolig i etablert boligområde - 4 soverom - garasje - Sentral beliggenhet",
+      "details": {
+        "Omkostninger": 66150,
+        "Totalpris": 2656150,
+        "Kommunale avg.": 10982,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 169,
+        "Bruksareal": 234,
+        "Etasje": "2",
+        "Byggeår": "1967",
+        "Energimerking": "G - Gul",
+        "Rom": "6",
+        "Tomteareal": 915,
+        "Bruttoareal": 281,
+        "Formuesverdi": 848998,
+        "Verditakst": 2600000,
+        "Prisantydning": 2590000
+      },
+      "area": 234,
+      "price": 2656150,
+      "travel_details": {
+        "transit": {
+          "dist1": 82325,
+          "time1": 7863,
+          "dist2": 79505,
+          "time2": 7207
+        },
+        "driving": {
+          "dist1": 89706,
+          "time1": 4568,
+          "dist2": 82670,
+          "time2": 4522
+        }
+      }
+    },
+    "196169179": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=196169179",
+      "id": "196169179",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/9/196/169/179_1298407093.jpg",
+      "address": "Muninveien 9, 3518 Hønefoss",
+      "description": "Pent rekkehus over to plan med nydelige uteplasser og garasjeplass. Attraktiv og barnevennlig beliggenhet. 4 soverom.",
+      "details": {
+        "Fellesgjeld": 940995,
+        "Omkostninger": 1460,
+        "Totalpris": 2632455,
+        "Felleskost/mnd.": 6541,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "4",
+        "Primærrom": 112,
+        "Bruksareal": 116,
+        "Etasje": "2",
+        "Byggeår": "1977",
+        "Energimerking": "F - Rød",
+        "Rom": "4",
+        "Tomteareal": 25063,
+        "Bruttoareal": 126,
+        "Formuesverdi": 631805,
+        "Prisantydning": 1690000
+      },
+      "area": 116,
+      "price": 2632455,
+      "travel_details": {
+        "transit": {
+          "dist1": 62441,
+          "time1": 7105,
+          "dist2": 59873,
+          "time2": 6412
+        },
+        "driving": {
+          "dist1": 68103,
+          "time1": 3654,
+          "dist2": 61067,
+          "time2": 3608
+        }
+      }
+    },
+    "196669932": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=196669932",
+      "id": "196669932",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/10/vertical-2/30/2/196/669/932_923087894.jpg",
+      "address": "Svingen 37, 1860 Trøgstad",
+      "description": "Stor familiebolig over 2 plan | 4 soverom | nærhet til skole | Garasje | solrik tomt",
+      "details": {
+        "Omkostninger": 76420,
+        "Totalpris": 3076420,
+        "Kommunale avg.": 9309,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 187,
+        "Bruksareal": 248,
+        "Etasje": "2",
+        "Byggeår": "1981",
+        "Energimerking": "E - Oransje",
+        "Rom": "6",
+        "Tomteareal": 910,
+        "Bruttoareal": 268,
+        "Formuesverdi": 686512,
+        "Verditakst": 3000000,
+        "Prisantydning": 3000000
+      },
+      "area": 248,
+      "price": 3076420,
+      "travel_details": {
+        "transit": {
+          "dist1": 84808,
+          "time1": 9035,
+          "dist2": 81372,
+          "time2": 8117
+        },
+        "driving": {
+          "dist1": 62507,
+          "time1": 3592,
+          "dist2": 70348,
+          "time2": 3720
+        }
+      }
+    },
+    "196670001": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=196670001",
+      "id": "196670001",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/11/1/196/670/001_2104731658.jpg",
+      "address": "Kråkerudbakken 47, 1825 Tomter",
+      "description": "VISNING! Enebolig med stor tomt og dobbel garasje - Terrasse på 75 kvm - Landlig og rolig område med fin utsikt",
+      "details": {
+        "Omkostninger": 88624,
+        "Totalpris": 3578624,
+        "Kommunale avg.": 5200,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 200,
+        "Bruksareal": 212,
+        "Byggeår": "1974",
+        "Energimerking": "F - Gul",
+        "Rom": "6",
+        "Tomteareal": 1179,
+        "Bruttoareal": 243,
+        "Formuesverdi": 745132,
+        "Verditakst": 3500000,
+        "Prisantydning": 3490000
+      },
+      "area": 212,
+      "price": 3578624,
+      "travel_details": {
+        "transit": {
+          "dist1": 43000,
+          "time1": 5018,
+          "dist2": 39564,
+          "time2": 4040
+        },
+        "driving": {
+          "dist1": 41148,
+          "time1": 2466,
+          "dist2": 39072,
+          "time2": 2526
+        }
+      }
+    },
+    "196672226": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=196672226",
+      "id": "196672226",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/10/vertical-2/30/6/196/672/226_908410785.jpg",
+      "address": "Heggeveien 32G, 1481 Hagan",
+      "description": "Attraktivt og tiltalende enderekkehus over 3 plan m/stor solrik terrasse på 35 kvm - 3 soverom - Garasje m.m.",
+      "details": {
+        "Fellesgjeld": 189814,
+        "Omkostninger": 15357,
+        "Totalpris": 3895171,
+        "Felleskost/mnd.": 4683,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "3",
+        "Primærrom": 122,
+        "Bruksareal": 127,
+        "Byggeår": "1972",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 21717,
+        "Bruttoareal": 144,
+        "Boligselgerforsikring": "Ja",
+        "Fellesformue": 2966,
+        "Formuesverdi": 100795,
+        "Prisantydning": 3690000
+      },
+      "area": 127,
+      "price": 3895171,
+      "travel_details": {
+        "transit": {
+          "dist1": 18247,
+          "time1": 2615,
+          "dist2": 17838,
+          "time2": 2950
+        },
+        "driving": {
+          "dist1": 20337,
+          "time1": 1129,
+          "dist2": 17420,
+          "time2": 1516
+        }
+      }
+    },
+    "197058065": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197058065",
+      "id": "197058065",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/02/5/197/058/065_1811024597.jpg",
+      "address": "Bakkeveien 20, 1911 Flateby",
+      "description": "Delikat halvpart av tomannsbolig - Vesentlig oppgradert 2015-2020 - Solrike uteplasser - Attraktivt og barnevennlig!",
+      "details": {
+        "Omkostninger": 107892,
+        "Totalpris": 3797892,
+        "Kommunale avg.": 13551,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 142,
+        "Bruksareal": 150,
+        "Byggeår": "1971",
+        "Energimerking": "E - Gul",
+        "Tomteareal": 544,
+        "Bruttoareal": 163,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 824803,
+        "Prisantydning": 3690000
+      },
+      "area": 150,
+      "price": 3797892,
+      "travel_details": {
+        "transit": {
+          "dist1": 40592,
+          "time1": 4367,
+          "dist2": 37155,
+          "time2": 3377
+        },
+        "driving": {
+          "dist1": 31989,
+          "time1": 1799,
+          "dist2": 36114,
+          "time2": 2459
+        }
+      }
+    },
+    "197115255": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197115255",
+      "id": "197115255",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/13/5/197/115/255_2054064251.jpg",
+      "address": "Elverhøyveien 21, 1466 Strømmen",
+      "description": "Stor andelsleilighet over 2 plan | Moderniseringsbehov | 2 terrasser | Parkering | Sentralt med kort vei til \"alt\"",
+      "details": {
+        "Fellesgjeld": 729062,
+        "Omkostninger": 8010,
+        "Totalpris": 3637072,
+        "Felleskost/mnd.": 8675,
+        "Boligtype": "Leilighet",
+        "Eieform bolig": "Andel",
+        "Soverom": "2",
+        "Primærrom": 113,
+        "Bruksareal": 113,
+        "Etasje": "1",
+        "Byggeår": "1952",
+        "Energimerking": "F - Oransje",
+        "Tomteareal": 30503,
+        "Bruttoareal": 126,
+        "Formuesverdi": 1097159,
+        "Prisantydning": 2900000
+      },
+      "area": 113,
+      "price": 3637072,
+      "travel_details": {
+        "transit": {
+          "dist1": 20794,
+          "time1": 2439,
+          "dist2": 20161,
+          "time2": 1950
+        },
+        "driving": {
+          "dist1": 15810,
+          "time1": 926,
+          "dist2": 21921,
+          "time2": 1735
+        }
+      }
+    },
+    "197120829": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197120829",
+      "id": "197120829",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/03/9/197/120/829_1037201596.jpg",
+      "address": "Haskollveien 38C, 3403 Lier",
+      "description": "Rekkehus m/sentral beliggenhet like utenfor Lierbyen - garasje - kort til skoler og barnehage - oppussingsbehov!",
+      "details": {
+        "Fellesgjeld": 280316,
+        "Omkostninger": 8457,
+        "Totalpris": 3278773,
+        "Felleskost/mnd.": 5524,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "2",
+        "Primærrom": 121,
+        "Bruksareal": 127,
+        "Etasje": "3",
+        "Byggeår": "1969",
+        "Energimerking": "F - Rød",
+        "Tomteareal": 10728,
+        "Bruttoareal": 136,
+        "Fellesformue": 18607,
+        "Formuesverdi": 704470,
+        "Verditakst": 3000000,
+        "Mobil": "952 74 160",
+        "Prisantydning": 2990000
+      },
+      "area": 127,
+      "price": 3278773,
+      "travel_details": {
+        "transit": {
+          "dist1": 53550,
+          "time1": 5332,
+          "dist2": 50728,
+          "time2": 4616
+        },
+        "driving": {
+          "dist1": 45120,
+          "time1": 2254,
+          "dist2": 38084,
+          "time2": 2208
+        }
+      }
+    },
+    "197136613": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197136613",
+      "id": "197136613",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/14/3/197/136/613_663063833.jpg",
+      "address": "Stensboddingvegen 14, 2150 Årnes",
+      "description": "VISNING AVLYST! Bud gitt direkte til selger-Romslig oppussingsobjekt med integrert garasje, stor hage og solrik terrasse",
+      "details": {
+        "Omkostninger": 58842,
+        "Totalpris": 2358842,
+        "Kommunale avg.": 12531,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "5",
+        "Primærrom": 146,
+        "Bruksareal": 185,
+        "Byggeår": "1986",
+        "Energimerking": "F - Oransje",
+        "Tomteareal": 822,
+        "Bruttoareal": 204,
+        "Formuesverdi": 600000,
+        "Mobil": "468 24 947",
+        "Prisantydning": 2300000
+      },
+      "area": 185,
+      "price": 2358842,
+      "travel_details": {
+        "transit": {
+          "dist1": 49648,
+          "time1": 4336,
+          "dist2": 50711,
+          "time2": 3573
+        },
+        "driving": {
+          "dist1": 50124,
+          "time1": 2636,
+          "dist2": 55100,
+          "time2": 3103
+        }
+      }
+    },
+    "197199184": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197199184",
+      "id": "197199184",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/04/4/197/199/184_1897177159.jpg",
+      "address": "KRINGLEMOVEIEN 2, 3515 Hønefoss",
+      "description": "ENEBOLIG KRINGLEMOVEIEN 2, HØNEFOSS",
+      "details": {
+        "Omkostninger": 71170,
+        "Totalpris": 2871170,
+        "Kommunale avg.": 15000,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 132,
+        "Bruksareal": 172,
+        "Etasje": "3",
+        "Byggeår": "1954",
+        "Energimerking": "G - Rød",
+        "Renovert år": "20092010",
+        "Tomteareal": 1079,
+        "Formuesverdi": 711688,
+        "Prisantydning": 2800000
+      },
+      "area": 172,
+      "price": 2871170,
+      "travel_details": {
+        "transit": {
+          "dist1": 60341,
+          "time1": 7058,
+          "dist2": 57773,
+          "time2": 6365
+        },
+        "driving": {
+          "dist1": 66876,
+          "time1": 3888,
+          "dist2": 59840,
+          "time2": 3842
+        }
+      }
+    },
+    "197224612": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197224612",
+      "id": "197224612",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/04/2/197/224/612_1302140310.jpg",
+      "address": "Olsokveien 7, 1866 Båstad",
+      "description": "Familiebolig med 4 soverom, fin beliggenhet. Kort vei til skole og barnehage. Noe moderniseringsbehov. Påmeldingsvisning",
+      "details": {
+        "Omkostninger": 87892,
+        "Totalpris": 2777892,
+        "Kommunale avg.": 9309,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 175,
+        "Bruksareal": 198,
+        "Byggeår": "1974",
+        "Tomteareal": 1319,
+        "Bruttoareal": 222,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 723950,
+        "Prisantydning": 2690000
+      },
+      "area": 198,
+      "price": 2777892,
+      "travel_details": {
+        "transit": {
+          "dist1": 113337,
+          "time1": 7477,
+          "dist2": 109823,
+          "time2": 6467
+        },
+        "driving": {
+          "dist1": 94156,
+          "time1": 4044,
+          "dist2": 88808,
+          "time2": 4132
+        }
+      }
+    },
+    "197225100": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197225100",
+      "id": "197225100",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/06/0/197/225/100_191883084.jpg",
+      "address": "Storetjernsveien 59, 3520 Jevnaker",
+      "description": "Pent påkostet enebolig med innholdsrik planløsning, stor markterrasse med basseng og solrik hage. Garasje.",
+      "details": {
+        "Omkostninger": 64750,
+        "Totalpris": 2654750,
+        "Kommunale avg.": 20630,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 143,
+        "Bruksareal": 164,
+        "Byggeår": "1965",
+        "Energimerking": "E - Oransje",
+        "Rom": "4",
+        "Tomteareal": 961,
+        "Bruttoareal": 192,
+        "Formuesverdi": 560273,
+        "Verditakst": 2600000,
+        "Mobil": "934 83 333",
+        "Prisantydning": 2590000
+      },
+      "area": 164,
+      "price": 2654750,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 64441,
+          "time1": 3674,
+          "dist2": 66625,
+          "time2": 4080
+        }
+      }
+    },
+    "197247700": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197247700",
+      "id": "197247700",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/04/0/197/247/700_1776835841.jpg",
+      "address": "Harstadbekken 9, 2034 Holter",
+      "description": "Attraktiv og moderne enebolig i kjede fra 2017 - 2 bad - Garasje",
+      "details": {
+        "Omkostninger": 97592,
+        "Totalpris": 3947592,
+        "Felleskost/mnd.": 1250,
+        "Kommunale avg.": 9354,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 110,
+        "Bruksareal": 141,
+        "Byggeår": "2017",
+        "Energimerking": "B - Oransje",
+        "Rom": "4",
+        "Tomteareal": 307,
+        "Bruttoareal": 154,
+        "Fellesformue": 8692,
+        "Formuesverdi": 775518,
+        "Prisantydning": 3850000
+      },
+      "area": 141,
+      "price": 3947592,
+      "travel_details": {
+        "transit": {
+          "dist1": 38486,
+          "time1": 3623,
+          "dist2": 42746,
+          "time2": 4738
+        },
+        "driving": {
+          "dist1": 35001,
+          "time1": 1792,
+          "dist2": 39154,
+          "time2": 2540
+        }
+      }
+    },
+    "197331833": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197331833",
+      "id": "197331833",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/05/3/197/331/833_1158933524.jpg",
+      "address": "Åskollen 8, 1809 Askim",
+      "description": "Askim- Bolig med attraktiv beliggenhet. Kort vei til sentrum. PÅMELDINGSVISNING !",
+      "details": {
+        "Omkostninger": 96892,
+        "Totalpris": 3146892,
+        "Kommunale avg.": 14086,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Primærrom": 106,
+        "Bruksareal": 154,
+        "Tomteareal": 1060,
+        "Bruttoareal": 172,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 415004,
+        "Prisantydning": 3050000
+      },
+      "area": 154,
+      "price": 3146892,
+      "travel_details": {
+        "transit": {
+          "dist1": 61066,
+          "time1": 6225,
+          "dist2": 57630,
+          "time2": 5247
+        },
+        "driving": {
+          "dist1": 60424,
+          "time1": 2942,
+          "dist2": 55077,
+          "time2": 3030
+        }
+      }
+    },
+    "197441034": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197441034",
+      "id": "197441034",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/4/197/441/034_701919571.jpg",
+      "address": "Granbakken 13B, 3076 Sande i Vestfold",
+      "description": "Pen og lettstelt rekkehusleilighet med 4 soverom | Solrik beliggenhet | Garasje medfølger | Nytt bad/vaskerom 2017",
+      "details": {
+        "Fellesgjeld": 1137119,
+        "Omkostninger": 1210,
+        "Totalpris": 2388329,
+        "Felleskost/mnd.": 13187,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "4",
+        "Primærrom": 122,
+        "Bruksareal": 122,
+        "Byggeår": "1976",
+        "Energimerking": "F - Rød",
+        "Rom": "5",
+        "Tomteareal": 1505,
+        "Bruttoareal": 133,
+        "Fellesformue": 5343,
+        "Prisantydning": 1250000
+      },
+      "area": 122,
+      "price": 2388329,
+      "travel_details": {
+        "transit": {
+          "dist1": 70868,
+          "time1": 5172,
+          "dist2": 68046,
+          "time2": 4456
+        },
+        "driving": {
+          "dist1": 70348,
+          "time1": 3286,
+          "dist2": 63311,
+          "time2": 3240
+        }
+      }
+    },
+    "197447596": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197447596",
+      "id": "197447596",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/10/6/197/447/596_1981107757.jpg",
+      "address": "Frøtvedtstubben 6, 3474 Åros",
+      "description": "Rekkehus med solrik beliggenhet i meget barnevennlig område med marka som nærmeste nabo.",
+      "details": {
+        "Omkostninger": 96320,
+        "Totalpris": 3076320,
+        "Kommunale avg.": 8100,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 110,
+        "Bruksareal": 115,
+        "Byggeår": "2003",
+        "Energimerking": "C - Gul",
+        "Tomteareal": 216,
+        "Bruttoareal": 127,
+        "Formuesverdi": 883823,
+        "Verditakst": 3000000,
+        "Lånetakst": "2 550 000 kr",
+        "Prisantydning": 2980000
+      },
+      "area": 115,
+      "price": 3076320,
+      "travel_details": {
+        "transit": {
+          "dist1": 41838,
+          "time1": 5412,
+          "dist2": 39007,
+          "time2": 4860
+        },
+        "driving": {
+          "dist1": 50040,
+          "time1": 3007,
+          "dist2": 47937,
+          "time2": 3091
+        }
+      }
+    },
+    "197467491": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197467491",
+      "id": "197467491",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/06/1/197/467/491_1593735587.jpg",
+      "address": "Sysleveien 91, 3370 Vikersund",
+      "description": "Stor og tiltalende enebolig m/solrik bel., m/bl.a 4 sov., 2 bad, 3 stuer. Flere store terrasser. Isolert dobbelgarasje.",
+      "details": {
+        "Omkostninger": 86092,
+        "Totalpris": 3476092,
+        "Kommunale avg.": 15400,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 170,
+        "Bruksareal": 234,
+        "Etasje": "3",
+        "Energimerking": "D - Gul",
+        "Rom": "3",
+        "Tomteareal": 1383,
+        "Bruttoareal": 254,
+        "Formuesverdi": 738200,
+        "Verditakst": 3400000,
+        "Telefon": "948 31 000",
+        "Mobil": "977 28 692",
+        "Prisantydning": 3390000
+      },
+      "area": 234,
+      "price": 3476092,
+      "travel_details": {
+        "transit": {
+          "dist1": 96526,
+          "time1": 10339,
+          "dist2": 93090,
+          "time2": 9263
+        },
+        "driving": {
+          "dist1": 93802,
+          "time1": 5092,
+          "dist2": 92533,
+          "time2": 4969
+        }
+      }
+    },
+    "197554647": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197554647",
+      "id": "197554647",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/7/197/554/647_665405733.jpg",
+      "address": "Vingersdalen 7, 2160 Vormsund",
+      "description": "Enebolig med stort potensiale - stor solrik tomt - vest-vendt terrasse - dobbel garasje",
+      "details": {
+        "Omkostninger": 68842,
+        "Totalpris": 2768842,
+        "Kommunale avg.": 15106,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 127,
+        "Bruksareal": 206,
+        "Etasje": "2",
+        "Byggeår": "1954",
+        "Energimerking": "G - Gul",
+        "Tomteareal": 2660,
+        "Bruttoareal": 226,
+        "Formuesverdi": 540777,
+        "Mobil": "468 24 947",
+        "Prisantydning": 2700000
+      },
+      "area": 206,
+      "price": 2768842,
+      "travel_details": {
+        "transit": {
+          "dist1": 59526,
+          "time1": 5517,
+          "dist2": 56090,
+          "time2": 4599
+        },
+        "driving": {
+          "dist1": 49224,
+          "time1": 2241,
+          "dist2": 54201,
+          "time2": 2708
+        }
+      }
+    },
+    "197753371": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197753371",
+      "id": "197753371",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/7/193/163/117_360878281.jpg",
+      "address": "ÅSLANDHELLINGA 214 B, 1274 Oslo",
+      "description": "Vertikaldelt tomannsbolig på Bjørndal. Meget barnevennlig.",
+      "details": {
+        "Fellesgjeld": 3421,
+        "Omkostninger": 97099,
+        "Totalpris": 3897099,
+        "Felleskost/mnd.": 2800,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 111,
+        "Bruksareal": 111,
+        "Byggeår": "1997",
+        "Energimerking": "F - Mørkegrønn",
+        "Tomteareal": 20685,
+        "Fellesformue": 4458,
+        "Formuesverdi": 1140984,
+        "Verditakst": 4000000,
+        "Låneverdi": "3 400 000 kr",
+        "Felleskost/mnd. etter avdragsfri periode": "2 800 kr",
+        "Prisantydning": 3800000
+      },
+      "area": 111,
+      "price": 3897099,
+      "travel_details": {
+        "transit": {
+          "dist1": 13645,
+          "time1": 2674,
+          "dist2": 14570,
+          "time2": 2443
+        },
+        "driving": {
+          "dist1": 17155,
+          "time1": 1130,
+          "dist2": 13987,
+          "time2": 1397
+        }
+      }
+    },
+    "197770933": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197770933",
+      "id": "197770933",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/3/197/770/933_1443483160.jpg",
+      "address": "Slettumsvingen 9, 2170 Fenstad",
+      "description": "Nyere (2017) og lekker halvpart tomannsbolig med solrik tomt - Dobbelgarasje med loft - Gangavstand til skole og bhg,",
+      "details": {
+        "Omkostninger": 83842,
+        "Totalpris": 3383842,
+        "Kommunale avg.": 16712,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 109,
+        "Bruksareal": 156,
+        "Etasje": "2",
+        "Byggeår": "2017",
+        "Energimerking": "B - Oransje",
+        "Rom": "4",
+        "Tomteareal": 645,
+        "Bruttoareal": 126,
+        "Formuesverdi": 737270,
+        "Prisantydning": 3300000
+      },
+      "area": 156,
+      "price": 3383842,
+      "travel_details": {
+        "transit": {
+          "dist1": 88409,
+          "time1": 6196,
+          "dist2": 84973,
+          "time2": 5098
+        },
+        "driving": {
+          "dist1": 56543,
+          "time1": 2650,
+          "dist2": 61520,
+          "time2": 3118
+        }
+      }
+    },
+    "197782822": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197782822",
+      "id": "197782822",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/09/2/197/782/822_871279362.jpg",
+      "address": "Klungveien 7A, 3360 Geithus",
+      "description": "Pen og tiltalende 1/2-part av tomannsbolig - Solrik beliggenhet - Garasjeplass - Lav fellesgjeld",
+      "details": {
+        "Fellesgjeld": 46999,
+        "Omkostninger": 1190,
+        "Totalpris": 2438189,
+        "Felleskost/mnd.": 4950,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Andel",
+        "Soverom": "2",
+        "Primærrom": 105,
+        "Bruksareal": 112,
+        "Etasje": "2",
+        "Byggeår": "1991",
+        "Energimerking": "D - Gul",
+        "Rom": "3",
+        "Tomteareal": 12338,
+        "Bruttoareal": 123,
+        "Verditakst": 2400000,
+        "Prisantydning": 2390000
+      },
+      "area": 112,
+      "price": 2438189,
+      "travel_details": {
+        "transit": {
+          "dist1": 79955,
+          "time1": 7253,
+          "dist2": 77135,
+          "time2": 6597
+        },
+        "driving": {
+          "dist1": 87330,
+          "time1": 4432,
+          "dist2": 80294,
+          "time2": 4387
+        }
+      }
+    },
+    "197869771": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197869771",
+      "id": "197869771",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/10/1/197/869/771_1601465927.jpg",
+      "address": "Hans Borgersens veg 26, 2073 Bøn",
+      "description": "Koselig enebolig i idylliske omgivelser - Landlig med nærhet til det meste - Nytt bad 2016 - Nymalte overflater 2020",
+      "details": {
+        "Omkostninger": 87770,
+        "Totalpris": 3037770,
+        "Kommunale avg.": 11885,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 105,
+        "Bruksareal": 107,
+        "Byggeår": "1898",
+        "Energimerking": "G - Oransje",
+        "Rom": "5",
+        "Tomteareal": 619,
+        "Bruttoareal": 118,
+        "Formuesverdi": 649313,
+        "Verditakst": 3000000,
+        "Prisantydning": 2950000
+      },
+      "area": 107,
+      "price": 3037770,
+      "travel_details": {
+        "transit": {
+          "dist1": 65625,
+          "time1": 5280,
+          "dist2": 63033,
+          "time2": 3763
+        },
+        "driving": {
+          "dist1": 55968,
+          "time1": 2522,
+          "dist2": 60944,
+          "time2": 2990
+        }
+      }
+    },
+    "197942543": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=197942543",
+      "id": "197942543",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/15/3/197/942/543_297563699.jpg",
+      "address": "Lusetjernveien 88, 1253 Oslo",
+      "description": "3,5R - A-kto.fyring - garasje m/ el-billader - to bad/WC - to uteplasser - trappefri adkomst - gode solforhold - barnev.",
+      "details": {
+        "Fellesgjeld": 56000,
+        "Omkostninger": 15357,
+        "Totalpris": 3821357,
+        "Felleskost/mnd.": 5562,
+        "Boligtype": "Leilighet",
+        "Eieform bolig": "Andel",
+        "Soverom": "2",
+        "Primærrom": 110,
+        "Bruksareal": 110,
+        "Etasje": "1",
+        "Byggeår": "1981",
+        "Energimerking": "F - Lysegrønn",
+        "Rom": "3",
+        "Tomteareal": 55604,
+        "Bruttoareal": 117,
+        "Fellesformue": 6936,
+        "Formuesverdi": 1064276,
+        "Prisantydning": 3750000
+      },
+      "area": 110,
+      "price": 3821357,
+      "travel_details": {
+        "transit": {
+          "dist1": 15650,
+          "time1": 2935,
+          "dist2": 12214,
+          "time2": 2017
+        },
+        "driving": {
+          "dist1": 20710,
+          "time1": 1507,
+          "dist2": 13818,
+          "time2": 1370
+        }
+      }
+    },
+    "198002951": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198002951",
+      "id": "198002951",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/11/1/198/002/951_2126464549.jpg",
+      "address": "Solveien 1A, 1820 Spydeberg",
+      "description": "Pent rekkehus beliggende på ende. 3 soverom, pent opparbeidet uteområde. Barnevennlig område.",
+      "details": {
+        "Omkostninger": 76470,
+        "Totalpris": 2976470,
+        "Kommunale avg.": 11590,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 129,
+        "Bruksareal": 133,
+        "Byggeår": "1967",
+        "Energimerking": "F - Gul",
+        "Tomteareal": 553,
+        "Bruttoareal": 151,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 611498,
+        "Prisantydning": 2900000
+      },
+      "area": 133,
+      "price": 2976470,
+      "travel_details": {
+        "transit": {
+          "dist1": 49234,
+          "time1": 4975,
+          "dist2": 46152,
+          "time2": 4049
+        },
+        "driving": {
+          "dist1": 52353,
+          "time1": 2636,
+          "dist2": 47006,
+          "time2": 2724
+        }
+      }
+    },
+    "198005262": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198005262",
+      "id": "198005262",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/2/198/005/262_1740128671.jpg",
+      "address": "Østerengvegen 13, 2170 Fenstad",
+      "description": "Lys og moderne halvpart av tomannsbolig fra 2018 - 3 soverom - 2 bad - parkering i carport",
+      "details": {
+        "Omkostninger": 78842,
+        "Totalpris": 3178842,
+        "Kommunale avg.": 15220,
+        "Boligtype": "Tomannsbolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 106,
+        "Bruksareal": 118,
+        "Etasje": "2",
+        "Byggeår": "2018",
+        "Rom": "5",
+        "Tomteareal": 2351,
+        "Bruttoareal": 138,
+        "Formuesverdi": 712078,
+        "Mobil": "468 24 947",
+        "Prisantydning": 3100000
+      },
+      "area": 118,
+      "price": 3178842,
+      "travel_details": {
+        "transit": {
+          "dist1": 89565,
+          "time1": 6396,
+          "dist2": 86129,
+          "time2": 5298
+        },
+        "driving": {
+          "dist1": 56960,
+          "time1": 2625,
+          "dist2": 61937,
+          "time2": 3093
+        }
+      }
+    },
+    "198011549": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198011549",
+      "id": "198011549",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/11/9/198/011/549_43870267.jpg",
+      "address": "Hasselbakken 17, 2020 Skedsmokorset",
+      "description": "Bo usjenert og barnevennlig i et sjarmerende rekkehus, med garasje, 3 romslige uteplasser, 3 soverom og nyere kjøkken.",
+      "details": {
+        "Omkostninger": 106120,
+        "Totalpris": 3896120,
+        "Felleskost/mnd.": 834,
+        "Kommunale avg.": 11190,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 105,
+        "Bruksareal": 107,
+        "Byggeår": "1968",
+        "Energimerking": "F - Oransje",
+        "Tomteareal": 215,
+        "Bruttoareal": 149,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 882032,
+        "Prisantydning": 3790000
+      },
+      "area": 107,
+      "price": 3896120,
+      "travel_details": {
+        "transit": {
+          "dist1": 18775,
+          "time1": 1606,
+          "dist2": 23513,
+          "time2": 2661
+        },
+        "driving": {
+          "dist1": 19785,
+          "time1": 964,
+          "dist2": 23937,
+          "time2": 1712
+        }
+      }
+    },
+    "198019031": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198019031",
+      "id": "198019031",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/1/198/019/031_1848394956.jpg",
+      "address": "Nygårdsbakken 2E, 1482 Nittedal",
+      "description": "Lyst og trivelig rekkehus over 3 plan med to stuer, tre soverom og en fin uteplass! Garasje medfølger.",
+      "details": {
+        "Fellesgjeld": 170581,
+        "Omkostninger": 8457,
+        "Totalpris": 3629038,
+        "Felleskost/mnd.": 5033,
+        "Boligtype": "Rekkehus",
+        "Eieform bolig": "Andel",
+        "Soverom": "3",
+        "Primærrom": 128,
+        "Bruksareal": 132,
+        "Byggeår": "1971",
+        "Energimerking": "E - Oransje",
+        "Rom": "4",
+        "Tomteareal": 28288,
+        "Bruttoareal": 144,
+        "Fellesformue": 18142,
+        "Formuesverdi": 953220,
+        "Mobil": "908 48 167",
+        "Prisantydning": 3450000
+      },
+      "area": 132,
+      "price": 3629038,
+      "travel_details": {
+        "transit": {
+          "dist1": 24834,
+          "time1": 3668,
+          "dist2": 27828,
+          "time2": 3297
+        },
+        "driving": {
+          "dist1": 27655,
+          "time1": 1557,
+          "dist2": 24491,
+          "time2": 1914
+        }
+      }
+    },
+    "198033147": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198033147",
+      "id": "198033147",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/11/7/198/033/147_510571804.jpg",
+      "address": "Burholhagen 3, 1940 Bjørkelangen",
+      "description": "Innholdsrik enebolig i rolig, barnevennlig boligfelt med trygg skolevei. Stor tomt, solrik terrasse og kjøkken fra 2015.",
+      "details": {
+        "Omkostninger": 88142,
+        "Totalpris": 2988142,
+        "Kommunale avg.": 17045,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 162,
+        "Bruksareal": 208,
+        "Byggeår": "1980",
+        "Tomteareal": 1165,
+        "Bruttoareal": 230,
+        "Formuesverdi": 912727,
+        "Prisantydning": 2900000
+      },
+      "area": 208,
+      "price": 2988142,
+      "travel_details": {
+        "transit": {
+          "dist1": 53113,
+          "time1": 4347,
+          "dist2": 56782,
+          "time2": 5406
+        },
+        "driving": {
+          "dist1": 53235,
+          "time1": 2855,
+          "dist2": 58212,
+          "time2": 3323
+        }
+      }
+    },
+    "198123228": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198123228",
+      "id": "198123228",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/8/198/123/228_1255276901.jpg",
+      "address": "Fossveien 13, 3370 Vikersund",
+      "description": "Godt vedlikeholdt enebolig med sentral beliggenhet - 4 soverom - Gangavstand til sentrum med butikker, skoler og barneha",
+      "details": {
+        "Omkostninger": 81150,
+        "Totalpris": 3271150,
+        "Kommunale avg.": 10400,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 118,
+        "Bruksareal": 123,
+        "Etasje": "2",
+        "Byggeår": "1989",
+        "Energimerking": "E - Oransje",
+        "Rom": "6",
+        "Tomteareal": 672,
+        "Bruttoareal": 134,
+        "Formuesverdi": 710087,
+        "Verditakst": 3200000,
+        "Prisantydning": 3190000
+      },
+      "area": 123,
+      "price": 3271150,
+      "travel_details": {
+        "transit": {
+          "dist1": 86384,
+          "time1": 7797,
+          "dist2": 83564,
+          "time2": 7141
+        },
+        "driving": {
+          "dist1": 92343,
+          "time1": 4744,
+          "dist2": 84178,
+          "time2": 4968
+        }
+      }
+    },
+    "198132531": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198132531",
+      "id": "198132531",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/12/1/198/132/531_1809481816.jpg",
+      "address": "Vestre Sponeveien 86, 3340 Åmot",
+      "description": "Velholdt og attraktivt beliggende enebolig med meget gode sol og utsiktsforhold",
+      "details": {
+        "Omkostninger": 81150,
+        "Totalpris": 3271150,
+        "Kommunale avg.": 6193,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 148,
+        "Bruksareal": 173,
+        "Byggeår": "1971",
+        "Energimerking": "G - Oransje",
+        "Tomteareal": 1942,
+        "Bruttoareal": 188,
+        "Formuesverdi": 714193,
+        "Verditakst": 3200000,
+        "Prisantydning": 3190000
+      },
+      "area": 173,
+      "price": 3271150,
+      "travel_details": {
+        "transit": {
+          "dist1": 84066,
+          "time1": 7980,
+          "dist2": 81246,
+          "time2": 7324
+        },
+        "driving": {
+          "dist1": 84986,
+          "time1": 4359,
+          "dist2": 77950,
+          "time2": 4313
+        }
+      }
+    },
+    "198237710": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198237710",
+      "id": "198237710",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/13/0/198/237/710_280294048.jpg",
+      "address": "Gamle Ringkollvei 127, 3514 Hønefoss",
+      "description": "Enebolig med stor tomt og flott utsikt. Meget solrikt og sen kveldssol. Grenser til marka.",
+      "details": {
+        "Omkostninger": 88170,
+        "Totalpris": 2988170,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "2",
+        "Primærrom": 140,
+        "Bruksareal": 158,
+        "Byggeår": "1967",
+        "Energimerking": "G - Rød",
+        "Tomteareal": 3079,
+        "Bruttoareal": 172,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 454068,
+        "Prisantydning": 2900000
+      },
+      "area": 158,
+      "price": 2988170,
+      "travel_details": {
+        "transit": {
+          "dist1": 67371,
+          "time1": 8353,
+          "dist2": 64803,
+          "time2": 7600
+        },
+        "driving": {
+          "dist1": 68003,
+          "time1": 3901,
+          "dist2": 60967,
+          "time2": 3856
+        }
+      }
+    },
+    "198262672": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198262672",
+      "id": "198262672",
+      "imgurl": "https://images.finncdn.no/dynamic/1280w/2020/11/vertical-2/13/2/198/262/672_1137056846.jpg",
+      "address": "Grøtvedtjordet 7, 1808 Askim",
+      "description": "Stor enebolig med mye potensiale - Herlig beliggenhet grensende til golfbanen - Garasje i forlengelse av huset",
+      "details": {
+        "Omkostninger": 90220,
+        "Totalpris": 3080220,
+        "Kommunale avg.": 22406,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 150,
+        "Bruksareal": 253,
+        "Byggeår": "1956",
+        "Tomteareal": 1471,
+        "Boligselgerforsikring": "Ja",
+        "Formuesverdi": 967087,
+        "Prisantydning": 2990000
+      },
+      "area": 253,
+      "price": 3080220,
+      "travel_details": {
+        "transit": {
+          "dist1": 60078,
+          "time1": 6830,
+          "dist2": 56642,
+          "time2": 5852
+        },
+        "driving": {
+          "dist1": 60954,
+          "time1": 2976,
+          "dist2": 55606,
+          "time2": 3064
+        }
+      }
+    },
+    "198270614": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198270614",
+      "id": "198270614",
+      "imgurl": "https://images.finncdn.no/dynamic/1600w/2020/11/vertical-2/15/4/198/270/614_100415293.jpg",
+      "address": "Smerlingveien 10, 3482 Tofte",
+      "description": "Lys og pen enebolig med sentral beliggenhet på Tofte - Utsikt - Kort vei til skoler, sentrum og strender - Garasje",
+      "details": {
+        "Omkostninger": 83842,
+        "Totalpris": 3383842,
+        "Kommunale avg.": 15000,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "3",
+        "Primærrom": 157,
+        "Bruksareal": 214,
+        "Etasje": "2",
+        "Byggeår": "1923",
+        "Tomteareal": 1213,
+        "Bruttoareal": 236,
+        "Mobil": "970 79 913",
+        "Prisantydning": 3300000
+      },
+      "area": 214,
+      "price": 3383842,
+      "travel_details": {
+        "transit": {
+          "dist1": 71443,
+          "time1": 8414,
+          "dist2": 68612,
+          "time2": 7802
+        },
+        "driving": {
+          "dist1": 69409,
+          "time1": 3673,
+          "dist2": 64061,
+          "time2": 3761
+        }
+      }
+    },
+    "198315498": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=198315498",
+      "id": "198315498",
+      "imgurl": "https://images.finncdn.no/dynamic/640w/2020/11/vertical-0/14/8/198/315/498_353027896.jpg",
+      "address": "Korsbøenveien 282, 3370 Vikersund",
+      "description": "Hus eller hytte på landet?",
+      "details": {
+        "Omkostninger": 0,
+        "Totalpris": 1800000,
+        "Felleskost/mnd.": 1,
+        "Boligtype": "Enebolig",
+        "Eieform bolig": "Eier (Selveier)",
+        "Soverom": "4",
+        "Primærrom": 155,
+        "Bruksareal": 155,
+        "Byggeår": "1890",
+        "Tomt": null,
+        "Formuesverdi": 1200000,
+        "Prisantydning": 1800000
+      },
+      "area": 155,
+      "price": 1800000,
+      "travel_details": {
+        "transit": {
+          "dist1": 106199,
+          "time1": 10915,
+          "dist2": 102763,
+          "time2": 9839
+        },
+        "driving": {
+          "dist1": 108167,
+          "time1": 5471,
+          "dist2": 95363,
+          "time2": 5504
+        }
+      }
+    }
+  },
+  "ids": [
+    "197782822",
+    "198270614",
+    "198315498",
+    "162509179",
+    "198262672",
+    "198237710",
+    "198005262",
+    "198123228",
+    "197199184",
+    "198132531",
+    "198033147",
+    "198002951",
+    "195395328",
+    "195744022",
+    "186492861",
+    "197869771",
+    "197770933",
+    "197554647",
+    "188790982",
+    "197441034",
+    "197225100",
+    "197467491",
+    "197447596",
+    "197136613",
+    "197331833",
+    "197224612",
+    "197120829",
+    "94907924",
+    "196669932",
+    "189810708",
+    "196169179",
+    "195856332",
+    "195842171",
+    "195807039",
+    "190894397",
+    "195525936",
+    "195709804",
+    "191097214",
+    "194997067",
+    "194920509",
+    "194867351",
+    "172316868",
+    "194860243",
+    "194758883",
+    "194701258",
+    "194338394",
+    "194294779",
+    "190304357",
+    "183975076",
+    "193497324",
+    "192365036",
+    "191936008",
+    "191390615",
+    "191307425",
+    "191172814",
+    "191114986",
+    "190306168",
+    "191044176",
+    "190963924",
+    "188012935",
+    "190846838",
+    "189537781",
+    "187105261",
+    "183647822",
+    "177042266",
+    "176320403",
+    "158703632",
+    "161801392",
+    "198019031",
+    "197942543",
+    "198011549",
+    "197753371",
+    "191538498",
+    "197247700",
+    "197115255",
+    "197058065",
+    "132390736",
+    "196670001",
+    "196672226",
+    "195853471",
+    "189416510",
+    "194880212",
+    "194690425",
+    "190442487",
+    "165246017"
+  ]
+}

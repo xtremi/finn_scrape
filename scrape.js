@@ -419,11 +419,9 @@ function setFakeTravelDetails(houses){
 }
 
 /**/
-async function getAllTravelDetails(houseData, address1, address2){
+async function getAllTravelDetails(houseData, address1, address2, dateUTCms){
 	
-	var toAddresses = [
-		address1, address2
-		];
+	var toAddresses = [	address1, address2	];
 		
 	var remainingHouses = houseData.ids.length;
 	
@@ -465,8 +463,8 @@ async function getAllTravelDetails(houseData, address1, address2){
 			
 		if(fromAddresses.length > 0){
 			
-			var travelDetailsTransit = await gmaps.getTravelDetails(toAddresses, fromAddresses, "transit");
-			var travelDetailsDriving = await gmaps.getTravelDetails(toAddresses, fromAddresses, "driving");
+            var travelDetailsTransit = await gmaps.getTravelDetails(toAddresses, fromAddresses, "transit", dateUTCms);
+            var travelDetailsDriving = await gmaps.getTravelDetails(toAddresses, fromAddresses, "driving", dateUTCms);
 			//console.log(JSON.stringify(travelDetails,0,2));
 			
 			if(travelDetailsTransit.rows.length != n_from_addresses){
@@ -559,8 +557,28 @@ function writeCSVfile(obj, filepath){
 	
 }
 
+/**
+ * To test! not used yet.
+ * Should give the next working day after d.
+ * @param {Date} d
+ */
+function getNextWork(d) {
+    var day = d.getDay(), add = 1;
+    if (day === 5) add = 3;
+    else if (day === 6) add = 2;
+    d.setDate(d.getDate() + add);
+    return d;
+}
+
+
+
 async function run(data_input){
-	
+
+    var nextWorkDayMorning = getNextWork(new Date());
+    nextWorkDayMorning.setHours(7, 30, 0, 0); //this sets time in local time
+    var dateUTCms = nextWorkDayMorning.valueOf(); //time in ms (UTC)
+    console.log("Departure time used for GMaps API : " + nextWorkDayMorning.toString());
+
 	var houseDataJsonFilePath = "house_data.json";
 	var locationsCSVfile = "locations.csv";
 	
@@ -568,8 +586,12 @@ async function run(data_input){
 	search_url += ("&radius=" 				+ Math.round(data_input.maxDistance * 1000));
 	search_url += ("&price_collective_to=" 	+ data_input.maxPrice);
 	search_url += ("&area_from=" 			+ data_input.minArea);
-		
-	console.log("|Starting scraping Finn.no with puppeteer|");
+
+    console.log("\n**********************************************");
+    console.log("*                                            *");
+    console.log("*  Starting scraping Finn.no with puppeteer  *");
+    console.log("*                                            *");
+    console.log("**********************************************\n");
 	var headless_state 	= true;
 	const browser 		= await puppeteer.launch({headless: headless_state});
 	const page 			= await browser.newPage({timeout: 0});
@@ -584,9 +606,10 @@ async function run(data_input){
 	console.log("Total houses (saved on disk)    : " + (prevHouseData.ids.length).toString());
 	
 	await getHousesDetails(page, newHouseData, prevHouseData);
-	
+
+
 	if(USE_GMAPS)
-		await getAllTravelDetails(newHouseData, data_input.address1, data_input.address2);
+        await getAllTravelDetails(newHouseData, data_input.address1, data_input.address2, dateUTCms);
 	else
 		setFakeTravelDetails(newHouseData.houses);
 	
@@ -595,10 +618,8 @@ async function run(data_input){
 		into house_data_all (write to house_data.json)
 		Checking that no duplicates.
 	*/
+    var house_data_all = { "houses": {}, "ids": [] };
 	console.log("Collecting previous and new house data...");
-	
-	var house_data_all = { "houses" : {}, "ids" : []};
-	console.log(house_data_all);
 		
 	//add all new houses:
 	for(var id of newHouseData.ids){
@@ -613,15 +634,6 @@ async function run(data_input){
 		}
 	}
 	console.log("Done!");
-	
-	
-	/*console.log("house_data_all")
-	console.log(house_data_all.ids)
-	console.log("prevHouseData")
-	console.log(prevHouseData.ids)
-	console.log("newHouseData")
-	console.log(newHouseData.ids)*/
-	
 
 	writeJSONfile(house_data_all, houseDataJsonFilePath);
 	console.log("House data written to " + houseDataJsonFilePath);

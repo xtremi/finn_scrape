@@ -6,14 +6,21 @@ var googleMapsClient = require('@google/maps').createClient({
   Promise : Promise
 });
 
-
-async function getTravelDetails(to, from, travelMode){
+/**
+ * /
+ * @param {Array<String>} to Addresses to
+ * @param {Array<String>} from Addresses from
+ * @param {String} travelMode "transit" or "driving"
+ * @param {integer} dateUTCms
+ */
+async function getTravelDetails(to, from, travelMode, dateUTCms){
 	
 	var req = {
 		origins		   : from,
 		destinations   : to,
-		mode		   : travelMode,
-		departure_time : Date.UTC(2020,11,16,7-2,30)/1000
+        mode           : travelMode,
+        departure_time : dateUTCms / 1000
+		//departure_time : Date.UTC(2020,11,16,7-1,30)/1000
 	};
 	//console.log(req);
 	var results;
@@ -30,24 +37,8 @@ async function getTravelDetails(to, from, travelMode){
 	return results;
 }
 
-async function testGMAPS(){
-	
-	var from1 = "Trolldalsveien 24B, 0672 Oslo, Norway";
-	var from2 = "Helsfyr T-bane, Oslo, Norway";
-	var to1 = "Oslo, Jernbanetorget, T-bane";
-	var to2 = "Stortinget, T-bane, Oslo";
-	var to3 = "Tveita T-bane, Oslo";
-	
-	var origins = [from1, from2];
-	var destinations = [to1, to2, to3];
-	
-	var res = await getTravelDetails(origins, destinations, "transit");
-	console.log(JSON.stringify(res, 0, 2));
-}
-
 
 module.exports = {
-	testGMAPS:testGMAPS,
 	getTravelDetails:getTravelDetails
 }
 
