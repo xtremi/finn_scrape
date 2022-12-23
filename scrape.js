@@ -109,7 +109,8 @@ async function getPris(page){
 }
 
 async function getHouseAddress(page){	
-	var qrypath = "div.u-word-break > section.panel > p.u-caption";
+	//var qrypath = "div.u-word-break > section.panel > p.u-caption";
+	var qrypath = "div.u-word-break > section.mt-24 > a > span.pl-4";
 	return await getSingleQuery(page, qrypath, "innerText", "<missing address>");
 }
 async function getHouseDescription(page){	
@@ -247,7 +248,10 @@ Returned as an array of objects with properties <url> and <id>.
 async function getHouseLinksAndIDs(page, url){
 	await page.goto(url);
 	
-	var linkClassPath = ".ads__unit > .ads__unit__content > h2 > a";
+	//var linkClassPath = ".ads__unit > .ads__unit__content > h2 > a";
+	//var linkClassPath = "ads ads--list ads--cards > sf-ad-outline > f-grid > h2 > a";
+	var linkClassPath = ".ads > .sf-ad-outline > .f-grid > h2 > a";
+	
 	
 	const houseLinks = await page.evaluate((linkClassPath) => {			
 		let elements = Array.from(document.querySelectorAll(linkClassPath));

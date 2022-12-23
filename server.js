@@ -16,8 +16,8 @@ else { data_input.minArea = 100; }
 if(myArgs.length > 2){ data_input.maxPrice 	= myArgs[2];}
 else { data_input.maxPrice = 4000000; }
 
-data_input.address1 = "Helsfyr T-bane, Oslo, Norway";
-data_input.address2 = "Stortinget T-bane, Oslo, Norway";
+data_input.address1 = "Oslo Central Station, Jernbanetorget, Oslo";
+data_input.address2 = "Lillestrøm Stasjon, Lillestrøm";
 
 
 var app = express();

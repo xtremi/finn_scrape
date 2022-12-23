@@ -1,5 +1,5 @@
 const gmapskey = require('./gmapskey.js');
-
+console.log(gmapskey.apiKey)
 
 var googleMapsClient = require('@google/maps').createClient({
   key: gmapskey.apiKey,
