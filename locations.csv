@@ -1,18 +1,96 @@
 id,url,address,price,area,time1 (transit),time1 (drive), dist1,time2 (transit),time2 (drive), dist2
-285149844,https://www.finn.no/realestate/homes/ad.html?finnkode=285149844,Sagbakken 26  2009 Nordby,0.00,0.00,00:50:48,00:38:05,32.76,00:33:25,00:18:48,14.01
-283758327,https://www.finn.no/realestate/homes/ad.html?finnkode=283758327,Berget 3  2009 Nordby,0.00,0.00,00:55:23,00:36:27,32.16,00:38:00,00:17:10,13.41
-282812048,https://www.finn.no/realestate/homes/ad.html?finnkode=282812048,Vågliveien 26  1914 Ytre Enebakk,0.00,0.00,00:56:05,00:32:49,30.61,01:28:03,00:40:44,36.84
-282447799,https://www.finn.no/realestate/homes/ad.html?finnkode=282447799,Kjosveien 5  3430 Spikkestad,0.00,0.00,01:08:05,00:44:35,42.41,01:20:18,00:58:32,62.44
-282090891,https://www.finn.no/realestate/homes/ad.html?finnkode=282090891,Ødegårdsveien 33A  1405 Langhus,0.00,0.00,00:47:34,00:29:41,25.45,01:04:27,00:34:35,37.32
-282175716,https://www.finn.no/realestate/homes/ad.html?finnkode=282175716,Vestre Haugen 22  1054 Oslo,0.00,0.00,00:38:32,00:11:37,9.65,00:27:25,00:16:07,13.74
-273620142,https://www.finn.no/realestate/homes/ad.html?finnkode=273620142,Dokka 5  3425 Reistad,0.00,0.00,01:55:46,00:32:02,34.72,02:05:47,00:45:58,54.75
-281401041,https://www.finn.no/realestate/homes/ad.html?finnkode=281401041,Fjellsveien 8  3409 Tranby,0.00,0.00,01:07:00,00:34:31,36.46,01:17:01,00:48:28,56.49
-276976698,https://www.finn.no/realestate/homes/ad.html?finnkode=276976698,Sveavegen 3 OSLO  1263 Oslo,0.00,0.00,00:26:37,00:16:19,9.68,00:41:44,00:30:16,28.41
-280620922,https://www.finn.no/realestate/homes/ad.html?finnkode=280620922,Ivar Aasens vei 11B  2013 Skjetten,0.00,0.00,00:55:56,00:25:11,23.43,00:18:21,00:08:27,3.91
-280249352,https://www.finn.no/realestate/homes/ad.html?finnkode=280249352,Karisveien 112  2013 Skjetten,0.00,0.00,00:54:04,00:25:12,20.87,00:19:35,00:07:55,3.65
+209864156,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=209864156&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=209864156&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+303395022,https://www.finn.no/realestate/homes/ad.html?finnkode=303395022,Rugveien 4A  1912 Enebakk,0.00,0.00,01:11:50,00:43:47,40.02,01:00:47,00:33:03,27.87
+303744410,https://www.finn.no/realestate/homes/ad.html?finnkode=303744410,Klokkerudåsen 17  1912 Enebakk,0.00,0.00,01:10:44,00:42:27,39.67,01:01:40,00:32:35,28.03
+303308622,https://www.finn.no/realestate/homes/ad.html?finnkode=303308622,Lokshaugveien 309  1930 Aurskog,0.00,0.00,01:26:40,00:52:45,51.46,01:08:18,00:33:01,32.27
+303749128,https://www.finn.no/realestate/homes/ad.html?finnkode=303749128,Vevelstadåsen 20  1405 Langhus,0.00,0.00,00:44:36,00:29:23,24.39,01:01:29,00:34:23,36.41
+303986240,https://www.finn.no/realestate/homes/ad.html?finnkode=303986240,Myrvegen 18  1929 Auli,0.00,0.00,01:07:19,00:51:18,48.15,00:51:52,00:35:31,28.27
+210892176,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=210892176&lat=59.91298&lon=10.7339&radius=50000&price_collective_to=4300000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+287037242,https://www.finn.no/realestate/homes/ad.html?finnkode=287037242,Bråtenstubben 7B  1900 Fetsund,0.00,0.00,00:48:49,00:36:37,32.30,00:44:12,00:16:52,13.10
+302918748,https://www.finn.no/realestate/homes/ad.html?finnkode=302918748,Rogneveien 10  1940 Bjørkelangen,0.00,0.00,01:09:07,00:55:55,56.38,00:50:45,00:36:11,37.19
+303817382,https://www.finn.no/realestate/homes/ad.html?finnkode=303817382,Røsslyngvegen 26B  2150 Årnes,0.00,0.00,01:14:26,00:55:14,58.75,00:58:59,00:43:04,37.93
+303700355,https://www.finn.no/realestate/homes/ad.html?finnkode=303700355,Taietveien 27  1940 Bjørkelangen,0.00,0.00,01:29:59,00:59:56,58.14,01:11:37,00:40:12,38.95
+303664269,https://www.finn.no/realestate/homes/ad.html?finnkode=303664269,Vestliveien 9  1960 Løken,0.00,0.00,00:30:09,00:18:03,10.98,00:48:31,00:32:19,30.80
+303721769,https://www.finn.no/realestate/homes/ad.html?finnkode=303721769,Lundsgutua 6  2150 Årnes,0.00,0.00,01:09:17,00:56:47,60.28,00:53:50,00:41:03,36.15
+297606277,https://www.finn.no/realestate/homes/ad.html?finnkode=297606277,Smedstuvegen 54B  2030 Nannestad,0.00,0.00,00:50:55,00:49:41,55.81,00:43:28,00:40:29,33.76
+303642136,https://www.finn.no/realestate/homes/ad.html?finnkode=303642136,Åsenhagen 8A  2020 Skedsmokorset,0.00,0.00,00:41:46,00:26:44,23.88,00:21:54,00:14:46,8.27
+295530480,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=295530480&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+303624802,https://www.finn.no/realestate/homes/ad.html?finnkode=303624802,Landskronaveien 202  2013 Skjetten,0.00,0.00,00:40:18,00:25:26,20.24,00:17:20,00:10:05,4.43
+216543127,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=216543127&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+303458667,https://www.finn.no/realestate/homes/ad.html?finnkode=303458667,Nylandveien 66  1923 Sørum,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+303400647,https://www.finn.no/realestate/homes/ad.html?finnkode=303400647,Liljeveien 19C  1487 Hakadal,0.00,0.00,01:07:01,00:40:56,32.30,01:05:42,00:33:28,25.89
+302543495,https://www.finn.no/realestate/homes/ad.html?finnkode=302543495,Hedumveien 87  1930 Aurskog,0.00,0.00,00:57:59,00:49:48,48.47,00:39:37,00:30:03,29.27
+303310114,https://www.finn.no/realestate/homes/ad.html?finnkode=303310114,Egnehjemveien 17  1466 Strømmen,0.00,0.00,00:35:53,00:26:42,24.83,00:13:30,00:06:29,2.32
+293833384,https://www.finn.no/realestate/homes/ad.html?finnkode=293833384,Korshagen 12 B  2020 Skedsmokorset,0.00,0.00,00:40:25,00:25:58,23.10,00:27:33,00:14:00,7.49
+303288777,https://www.finn.no/realestate/homes/ad.html?finnkode=303288777,Fjuklia 14  2150 Årnes,0.00,0.00,01:08:50,00:51:04,55.59,00:53:23,00:39:51,40.28
+302397481,https://www.finn.no/realestate/homes/ad.html?finnkode=302397481,Myrvoldveien 260  1930 Aurskog,0.00,0.00,00:54:29,00:48:42,47.36,00:36:07,00:28:57,28.16
+303208845,https://www.finn.no/realestate/homes/ad.html?finnkode=303208845,Langhussenteret 7  1405 Langhus,0.00,0.00,00:37:27,00:28:40,24.23,00:52:47,00:34:09,36.51
+302749184,https://www.finn.no/realestate/homes/ad.html?finnkode=302749184,Blåveisveien 6  1940 Bjørkelangen,0.00,0.00,01:26:35,00:56:09,56.52,00:52:13,00:36:25,37.32
+303319230,https://www.finn.no/realestate/homes/ad.html?finnkode=303319230,Tokerudberget 25  0986 Oslo,0.00,0.00,00:31:40,00:22:57,14.12,00:40:04,00:19:28,14.66
+303305777,https://www.finn.no/realestate/homes/ad.html?finnkode=303305777,Bergstien 6  1963 Fosser,0.00,0.00,01:23:13,01:03:31,58.43,01:04:51,00:43:46,39.24
+303305710,https://www.finn.no/realestate/homes/ad.html?finnkode=303305710,Sagstuveien 7C  1405 Langhus,0.00,0.00,00:37:05,00:26:36,23.36,00:53:58,00:33:44,37.42
+303214984,https://www.finn.no/realestate/homes/ad.html?finnkode=303214984,Finstadlia 175  1475 Finstadjordet,0.00,0.00,00:45:09,00:23:07,17.71,00:27:16,00:11:01,8.35
+303169617,https://www.finn.no/realestate/homes/ad.html?finnkode=303169617,Rødkløverveien 7A  2016 Frogner,0.00,0.00,00:37:06,00:30:30,30.33,00:20:39,00:16:47,12.24
+302476347,https://www.finn.no/realestate/homes/ad.html?finnkode=302476347,Nedre Bjertnes 11D  1482 Nittedal,0.00,0.00,00:52:19,00:31:05,23.49,00:50:00,00:23:37,17.08
+302885251,https://www.finn.no/realestate/homes/ad.html?finnkode=302885251,Haresvingen 18  1914 Ytre Enebakk,0.00,0.00,00:49:49,00:31:37,28.96,01:15:42,00:43:58,38.32
+281079368,https://www.finn.no/realestate/homes/ad.html?finnkode=281079368,Mimosavegen 10B  2034 Holter,0.00,0.00,01:12:56,00:43:56,39.93,01:03:04,00:31:58,24.32
+302912445,https://www.finn.no/realestate/homes/ad.html?finnkode=302912445,Fåmyrsrøet 8B  2030 Nannestad,0.00,0.00,01:23:57,00:55:58,61.83,01:09:30,00:44:45,46.52
+302624073,https://www.finn.no/realestate/homes/ad.html?finnkode=302624073,Tårnbyveien 21  2013 Skjetten,0.00,0.00,00:40:24,00:25:53,21.03,00:15:52,00:08:40,3.81
+302953573,https://www.finn.no/realestate/homes/ad.html?finnkode=302953573,Feviksvingen 44B  2033 Åsgreina,0.00,0.00,01:24:40,00:45:55,42.63,01:14:48,00:33:57,27.01
+302891465,https://www.finn.no/realestate/homes/ad.html?finnkode=302891465,Uknavegen 55  2040 Kløfta,0.00,0.00,00:43:56,00:38:31,43.21,00:59:44,00:26:06,20.01
+302844716,https://www.finn.no/realestate/homes/ad.html?finnkode=302844716,Slattum terrasse 23B  1480 Slattum,0.00,0.00,00:50:35,00:26:47,19.08,00:45:16,00:19:03,11.73
+294113246,https://www.finn.no/realestate/homes/ad.html?finnkode=294113246,Fjellkroken 49D  2022 Gjerdrum,0.00,0.00,01:03:23,00:39:37,34.98,01:01:21,00:27:39,19.36
+257879858,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=257879858&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+291429854,https://www.finn.no/realestate/homes/ad.html?finnkode=291429854,Harstadrøet 48  2034 Holter,0.00,0.00,01:23:54,00:43:33,39.88,01:14:02,00:31:35,24.26
+298744160,https://www.finn.no/realestate/homes/ad.html?finnkode=298744160,Måltrostveien 5  1914 Ytre Enebakk,0.00,0.00,00:59:12,00:34:05,30.20,01:20:05,00:43:59,37.41
+301954150,https://www.finn.no/realestate/homes/ad.html?finnkode=301954150,F. E. Stabells veg 32  2034 Holter,0.00,0.00,01:11:33,00:41:04,38.74,01:09:31,00:29:07,23.12
+301963388,https://www.finn.no/realestate/homes/ad.html?finnkode=301963388,Kalkbrennerveien 57  1487 Hakadal,0.00,0.00,01:08:38,00:42:31,33.26,01:07:19,00:35:03,26.84
+301896024,https://www.finn.no/realestate/homes/ad.html?finnkode=301896024,Sletta 5  1920 Sørumsand,0.00,0.00,00:42:23,00:43:49,38.90,00:26:11,00:24:04,19.70
+294250097,https://www.finn.no/realestate/homes/ad.html?finnkode=294250097,Fossumberget 50  0983 Oslo,0.00,0.00,00:35:15,00:22:11,13.94,00:35:24,00:17:10,13.45
+301510227,https://www.finn.no/realestate/homes/ad.html?finnkode=301510227,Ilebekkroken 14  1963 Fosser,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+297478274,https://www.finn.no/realestate/homes/ad.html?finnkode=297478274,Steinlivegen 23  1929 Auli,0.00,0.00,01:03:23,00:48:58,47.25,00:47:56,00:33:11,27.37
+301530593,https://www.finn.no/realestate/homes/ad.html?finnkode=301530593,Bliksrudstubben 38A  1484 Hakadal,0.00,0.00,01:00:35,00:36:32,28.41,01:09:16,00:29:04,22.00
+300785960,https://www.finn.no/realestate/homes/ad.html?finnkode=300785960,Arteidveien 34  2040 Kløfta,0.00,0.00,00:19:12,00:31:53,34.41,00:19:00,00:21:08,16.44
+300948336,https://www.finn.no/realestate/homes/ad.html?finnkode=300948336,Einerhaugveien 2  1940 Bjørkelangen,0.00,0.00,01:07:48,00:55:24,56.27,00:49:26,00:35:40,37.08
+273791418,https://www.finn.no/realestate/homes/ad.html?finnkode=273791418,Grindbråtan 10B  1484 Hakadal,0.00,0.00,00:54:08,00:34:34,27.92,00:51:49,00:27:06,21.51
+300785686,https://www.finn.no/realestate/homes/ad.html?finnkode=300785686,Slattum terrasse 41D  1480 Slattum,0.00,0.00,00:53:39,00:28:00,19.36,00:48:20,00:20:16,12.01
+300761657,https://www.finn.no/realestate/homes/ad.html?finnkode=300761657,Villaveien 3A  1940 Bjørkelangen,0.00,0.00,01:23:48,00:58:33,57.72,01:00:26,00:38:48,38.53
+300647298,https://www.finn.no/realestate/homes/ad.html?finnkode=300647298,Jutulveien 35  2016 Frogner,0.00,0.00,00:19:53,00:11:00,4.33,00:44:07,00:23:47,22.89
+274134846,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=274134846&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+296472707,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=296472707&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00
+299808132,https://www.finn.no/realestate/homes/ad.html?finnkode=299808132,Søbyveien 9B  1940 Bjørkelangen,0.00,0.00,01:22:08,00:57:16,57.04,00:58:46,00:37:31,37.85
+299658359,https://www.finn.no/realestate/homes/ad.html?finnkode=299658359,Kjølstadvegen 6  2160 Vormsund,0.00,0.00,01:17:06,00:46:28,51.56,01:00:39,00:35:15,36.25
+299898032,https://www.finn.no/realestate/homes/ad.html?finnkode=299898032,Hovinbakken 23  1900 Fetsund,0.00,0.00,00:37:37,00:30:33,27.30,00:20:14,00:10:48,8.11
+293509539,https://www.finn.no/realestate/homes/ad.html?finnkode=293509539,Harald Posts vei 27A  1930 Aurskog,0.00,0.00,01:02:21,00:50:12,47.99,00:43:59,00:30:27,28.79
+299670638,https://www.finn.no/realestate/homes/ad.html?finnkode=299670638,Trondheimsvegen - Kløfta 257  2040 Kløfta,0.00,0.00,00:39:36,00:35:10,36.43,00:36:27,00:22:35,17.47
+299384080,https://www.finn.no/realestate/homes/ad.html?finnkode=299384080,Spellmyrveien 13  1960 Løken,0.00,0.00,01:08:53,00:55:09,51.70,00:50:31,00:35:24,32.50
+299720176,https://www.finn.no/realestate/homes/ad.html?finnkode=299720176,Landskronaveien 201  2013 Skjetten,0.00,0.00,00:41:01,00:25:29,20.24,00:17:16,00:10:08,4.44
+289240376,https://www.finn.no/realestate/homes/ad.html?finnkode=289240376,Lilloveien 104  1925 Blaker,0.00,0.00,01:01:59,00:53:35,51.72,00:46:32,00:30:43,28.00
+292589594,https://www.finn.no/realestate/homes/ad.html?finnkode=292589594,Rovenveien 549B  1900 Fetsund,0.00,0.00,00:55:45,00:39:33,35.08,00:40:18,00:19:48,15.88
+294878494,https://www.finn.no/realestate/homes/ad.html?finnkode=294878494,Møllervegen 18A  2008 Fjerdingby,0.00,0.00,00:42:15,00:28:31,23.51,00:24:52,00:09:16,4.76
+295012038,https://www.finn.no/realestate/homes/ad.html?finnkode=295012038,Harald Hårfagres vei 38F  1412 Sofiemyr,0.00,0.00,00:34:24,00:21:07,14.78,00:56:35,00:31:59,34.19
+298921672,https://www.finn.no/realestate/homes/ad.html?finnkode=298921672,Øvre Drognesveg 10B  2150 Årnes,0.00,0.00,01:09:58,00:52:02,55.73,00:54:31,00:40:49,40.42
+298806691,https://www.finn.no/realestate/homes/ad.html?finnkode=298806691,Kollerøysveien 2  1425 Ski,0.00,0.00,00:42:24,00:30:20,25.46,00:57:27,00:41:58,40.78
+298785711,https://www.finn.no/realestate/homes/ad.html?finnkode=298785711,Angellstien 2  1960 Løken,0.00,0.00,01:05:33,00:53:31,50.90,00:47:11,00:33:47,31.71
+294105309,https://www.finn.no/realestate/homes/ad.html?finnkode=294105309,Laboveien 8  2013 Skjetten,0.00,0.00,00:47:27,00:26:25,18.03,00:25:05,00:12:50,6.49
+292377777,https://www.finn.no/realestate/homes/ad.html?finnkode=292377777,Haugenlia 22  2020 Skedsmokorset,0.00,0.00,00:34:44,00:25:44,26.40,00:23:00,00:13:32,8.22
+285011570,https://www.finn.no/realestate/homes/ad.html?finnkode=285011570,Salmakervegen 7  2033 Åsgreina,0.00,0.00,01:21:09,00:46:25,43.30,01:10:54,00:38:21,31.22
+272720024,https://www.finn.no/realestate/homes/ad.html?finnkode=272720024,Lysverkbakken 30  2015 Leirsund,0.00,0.00,00:35:40,00:29:59,26.28,00:19:13,00:11:29,6.68
+296730288,https://www.finn.no/realestate/homes/ad.html?finnkode=296730288,Øvre Drognesveg 12B  2150 Årnes,0.00,0.00,01:10:06,00:52:05,55.74,00:54:39,00:40:52,40.43
+294563749,https://www.finn.no/realestate/homes/ad.html?finnkode=294563749,Idrettsveien 112  1914 Ytre Enebakk,0.00,0.00,01:06:51,00:37:19,32.47,01:27:44,00:43:23,36.81
+297568279,https://www.finn.no/realestate/homes/ad.html?finnkode=297568279,Klokkerudåsen 3  1912 Enebakk,0.00,0.00,01:08:26,00:42:01,39.46,00:59:22,00:32:09,27.82
+296678583,https://www.finn.no/realestate/homes/ad.html?finnkode=296678583,Møllebakken 53  2056 Algarheim,0.00,0.00,00:46:13,00:43:16,48.78,00:51:01,00:34:19,31.82
+276758400,https://www.finn.no/realestate/homes/ad.html?finnkode=276758400,Ekebergveien 172  1912 Enebakk,0.00,0.00,01:25:37,00:43:26,40.88,01:02:05,00:32:54,29.25
+262412705,https://www.finn.no/realestate/homes/ad.html?finnkode=262412705,Markveien 2A  1940 Bjørkelangen,0.00,0.00,01:25:32,00:56:51,57.05,00:52:10,00:37:06,37.85
+269905063,https://www.finn.no/realestate/homes/ad.html?finnkode=269905063,Stenfeltskogen 24  1405 Langhus,0.00,0.00,00:57:20,00:25:26,22.34,00:59:47,00:32:34,36.39
+292617015,https://www.finn.no/realestate/homes/ad.html?finnkode=292617015,Jacobine Ryes vei 23  0987 Oslo,0.00,0.00,00:31:45,00:21:20,13.14,00:39:12,00:17:51,13.68
+291690117,https://www.finn.no/realestate/homes/ad.html?finnkode=291690117,Briskebyveien 22  1940 Bjørkelangen,0.00,0.00,01:26:47,00:57:12,57.22,00:54:25,00:37:28,38.02
+295553343,https://www.finn.no/realestate/homes/ad.html?finnkode=295553343,Jødalsvegen 368  2056 Algarheim,0.00,0.00,01:21:39,00:48:19,52.41,01:05:12,00:37:06,37.10
+287143927,https://www.finn.no/realestate/homes/ad.html?finnkode=287143927,Slattum terrasse 9D  1480 Slattum,0.00,0.00,00:49:55,00:26:40,19.04,00:44:36,00:18:56,11.69
+271258805,https://www.finn.no/realestate/homes/ad.html?finnkode=271258805,Fururingen 31B  2033 Åsgreina,0.00,0.00,01:20:40,00:46:14,42.78,01:10:48,00:34:16,27.16
+286441965,https://www.finn.no/realestate/homes/ad.html?finnkode=286441965,Kornveien 2  1940 Bjørkelangen,0.00,0.00,01:21:36,00:56:47,57.05,00:58:14,00:37:03,37.85
 280138822,https://www.finn.no/realestate/homes/ad.html?finnkode=280138822,Ignaveien 39  1912 Enebakk,0.00,0.00,01:08:32,00:41:50,39.74,00:57:29,00:30:28,27.59
-279751196,https://www.finn.no/realestate/homes/ad.html?finnkode=279751196,Vevelstadåsen 10  1405 Langhus,0.00,0.00,00:45:01,00:22:56,21.13,01:01:54,00:33:30,36.45
-270728326,https://www.finn.no/realestate/homes/ad.html?finnkode=270728326,Tærud Terrasse 10  2020 Skedsmokorset,0.00,0.00,00:56:35,00:26:21,27.34,00:39:12,00:15:01,8.54
-273130575,https://www.finn.no/realestate/homes/ad.html?finnkode=273130575,Snøggveien 7  1263 Oslo,0.00,0.00,00:33:16,00:18:49,10.80,00:49:14,00:32:45,29.52
-274036700,https://www.finn.no/realestate/homes/ad.html?finnkode=274036700,Ekebergveien 62  1912 Enebakk,0.00,0.00,01:11:08,00:41:37,39.68,01:02:02,00:31:07,28.04
-271218190,https://www.finn.no/realestate/homes/ad.html?finnkode=271218190,Skogliveien 4  3410 Sylling,0.00,0.00,02:54:13,00:46:21,48.10,03:04:14,01:00:18,68.12
+282812048,https://www.finn.no/realestate/homes/ad.html?finnkode=282812048,Vågliveien 26  1914 Ytre Enebakk,0.00,0.00,00:56:05,00:32:49,30.61,01:28:03,00:40:44,36.84
+281018530,https://www.finn.no/realestate/homes/ad.html?finnkode=281018530,Trallegangen 81  2030 Nannestad,0.00,0.00,01:02:55,00:52:31,57.20,00:50:28,00:42:26,35.48
+271010247,https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=271010247&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC,<missing address>,0.00,0.00,00:00:00,00:00:00,0.00,00:00:00,00:00:00,0.00

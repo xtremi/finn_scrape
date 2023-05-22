@@ -1,5 +1,413 @@
 {
   "houses": {
+    "209864156": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=209864156&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "209864156",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "210892176": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=210892176&lat=59.91298&lon=10.7339&radius=50000&price_collective_to=4300000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "210892176",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "216543127": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=216543127&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "216543127",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "254922579": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=254922579",
+      "id": "254922579",
+      "imgurl": "",
+      "address": "Welhavens vei 4, 1813 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55283,
+          "time1": 4332,
+          "dist2": 73214,
+          "time2": 6137
+        },
+        "driving": {
+          "dist1": 51903,
+          "time1": 2894,
+          "dist2": 62046,
+          "time2": 3891
+        }
+      }
+    },
+    "257879858": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=257879858&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "257879858",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "260037322": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=260037322",
+      "id": "260037322",
+      "imgurl": "",
+      "address": "Ringeriksveien 9A, B og C, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 84350,
+          "time1": 6332,
+          "dist2": 101593,
+          "time2": 6868
+        },
+        "driving": {
+          "dist1": 86435,
+          "time1": 4546,
+          "dist2": 104336,
+          "time2": 5840
+        }
+      }
+    },
+    "262412705": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=262412705",
+      "id": "262412705",
+      "imgurl": "",
+      "address": "Markveien 2A, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67699,
+          "time1": 5132,
+          "dist2": 37876,
+          "time2": 3130
+        },
+        "driving": {
+          "dist1": 57051,
+          "time1": 3411,
+          "dist2": 37855,
+          "time2": 2226
+        }
+      }
+    },
+    "262944889": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=262944889",
+      "id": "262944889",
+      "imgurl": "",
+      "address": "Langeløkka 11A, 3039 Drammen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 48064,
+          "time1": 4503,
+          "dist2": 65307,
+          "time2": 5104
+        },
+        "driving": {
+          "dist1": 49484,
+          "time1": 2492,
+          "dist2": 69511,
+          "time2": 3328
+        }
+      }
+    },
+    "264720779": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=264720779",
+      "id": "264720779",
+      "imgurl": "",
+      "address": "Sagveien 4, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 85912,
+          "time1": 7095,
+          "dist2": 103155,
+          "time2": 7696
+        },
+        "driving": {
+          "dist1": 88514,
+          "time1": 4645,
+          "dist2": 108541,
+          "time2": 5482
+        }
+      }
+    },
+    "267818023": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=267818023",
+      "id": "267818023",
+      "imgurl": "",
+      "address": "Støalandet 12, 3513 Hønefoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57179,
+          "time1": 6259,
+          "dist2": 73968,
+          "time2": 6969
+        },
+        "driving": {
+          "dist1": 61133,
+          "time1": 3683,
+          "dist2": 78907,
+          "time2": 4541
+        }
+      }
+    },
+    "269137029": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=269137029",
+      "id": "269137029",
+      "imgurl": "",
+      "address": "Kykkelsrudveien 143, 1815 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58819,
+          "time1": 5509,
+          "dist2": 76379,
+          "time2": 6494
+        },
+        "driving": {
+          "dist1": 50147,
+          "time1": 2769,
+          "dist2": 68731,
+          "time2": 3377
+        }
+      }
+    },
+    "269293896": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=269293896",
+      "id": "269293896",
+      "imgurl": "",
+      "address": "Klevjerveien 133, 3039 Drammen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 71989,
+          "time1": 5680,
+          "dist2": 89232,
+          "time2": 6216
+        },
+        "driving": {
+          "dist1": 51943,
+          "time1": 2626,
+          "dist2": 71970,
+          "time2": 3469
+        }
+      }
+    },
+    "269877473": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=269877473",
+      "id": "269877473",
+      "imgurl": "",
+      "address": "Mor Smes veg 6E, 2008 Fjerdingby",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 21707,
+          "time1": 2011,
+          "dist2": 4078,
+          "time2": 909
+        },
+        "driving": {
+          "dist1": 22489,
+          "time1": 1589,
+          "dist2": 3737,
+          "time2": 426
+        }
+      }
+    },
+    "269905063": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=269905063",
+      "id": "269905063",
+      "imgurl": "",
+      "address": "Stenfeltskogen 24, 1405 Langhus",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 20345,
+          "time1": 3440,
+          "dist2": 48880,
+          "time2": 3587
+        },
+        "driving": {
+          "dist1": 22336,
+          "time1": 1526,
+          "dist2": 36394,
+          "time2": 1954
+        }
+      }
+    },
+    "270399581": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=270399581",
+      "id": "270399581",
+      "imgurl": "",
+      "address": "Bøkveien 11, 3340 Åmot",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 77057,
+          "time1": 5917,
+          "dist2": 94300,
+          "time2": 6518
+        },
+        "driving": {
+          "dist1": 79258,
+          "time1": 4256,
+          "dist2": 99285,
+          "time2": 5092
+        }
+      }
+    },
+    "270505565": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=270505565",
+      "id": "270505565",
+      "imgurl": "",
+      "address": "Tangenvegen 2, 2054 Mogreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 53674,
+          "time1": 4424,
+          "dist2": 36034,
+          "time2": 3437
+        },
+        "driving": {
+          "dist1": 53803,
+          "time1": 2766,
+          "dist2": 37051,
+          "time2": 2286
+        }
+      }
+    },
+    "270618022": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=270618022",
+      "id": "270618022",
+      "imgurl": "",
+      "address": "Sjøveien 8 SVELVIK, 3060 Svelvik",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 83090,
+          "time1": 5810,
+          "dist2": 100333,
+          "time2": 6411
+        },
+        "driving": {
+          "dist1": 66647,
+          "time1": 3577,
+          "dist2": 86674,
+          "time2": 4414
+        }
+      }
+    },
     "270728326": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=270728326",
       "id": "270728326",
@@ -21,6 +429,78 @@
           "time1": 1581,
           "dist2": 8541,
           "time2": 901
+        }
+      }
+    },
+    "270859230": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=270859230",
+      "id": "270859230",
+      "imgurl": "",
+      "address": "Solsikkeveien 3B, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 91583,
+          "time1": 8934,
+          "dist2": 108826,
+          "time2": 9535
+        },
+        "driving": {
+          "dist1": 92323,
+          "time1": 4812,
+          "dist2": 112350,
+          "time2": 5648
+        }
+      }
+    },
+    "271010247": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=271010247&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC",
+      "id": "271010247",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "271020181": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=271020181",
+      "id": "271020181",
+      "imgurl": "",
+      "address": "Nedre Louisenbergvei 15C, 3340 Åmot",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 74759,
+          "time1": 6807,
+          "dist2": 92002,
+          "time2": 7408
+        },
+        "driving": {
+          "dist1": 77010,
+          "time1": 4146,
+          "dist2": 97037,
+          "time2": 4982
         }
       }
     },
@@ -48,6 +528,222 @@
         }
       }
     },
+    "271258805": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=271258805",
+      "id": "271258805",
+      "imgurl": "",
+      "address": "Fururingen 31B, 2033 Åsgreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45788,
+          "time1": 4840,
+          "dist2": 32090,
+          "time2": 4248
+        },
+        "driving": {
+          "dist1": 42781,
+          "time1": 2774,
+          "dist2": 27164,
+          "time2": 2056
+        }
+      }
+    },
+    "271371554": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=271371554",
+      "id": "271371554",
+      "imgurl": "",
+      "address": "Faldalsveien 10A, 1900 Fetsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 26235,
+          "time1": 1713,
+          "dist2": 8596,
+          "time2": 786
+        },
+        "driving": {
+          "dist1": 30927,
+          "time1": 2163,
+          "dist2": 9539,
+          "time2": 733
+        }
+      }
+    },
+    "271636951": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=271636951",
+      "id": "271636951",
+      "imgurl": "",
+      "address": "Stasjonsveien 39, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 68731,
+          "time1": 5275,
+          "dist2": 38908,
+          "time2": 3392
+        },
+        "driving": {
+          "dist1": 57706,
+          "time1": 3416,
+          "dist2": 38510,
+          "time2": 2248
+        }
+      }
+    },
+    "272000206": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=272000206",
+      "id": "272000206",
+      "imgurl": "",
+      "address": "Sandgata 54, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 86073,
+          "time1": 7170,
+          "dist2": 103316,
+          "time2": 7771
+        },
+        "driving": {
+          "dist1": 88676,
+          "time1": 4662,
+          "dist2": 108703,
+          "time2": 5498
+        }
+      }
+    },
+    "272037969": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=272037969",
+      "id": "272037969",
+      "imgurl": "",
+      "address": "Skulerudveien 11, 1970 Hemnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "272720024": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=272720024",
+      "id": "272720024",
+      "imgurl": "",
+      "address": "Lysverkbakken 30, 2015 Leirsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 24549,
+          "time1": 2140,
+          "dist2": 6909,
+          "time2": 1153
+        },
+        "driving": {
+          "dist1": 26279,
+          "time1": 1799,
+          "dist2": 6677,
+          "time2": 689
+        }
+      }
+    },
+    "272753818": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=272753818",
+      "id": "272753818",
+      "imgurl": "",
+      "address": "Sporpindveien 6B, 3340 Åmot",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 75929,
+          "time1": 5651,
+          "dist2": 93172,
+          "time2": 6252
+        },
+        "driving": {
+          "dist1": 78463,
+          "time1": 4119,
+          "dist2": 98490,
+          "time2": 4955
+        }
+      }
+    },
+    "273014405": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273014405",
+      "id": "273014405",
+      "imgurl": "",
+      "address": "Ericaveien 4, 3055 Krokstadelva",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54682,
+          "time1": 3938,
+          "dist2": 71925,
+          "time2": 4539
+        },
+        "driving": {
+          "dist1": 57315,
+          "time1": 2928,
+          "dist2": 77342,
+          "time2": 3765
+        }
+      }
+    },
+    "273048120": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273048120",
+      "id": "273048120",
+      "imgurl": "",
+      "address": "Råstadbakka 96, 2730 Lunner",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 62758,
+          "time1": 5350,
+          "dist2": 80215,
+          "time2": 6516
+        },
+        "driving": {
+          "dist1": 61513,
+          "time1": 3957,
+          "dist2": 54947,
+          "time2": 3471
+        }
+      }
+    },
     "273130575": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273130575",
       "id": "273130575",
@@ -69,6 +765,54 @@
           "time1": 1129,
           "dist2": 29521,
           "time2": 1965
+        }
+      }
+    },
+    "273150414": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273150414",
+      "id": "273150414",
+      "imgurl": "",
+      "address": "Sandgata 16, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 85654,
+          "time1": 6891,
+          "dist2": 102897,
+          "time2": 7492
+        },
+        "driving": {
+          "dist1": 88256,
+          "time1": 4609,
+          "dist2": 108283,
+          "time2": 5446
+        }
+      }
+    },
+    "273307214": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273307214",
+      "id": "273307214",
+      "imgurl": "",
+      "address": "Østre Ringvei 4, 1809 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55426,
+          "time1": 4522,
+          "dist2": 72986,
+          "time2": 5507
+        },
+        "driving": {
+          "dist1": 54106,
+          "time1": 2917,
+          "dist2": 60581,
+          "time2": 3740
         }
       }
     },
@@ -96,6 +840,102 @@
         }
       }
     },
+    "273630654": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273630654",
+      "id": "273630654",
+      "imgurl": "",
+      "address": "Bakkavegen 362, 3520 Jevnaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67842,
+          "time1": 6685,
+          "dist2": 85060,
+          "time2": 7623
+        },
+        "driving": {
+          "dist1": 70566,
+          "time1": 4231,
+          "dist2": 73808,
+          "time2": 4175
+        }
+      }
+    },
+    "273636388": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273636388",
+      "id": "273636388",
+      "imgurl": "",
+      "address": "Preståsen 3, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45655,
+          "time1": 3383,
+          "dist2": 28026,
+          "time2": 2340
+        },
+        "driving": {
+          "dist1": 47696,
+          "time1": 2947,
+          "dist2": 28500,
+          "time2": 1779
+        }
+      }
+    },
+    "273791418": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273791418",
+      "id": "273791418",
+      "imgurl": "",
+      "address": "Grindbråtan 10B, 1484 Hakadal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 27425,
+          "time1": 3248,
+          "dist2": 23908,
+          "time2": 3109
+        },
+        "driving": {
+          "dist1": 27919,
+          "time1": 2074,
+          "dist2": 21506,
+          "time2": 1626
+        }
+      }
+    },
+    "273955532": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=273955532",
+      "id": "273955532",
+      "imgurl": "",
+      "address": "Breidablikkveien 7B, 3340 Åmot",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 81778,
+          "time1": 7914,
+          "dist2": 99021,
+          "time2": 8515
+        },
+        "driving": {
+          "dist1": 78035,
+          "time1": 4275,
+          "dist2": 98062,
+          "time2": 5112
+        }
+      }
+    },
     "274036700": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=274036700",
       "id": "274036700",
@@ -117,6 +957,222 @@
           "time1": 2497,
           "dist2": 28043,
           "time2": 1867
+        }
+      }
+    },
+    "274108185": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=274108185",
+      "id": "274108185",
+      "imgurl": "",
+      "address": "Holoveien 452, 1827 Hobøl",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 87637,
+          "time1": 6890,
+          "dist2": 139013,
+          "time2": 9442
+        },
+        "driving": {
+          "dist1": 53734,
+          "time1": 2945,
+          "dist2": 72319,
+          "time2": 3561
+        }
+      }
+    },
+    "274134846": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=274134846&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC",
+      "id": "274134846",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "274688404": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=274688404",
+      "id": "274688404",
+      "imgurl": "",
+      "address": "Utrimarkveien 11, 3360 Geithus",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 81019,
+          "time1": 6242,
+          "dist2": 98262,
+          "time2": 6843
+        },
+        "driving": {
+          "dist1": 84451,
+          "time1": 4470,
+          "dist2": 104479,
+          "time2": 5307
+        }
+      }
+    },
+    "274697684": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=274697684&lat=59.91298&lon=10.7339&radius=50000&price_collective_to=4300000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "274697684",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "274908948": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=274908948",
+      "id": "274908948",
+      "imgurl": "",
+      "address": "Bråtehøgda 18, 1970 Hemnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 66232,
+          "time1": 5933,
+          "dist2": 48603,
+          "time2": 4890
+        },
+        "driving": {
+          "dist1": 63368,
+          "time1": 3900,
+          "dist2": 44173,
+          "time2": 2732
+        }
+      }
+    },
+    "275055896": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=275055896",
+      "id": "275055896",
+      "imgurl": "",
+      "address": "Gamle Rådhusgata 7B, 3050 Mjøndalen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 52755,
+          "time1": 3377,
+          "dist2": 69998,
+          "time2": 3978
+        },
+        "driving": {
+          "dist1": 56861,
+          "time1": 2840,
+          "dist2": 76888,
+          "time2": 3676
+        }
+      }
+    },
+    "275066525": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=275066525",
+      "id": "275066525",
+      "imgurl": "",
+      "address": "Hafsteinveien 10, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 51227,
+          "time1": 4702,
+          "dist2": 33598,
+          "time2": 3659
+        },
+        "driving": {
+          "dist1": 51886,
+          "time1": 3221,
+          "dist2": 32690,
+          "time2": 2053
+        }
+      }
+    },
+    "276496115": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=276496115",
+      "id": "276496115",
+      "imgurl": "",
+      "address": "Sandebuktveien 384, 3077 Sande i Vestfold",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 74356,
+          "time1": 5108,
+          "dist2": 91599,
+          "time2": 5709
+        },
+        "driving": {
+          "dist1": 71819,
+          "time1": 3650,
+          "dist2": 91846,
+          "time2": 4487
+        }
+      }
+    },
+    "276758400": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=276758400",
+      "id": "276758400",
+      "imgurl": "",
+      "address": "Ekebergveien 172, 1912 Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 40897,
+          "time1": 5137,
+          "dist2": 33985,
+          "time2": 3725
+        },
+        "driving": {
+          "dist1": 40885,
+          "time1": 2606,
+          "dist2": 29246,
+          "time2": 1974
         }
       }
     },
@@ -144,6 +1200,366 @@
         }
       }
     },
+    "276997465": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=276997465",
+      "id": "276997465",
+      "imgurl": "",
+      "address": "Korsegårdveien 38A, 1809 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57574,
+          "time1": 4952,
+          "dist2": 75134,
+          "time2": 5937
+        },
+        "driving": {
+          "dist1": 54666,
+          "time1": 2967,
+          "dist2": 60249,
+          "time2": 3732
+        }
+      }
+    },
+    "277022682": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277022682",
+      "id": "277022682",
+      "imgurl": "",
+      "address": "Krokvegen 5, 1927 Rånåsfoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 42726,
+          "time1": 3134,
+          "dist2": 25198,
+          "time2": 2162
+        },
+        "driving": {
+          "dist1": 46376,
+          "time1": 2903,
+          "dist2": 26477,
+          "time2": 1881
+        }
+      }
+    },
+    "277083884": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277083884",
+      "id": "277083884",
+      "imgurl": "",
+      "address": "Hagaplassen 3, 1929 Auli",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 46954,
+          "time1": 3578,
+          "dist2": 29426,
+          "time2": 2671
+        },
+        "driving": {
+          "dist1": 49719,
+          "time1": 2990,
+          "dist2": 29842,
+          "time2": 2067
+        }
+      }
+    },
+    "277696836": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=277696836&lat=59.91298&lon=10.7339&radius=50000&price_collective_to=4300000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "277696836",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "277824724": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=277824724&lat=59.91298&lon=10.7339&radius=50000&price_collective_to=4300000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "277824724",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "277829878": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277829878",
+      "id": "277829878",
+      "imgurl": "",
+      "address": "Orresvingen 22, 2170 Fenstad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 85605,
+          "time1": 5150,
+          "dist2": 67966,
+          "time2": 4348
+        },
+        "driving": {
+          "dist1": 60472,
+          "time1": 3249,
+          "dist2": 47773,
+          "time2": 2546
+        }
+      }
+    },
+    "277870522": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277870522",
+      "id": "277870522",
+      "imgurl": "",
+      "address": "Tandbergåsen 44E, 3070 Sande i Vestfold",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 63577,
+          "time1": 4705,
+          "dist2": 80833,
+          "time2": 5601
+        },
+        "driving": {
+          "dist1": 59971,
+          "time1": 2944,
+          "dist2": 79998,
+          "time2": 3786
+        }
+      }
+    },
+    "277970199": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277970199",
+      "id": "277970199",
+      "imgurl": "",
+      "address": "Grindvollinna 32, 2730 Lunner",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 62619,
+          "time1": 5355,
+          "dist2": 80076,
+          "time2": 6521
+        },
+        "driving": {
+          "dist1": 61449,
+          "time1": 3818,
+          "dist2": 54883,
+          "time2": 3333
+        }
+      }
+    },
+    "277975454": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=277975454",
+      "id": "277975454",
+      "imgurl": "",
+      "address": "Rådyrveien 4, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55298,
+          "time1": 4779,
+          "dist2": 37669,
+          "time2": 3736
+        },
+        "driving": {
+          "dist1": 56401,
+          "time1": 3512,
+          "dist2": 37205,
+          "time2": 2344
+        }
+      }
+    },
+    "278027349": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=278027349",
+      "id": "278027349",
+      "imgurl": "",
+      "address": "Jomfru Møllers vei 1, 1542 Vestby",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 44828,
+          "time1": 2983,
+          "dist2": 62388,
+          "time2": 3968
+        },
+        "driving": {
+          "dist1": 40929,
+          "time1": 2331,
+          "dist2": 62398,
+          "time2": 3343
+        }
+      }
+    },
+    "278725911": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=278725911",
+      "id": "278725911",
+      "imgurl": "",
+      "address": "Fjordveien 15, 3490 Klokkarstua",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 53040,
+          "time1": 6002,
+          "dist2": 69965,
+          "time2": 6625
+        },
+        "driving": {
+          "dist1": 51345,
+          "time1": 3028,
+          "dist2": 69930,
+          "time2": 3644
+        }
+      }
+    },
+    "278878677": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=278878677",
+      "id": "278878677",
+      "imgurl": "",
+      "address": "Granåsveien 15B, 1809 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58457,
+          "time1": 5462,
+          "dist2": 76017,
+          "time2": 6447
+        },
+        "driving": {
+          "dist1": 55219,
+          "time1": 3053,
+          "dist2": 60468,
+          "time2": 3790
+        }
+      }
+    },
+    "279226278": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279226278",
+      "id": "279226278",
+      "imgurl": "",
+      "address": "Furuvegen 26, 3520 Jevnaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67023,
+          "time1": 6717,
+          "dist2": 83812,
+          "time2": 7427
+        },
+        "driving": {
+          "dist1": 69571,
+          "time1": 4197,
+          "dist2": 72813,
+          "time2": 4140
+        }
+      }
+    },
+    "279229167": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279229167",
+      "id": "279229167",
+      "imgurl": "",
+      "address": "Oterveien 16, 3370 Vikersund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 85191,
+          "time1": 6937,
+          "dist2": 102434,
+          "time2": 7538
+        },
+        "driving": {
+          "dist1": 86790,
+          "time1": 4621,
+          "dist2": 106817,
+          "time2": 5457
+        }
+      }
+    },
+    "279713571": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279713571",
+      "id": "279713571",
+      "imgurl": "",
+      "address": "Langstranda 632, 1970 Hemnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 71784,
+          "time1": 12520,
+          "dist2": 54155,
+          "time2": 11477
+        },
+        "driving": {
+          "dist1": 86678,
+          "time1": 4476,
+          "dist2": 49762,
+          "time2": 3047
+        }
+      }
+    },
     "279751196": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279751196",
       "id": "279751196",
@@ -165,6 +1581,54 @@
           "time1": 1376,
           "dist2": 36455,
           "time2": 2010
+        }
+      }
+    },
+    "279754378": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279754378",
+      "id": "279754378",
+      "imgurl": "",
+      "address": "Brødrene Bergs vei 18, 1592 Våler i Østfold",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 68471,
+          "time1": 5270,
+          "dist2": 86291,
+          "time2": 6505
+        },
+        "driving": {
+          "dist1": 55950,
+          "time1": 3089,
+          "dist2": 74535,
+          "time2": 3697
+        }
+      }
+    },
+    "279988184": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=279988184",
+      "id": "279988184",
+      "imgurl": "",
+      "address": "Gunnerudberget 20, 2162 Brårud",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 81612,
+          "time1": 4668,
+          "dist2": 64084,
+          "time2": 3696
+        },
+        "driving": {
+          "dist1": 57806,
+          "time1": 3056,
+          "dist2": 44435,
+          "time2": 2375
         }
       }
     },
@@ -192,6 +1656,30 @@
         }
       }
     },
+    "280226036": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280226036",
+      "id": "280226036",
+      "imgurl": "",
+      "address": "Westheims gate 4, 3515 Hønefoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56600,
+          "time1": 5817,
+          "dist2": 73389,
+          "time2": 6527
+        },
+        "driving": {
+          "dist1": 58612,
+          "time1": 3634,
+          "dist2": 78673,
+          "time2": 4554
+        }
+      }
+    },
     "280249352": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280249352",
       "id": "280249352",
@@ -213,6 +1701,78 @@
           "time1": 1512,
           "dist2": 3649,
           "time2": 475
+        }
+      }
+    },
+    "280292657": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280292657",
+      "id": "280292657",
+      "imgurl": "",
+      "address": "Østli 9B, 2054 Mogreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54362,
+          "time1": 4499,
+          "dist2": 36722,
+          "time2": 3512
+        },
+        "driving": {
+          "dist1": 56320,
+          "time1": 2834,
+          "dist2": 39568,
+          "time2": 2354
+        }
+      }
+    },
+    "280487508": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280487508",
+      "id": "280487508",
+      "imgurl": "",
+      "address": "Nordlivegen 24, 2070 Råholt",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 62866,
+          "time1": 3475,
+          "dist2": 45226,
+          "time2": 2608
+        },
+        "driving": {
+          "dist1": 56800,
+          "time1": 2825,
+          "dist2": 43429,
+          "time2": 2144
+        }
+      }
+    },
+    "280580677": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280580677",
+      "id": "280580677",
+      "imgurl": "",
+      "address": "Hengsleveien 22, 3515 Hønefoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57169,
+          "time1": 6228,
+          "dist2": 73958,
+          "time2": 6938
+        },
+        "driving": {
+          "dist1": 59182,
+          "time1": 3692,
+          "dist2": 78911,
+          "time2": 4588
         }
       }
     },
@@ -240,6 +1800,222 @@
         }
       }
     },
+    "280968919": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280968919",
+      "id": "280968919",
+      "imgurl": "",
+      "address": "Nyveien 816, 1963 Fosser",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 60855,
+          "time1": 6605,
+          "dist2": 43226,
+          "time2": 5562
+        },
+        "driving": {
+          "dist1": 66162,
+          "time1": 3842,
+          "dist2": 42735,
+          "time2": 2642
+        }
+      }
+    },
+    "280987218": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280987218",
+      "id": "280987218",
+      "imgurl": "",
+      "address": "Garverenga 6, 1929 Auli",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 46483,
+          "time1": 3554,
+          "dist2": 28955,
+          "time2": 2582
+        },
+        "driving": {
+          "dist1": 49055,
+          "time1": 2904,
+          "dist2": 29178,
+          "time2": 1986
+        }
+      }
+    },
+    "280991267": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=280991267",
+      "id": "280991267",
+      "imgurl": "",
+      "address": "Roseveien 3, 3520 Jevnaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 65987,
+          "time1": 6576,
+          "dist2": 83205,
+          "time2": 7514
+        },
+        "driving": {
+          "dist1": 68407,
+          "time1": 4130,
+          "dist2": 71648,
+          "time2": 4073
+        }
+      }
+    },
+    "281018530": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281018530",
+      "id": "281018530",
+      "imgurl": "",
+      "address": "Trallegangen 81, 2030 Nannestad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57621,
+          "time1": 3775,
+          "dist2": 40174,
+          "time2": 3028
+        },
+        "driving": {
+          "dist1": 57198,
+          "time1": 3151,
+          "dist2": 35478,
+          "time2": 2546
+        }
+      }
+    },
+    "281061086": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281061086",
+      "id": "281061086",
+      "imgurl": "",
+      "address": "Klekkenveien 147, 3514 Hønefoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 59445,
+          "time1": 6232,
+          "dist2": 76234,
+          "time2": 6942
+        },
+        "driving": {
+          "dist1": 58503,
+          "time1": 3479,
+          "dist2": 76001,
+          "time2": 4338
+        }
+      }
+    },
+    "281079368": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281079368",
+      "id": "281079368",
+      "imgurl": "",
+      "address": "Mimosavegen 10B, 2034 Holter",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 38962,
+          "time1": 4376,
+          "dist2": 25264,
+          "time2": 3784
+        },
+        "driving": {
+          "dist1": 39934,
+          "time1": 2636,
+          "dist2": 24318,
+          "time2": 1918
+        }
+      }
+    },
+    "281184382": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281184382",
+      "id": "281184382",
+      "imgurl": "",
+      "address": "Firemannsboligene 5B, 2056 Algarheim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 46390,
+          "time1": 2773,
+          "dist2": 45841,
+          "time2": 3061
+        },
+        "driving": {
+          "dist1": 48802,
+          "time1": 2662,
+          "dist2": 31820,
+          "time2": 2034
+        }
+      }
+    },
+    "281293133": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281293133",
+      "id": "281293133",
+      "imgurl": "",
+      "address": "Museumsveien 34, 1809 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56785,
+          "time1": 5411,
+          "dist2": 74573,
+          "time2": 8083
+        },
+        "driving": {
+          "dist1": 54846,
+          "time1": 3008,
+          "dist2": 59881,
+          "time2": 3730
+        }
+      }
+    },
+    "281399028": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281399028",
+      "id": "281399028",
+      "imgurl": "",
+      "address": "Hilton 40E, 2040 Kløfta",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 35022,
+          "time1": 2429,
+          "dist2": 17541,
+          "time2": 2477
+        },
+        "driving": {
+          "dist1": 32909,
+          "time1": 2071,
+          "dist2": 14799,
+          "time2": 1170
+        }
+      }
+    },
     "281401041": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281401041",
       "id": "281401041",
@@ -261,6 +2037,150 @@
           "time1": 2071,
           "dist2": 56487,
           "time2": 2908
+        }
+      }
+    },
+    "281451587": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281451587",
+      "id": "281451587",
+      "imgurl": "",
+      "address": "Skibrekkveien 190, 3330 Skotselv",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 74879,
+          "time1": 7852,
+          "dist2": 92122,
+          "time2": 8453
+        },
+        "driving": {
+          "dist1": 76856,
+          "time1": 4216,
+          "dist2": 96884,
+          "time2": 5052
+        }
+      }
+    },
+    "281457024": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281457024",
+      "id": "281457024",
+      "imgurl": "",
+      "address": "Tandbergvegen 63, 1929 Auli",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 44924,
+          "time1": 3644,
+          "dist2": 27396,
+          "time2": 2737
+        },
+        "driving": {
+          "dist1": 47049,
+          "time1": 2915,
+          "dist2": 27150,
+          "time2": 1892
+        }
+      }
+    },
+    "281916375": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=281916375",
+      "id": "281916375",
+      "imgurl": "",
+      "address": "Vammaveien 121, 1813 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55205,
+          "time1": 4439,
+          "dist2": 72765,
+          "time2": 5424
+        },
+        "driving": {
+          "dist1": 53777,
+          "time1": 2907,
+          "dist2": 65622,
+          "time2": 3832
+        }
+      }
+    },
+    "282032025": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282032025",
+      "id": "282032025",
+      "imgurl": "",
+      "address": "Runden 35, 2740 Roa",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55708,
+          "time1": 4751,
+          "dist2": 54445,
+          "time2": 5549
+        },
+        "driving": {
+          "dist1": 58006,
+          "time1": 3571,
+          "dist2": 51440,
+          "time2": 3105
+        }
+      }
+    },
+    "282063471": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282063471",
+      "id": "282063471",
+      "imgurl": "",
+      "address": "Stadionveien 13, 3340 Åmot",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 74408,
+          "time1": 5358,
+          "dist2": 91651,
+          "time2": 5894
+        },
+        "driving": {
+          "dist1": 76755,
+          "time1": 4195,
+          "dist2": 96782,
+          "time2": 5037
+        }
+      }
+    },
+    "282082611": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282082611",
+      "id": "282082611",
+      "imgurl": "",
+      "address": "Søndre Morstadgutua 3, 2750 Gran",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 66273,
+          "time1": 4652,
+          "dist2": 83730,
+          "time2": 5818
+        },
+        "driving": {
+          "dist1": 65013,
+          "time1": 4115,
+          "dist2": 58447,
+          "time2": 3630
         }
       }
     },
@@ -288,6 +2208,30 @@
         }
       }
     },
+    "282174414": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282174414",
+      "id": "282174414",
+      "imgurl": "",
+      "address": "Stubben 5, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58905,
+          "time1": 5304,
+          "dist2": 41276,
+          "time2": 4261
+        },
+        "driving": {
+          "dist1": 59977,
+          "time1": 3728,
+          "dist2": 40781,
+          "time2": 2560
+        }
+      }
+    },
     "282175716": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282175716",
       "id": "282175716",
@@ -312,6 +2256,102 @@
         }
       }
     },
+    "282186218": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282186218",
+      "id": "282186218",
+      "imgurl": "",
+      "address": "Hov alle 15A, 3515 Hønefoss",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57743,
+          "time1": 5996,
+          "dist2": 74532,
+          "time2": 6706
+        },
+        "driving": {
+          "dist1": 59798,
+          "time1": 3785,
+          "dist2": 77024,
+          "time2": 4328
+        }
+      }
+    },
+    "282187800": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282187800",
+      "id": "282187800",
+      "imgurl": "",
+      "address": "Bergermotunet 21, 3520 Jevnaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 66172,
+          "time1": 6583,
+          "dist2": 82961,
+          "time2": 7293
+        },
+        "driving": {
+          "dist1": 68086,
+          "time1": 4116,
+          "dist2": 71327,
+          "time2": 4059
+        }
+      }
+    },
+    "282265730": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282265730",
+      "id": "282265730",
+      "imgurl": "",
+      "address": "Måltrostveien 14 SON, 1555 Son",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54405,
+          "time1": 3142,
+          "dist2": 71965,
+          "time2": 4127
+        },
+        "driving": {
+          "dist1": 51410,
+          "time1": 2761,
+          "dist2": 69995,
+          "time2": 3368
+        }
+      }
+    },
+    "282291266": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282291266",
+      "id": "282291266",
+      "imgurl": "",
+      "address": "Tors vei 9, 1811 Askim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55735,
+          "time1": 4788,
+          "dist2": 73295,
+          "time2": 5773
+        },
+        "driving": {
+          "dist1": 54173,
+          "time1": 2970,
+          "dist2": 60995,
+          "time2": 3800
+        }
+      }
+    },
     "282447799": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282447799",
       "id": "282447799",
@@ -333,6 +2373,30 @@
           "time1": 2675,
           "dist2": 62438,
           "time2": 3512
+        }
+      }
+    },
+    "282790547": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=282790547",
+      "id": "282790547",
+      "imgurl": "",
+      "address": "Lensmannsstien 102, 3030 Drammen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 47112,
+          "time1": 3895,
+          "dist2": 64355,
+          "time2": 4496
+        },
+        "driving": {
+          "dist1": 49766,
+          "time1": 2794,
+          "dist2": 69794,
+          "time2": 3630
         }
       }
     },
@@ -384,6 +2448,54 @@
         }
       }
     },
+    "283782903": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=283782903",
+      "id": "283782903",
+      "imgurl": "",
+      "address": "Trondheimsvegen 955, 2054 Mogreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 61653,
+          "time1": 2967,
+          "dist2": 44013,
+          "time2": 2165
+        },
+        "driving": {
+          "dist1": 58675,
+          "time1": 2885,
+          "dist2": 45304,
+          "time2": 2206
+        }
+      }
+    },
+    "284298753": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284298753",
+      "id": "284298753",
+      "imgurl": "",
+      "address": "Bakkelivegen 18B, 3520 Jevnaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67763,
+          "time1": 6531,
+          "dist2": 84552,
+          "time2": 7241
+        },
+        "driving": {
+          "dist1": 70059,
+          "time1": 4272,
+          "dist2": 73301,
+          "time2": 4215
+        }
+      }
+    },
     "284441294": {
       "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284441294",
       "id": "284441294",
@@ -405,6 +2517,126 @@
           "time1": 1217,
           "dist2": 13448,
           "time2": 1248
+        }
+      }
+    },
+    "284540163": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284540163",
+      "id": "284540163",
+      "imgurl": "",
+      "address": "Tulipanvegen 69, 2034 Holter",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 41013,
+          "time1": 4625,
+          "dist2": 25768,
+          "time2": 4010
+        },
+        "driving": {
+          "dist1": 40058,
+          "time1": 2633,
+          "dist2": 27976,
+          "time2": 2149
+        }
+      }
+    },
+    "284618077": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284618077",
+      "id": "284618077",
+      "imgurl": "",
+      "address": "Gamle Hadelandsveg 127, 2032 Maura",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 68156,
+          "time1": 5053,
+          "dist2": 46624,
+          "time2": 3378
+        },
+        "driving": {
+          "dist1": 60334,
+          "time1": 3165,
+          "dist2": 46963,
+          "time2": 2486
+        }
+      }
+    },
+    "284625213": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284625213",
+      "id": "284625213",
+      "imgurl": "",
+      "address": "Kvernstuveien 17A, 1482 Nittedal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 23698,
+          "time1": 3131,
+          "dist2": 19414,
+          "time2": 2969
+        },
+        "driving": {
+          "dist1": 23448,
+          "time1": 1800,
+          "dist2": 16882,
+          "time2": 1334
+        }
+      }
+    },
+    "284633580": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=284633580",
+      "id": "284633580",
+      "imgurl": "",
+      "address": "Hovbakken 9 KROKSTADELVA, 3055 Krokstadelva",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55163,
+          "time1": 6194,
+          "dist2": 72406,
+          "time2": 6730
+        },
+        "driving": {
+          "dist1": 59762,
+          "time1": 3150,
+          "dist2": 79789,
+          "time2": 3993
+        }
+      }
+    },
+    "285011570": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285011570",
+      "id": "285011570",
+      "imgurl": "",
+      "address": "Salmakervegen 7, 2033 Åsgreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 47784,
+          "time1": 4869,
+          "dist2": 32539,
+          "time2": 4254
+        },
+        "driving": {
+          "dist1": 43299,
+          "time1": 2785,
+          "dist2": 31217,
+          "time2": 2301
         }
       }
     },
@@ -431,25 +2663,2518 @@
           "time2": 1128
         }
       }
+    },
+    "285186312": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285186312",
+      "id": "285186312",
+      "imgurl": "",
+      "address": "Fergemannens vei 22, 1542 Vestby",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 44321,
+          "time1": 2969,
+          "dist2": 61881,
+          "time2": 3954
+        },
+        "driving": {
+          "dist1": 40803,
+          "time1": 2307,
+          "dist2": 62272,
+          "time2": 3320
+        }
+      }
+    },
+    "285192684": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285192684",
+      "id": "285192684",
+      "imgurl": "",
+      "address": "Lyngveien 36, 1825 Tomter",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 38531,
+          "time1": 2995,
+          "dist2": 56091,
+          "time2": 3980
+        },
+        "driving": {
+          "dist1": 40073,
+          "time1": 2595,
+          "dist2": 44842,
+          "time2": 2965
+        }
+      }
+    },
+    "285289529": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285289529",
+      "id": "285289529",
+      "imgurl": "",
+      "address": "Heer terrasse 36G, 1445 Drøbak",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 27986,
+          "time1": 2420,
+          "dist2": 45314,
+          "time2": 4218
+        },
+        "driving": {
+          "dist1": 31983,
+          "time1": 1980,
+          "dist2": 53451,
+          "time2": 2993
+        }
+      }
+    },
+    "285622175": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285622175",
+      "id": "285622175",
+      "imgurl": "",
+      "address": "Eidsliveien 61, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58849,
+          "time1": 5139,
+          "dist2": 41220,
+          "time2": 4096
+        },
+        "driving": {
+          "dist1": 59068,
+          "time1": 3579,
+          "dist2": 39872,
+          "time2": 2412
+        }
+      }
+    },
+    "285625846": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285625846",
+      "id": "285625846",
+      "imgurl": "",
+      "address": "Taietveien 25, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58256,
+          "time1": 5146,
+          "dist2": 38207,
+          "time2": 3740
+        },
+        "driving": {
+          "dist1": 57271,
+          "time1": 3429,
+          "dist2": 38075,
+          "time2": 2261
+        }
+      }
+    },
+    "285681323": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285681323",
+      "id": "285681323",
+      "imgurl": "",
+      "address": "Ullersmovegen 9A, 2040 Kløfta",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 34002,
+          "time1": 1917,
+          "dist2": 16488,
+          "time2": 1970
+        },
+        "driving": {
+          "dist1": 35240,
+          "time1": 2081,
+          "dist2": 16836,
+          "time2": 1322
+        }
+      }
+    },
+    "285781599": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285781599",
+      "id": "285781599",
+      "imgurl": "",
+      "address": "Sandumveien 219, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 59563,
+          "time1": 7360,
+          "dist2": 41934,
+          "time2": 6317
+        },
+        "driving": {
+          "dist1": 59261,
+          "time1": 3697,
+          "dist2": 40065,
+          "time2": 2529
+        }
+      }
+    },
+    "285806920": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285806920",
+      "id": "285806920",
+      "imgurl": "",
+      "address": "Ringvegen 21A, 2066 Jessheim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 41641,
+          "time1": 1950,
+          "dist2": 24127,
+          "time2": 1878
+        },
+        "driving": {
+          "dist1": 41937,
+          "time1": 2382,
+          "dist2": 25164,
+          "time2": 1796
+        }
+      }
+    },
+    "285863504": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285863504",
+      "id": "285863504",
+      "imgurl": "",
+      "address": "Nannestadvegen 162, 2030 Nannestad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 70801,
+          "time1": 4351,
+          "dist2": 43950,
+          "time2": 2856
+        },
+        "driving": {
+          "dist1": 52789,
+          "time1": 2691,
+          "dist2": 29746,
+          "time2": 2005
+        }
+      }
+    },
+    "285864723": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285864723",
+      "id": "285864723",
+      "imgurl": "",
+      "address": "Tistelvegen 7, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54437,
+          "time1": 4120,
+          "dist2": 36795,
+          "time2": 3258
+        },
+        "driving": {
+          "dist1": 59215,
+          "time1": 3754,
+          "dist2": 37209,
+          "time2": 2472
+        }
+      }
+    },
+    "285865879": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285865879",
+      "id": "285865879",
+      "imgurl": "",
+      "address": "Møllerstua 21, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56363,
+          "time1": 3996,
+          "dist2": 38721,
+          "time2": 3134
+        },
+        "driving": {
+          "dist1": 55713,
+          "time1": 3081,
+          "dist2": 40395,
+          "time2": 2754
+        }
+      }
+    },
+    "285934095": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=285934095",
+      "id": "285934095",
+      "imgurl": "",
+      "address": "Bogstadsvingen 12, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 48956,
+          "time1": 4119,
+          "dist2": 31327,
+          "time2": 3076
+        },
+        "driving": {
+          "dist1": 49525,
+          "time1": 3020,
+          "dist2": 30329,
+          "time2": 1852
+        }
+      }
+    },
+    "286280080": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286280080",
+      "id": "286280080",
+      "imgurl": "",
+      "address": "Fjellveien 23, 1820 Spydeberg",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 47010,
+          "time1": 4192,
+          "dist2": 64941,
+          "time2": 5997
+        },
+        "driving": {
+          "dist1": 45252,
+          "time1": 2587,
+          "dist2": 72706,
+          "time2": 4215
+        }
+      }
+    },
+    "286392687": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286392687",
+      "id": "286392687",
+      "imgurl": "",
+      "address": "Åsvegen 676, 2030 Nannestad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 64360,
+          "time1": 4123,
+          "dist2": 46760,
+          "time2": 3883
+        },
+        "driving": {
+          "dist1": 49548,
+          "time1": 3116,
+          "dist2": 33347,
+          "time2": 2379
+        }
+      }
+    },
+    "286441965": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286441965",
+      "id": "286441965",
+      "imgurl": "",
+      "address": "Kornveien 2, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56581,
+          "time1": 4896,
+          "dist2": 38697,
+          "time2": 3494
+        },
+        "driving": {
+          "dist1": 57047,
+          "time1": 3407,
+          "dist2": 37851,
+          "time2": 2223
+        }
+      }
+    },
+    "286610723": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286610723",
+      "id": "286610723",
+      "imgurl": "",
+      "address": "Nybråtenveien 6, 1859 Slitu",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 61033,
+          "time1": 6333,
+          "dist2": 78821,
+          "time2": 9005
+        },
+        "driving": {
+          "dist1": 59189,
+          "time1": 3125,
+          "dist2": 54751,
+          "time2": 3392
+        }
+      }
+    },
+    "286636588": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286636588",
+      "id": "286636588",
+      "imgurl": "",
+      "address": "Hovbakken 1 B, 3055 Krokstadelva",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 60284,
+          "time1": 5076,
+          "dist2": 77527,
+          "time2": 5612
+        },
+        "driving": {
+          "dist1": 59729,
+          "time1": 3144,
+          "dist2": 79756,
+          "time2": 3987
+        }
+      }
+    },
+    "286665161": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286665161",
+      "id": "286665161",
+      "imgurl": "",
+      "address": "ROMMISKOGEN 4, 0962 Oslo",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 12612,
+          "time1": 2008,
+          "dist2": 15247,
+          "time2": 2310
+        },
+        "driving": {
+          "dist1": 12190,
+          "time1": 1125,
+          "dist2": 17171,
+          "time2": 1248
+        }
+      }
+    },
+    "286929627": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=286929627",
+      "id": "286929627",
+      "imgurl": "",
+      "address": "Hølandsveien 15, 1860 Trøgstad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 69082,
+          "time1": 8688,
+          "dist2": 50762,
+          "time2": 4374
+        },
+        "driving": {
+          "dist1": 69142,
+          "time1": 3534,
+          "dist2": 46984,
+          "time2": 2899
+        }
+      }
+    },
+    "287037242": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=287037242",
+      "id": "287037242",
+      "imgurl": "",
+      "address": "Bråtenstubben 7B, 1900 Fetsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 29267,
+          "time1": 2929,
+          "dist2": 12697,
+          "time2": 2652
+        },
+        "driving": {
+          "dist1": 32299,
+          "time1": 2197,
+          "dist2": 13103,
+          "time2": 1012
+        }
+      }
+    },
+    "287143927": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=287143927",
+      "id": "287143927",
+      "imgurl": "",
+      "address": "Slattum terrasse 9D, 1480 Slattum",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 18829,
+          "time1": 2995,
+          "dist2": 14937,
+          "time2": 2676
+        },
+        "driving": {
+          "dist1": 19035,
+          "time1": 1600,
+          "dist2": 11686,
+          "time2": 1136
+        }
+      }
+    },
+    "289240376": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=289240376",
+      "id": "289240376",
+      "imgurl": "",
+      "address": "Lilloveien 104, 1925 Blaker",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 44199,
+          "time1": 3719,
+          "dist2": 26557,
+          "time2": 2792
+        },
+        "driving": {
+          "dist1": 51723,
+          "time1": 3215,
+          "dist2": 28005,
+          "time2": 1843
+        }
+      }
+    },
+    "291429854": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=291429854",
+      "id": "291429854",
+      "imgurl": "",
+      "address": "Harstadrøet 48, 2034 Holter",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 42699,
+          "time1": 5034,
+          "dist2": 29001,
+          "time2": 4442
+        },
+        "driving": {
+          "dist1": 39880,
+          "time1": 2613,
+          "dist2": 24263,
+          "time2": 1895
+        }
+      }
+    },
+    "291690117": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=291690117",
+      "id": "291690117",
+      "imgurl": "",
+      "address": "Briskebyveien 22, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 68642,
+          "time1": 5207,
+          "dist2": 38819,
+          "time2": 3265
+        },
+        "driving": {
+          "dist1": 57215,
+          "time1": 3432,
+          "dist2": 38019,
+          "time2": 2248
+        }
+      }
+    },
+    "292377777": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=292377777",
+      "id": "292377777",
+      "imgurl": "",
+      "address": "Haugenlia 22, 2020 Skedsmokorset",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 21139,
+          "time1": 2084,
+          "dist2": 7124,
+          "time2": 1380
+        },
+        "driving": {
+          "dist1": 26404,
+          "time1": 1544,
+          "dist2": 8222,
+          "time2": 812
+        }
+      }
+    },
+    "292589594": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=292589594",
+      "id": "292589594",
+      "imgurl": "",
+      "address": "Rovenveien 549B, 1900 Fetsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 32059,
+          "time1": 3345,
+          "dist2": 14417,
+          "time2": 2418
+        },
+        "driving": {
+          "dist1": 35079,
+          "time1": 2373,
+          "dist2": 15883,
+          "time2": 1188
+        }
+      }
+    },
+    "292617015": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=292617015",
+      "id": "292617015",
+      "imgurl": "",
+      "address": "Jacobine Ryes vei 23, 0987 Oslo",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 13499,
+          "time1": 1905,
+          "dist2": 10973,
+          "time2": 2352
+        },
+        "driving": {
+          "dist1": 13142,
+          "time1": 1280,
+          "dist2": 13678,
+          "time2": 1071
+        }
+      }
+    },
+    "293509539": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=293509539",
+      "id": "293509539",
+      "imgurl": "",
+      "address": "Harald Posts vei 27A, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45876,
+          "time1": 3741,
+          "dist2": 28247,
+          "time2": 2639
+        },
+        "driving": {
+          "dist1": 47988,
+          "time1": 3012,
+          "dist2": 28792,
+          "time2": 1827
+        }
+      }
+    },
+    "293833384": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=293833384",
+      "id": "293833384",
+      "imgurl": "",
+      "address": "Korshagen 12 B, 2020 Skedsmokorset",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 22212,
+          "time1": 2425,
+          "dist2": 7739,
+          "time2": 1653
+        },
+        "driving": {
+          "dist1": 23104,
+          "time1": 1558,
+          "dist2": 7488,
+          "time2": 840
+        }
+      }
+    },
+    "294105309": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=294105309",
+      "id": "294105309",
+      "imgurl": "",
+      "address": "Laboveien 8, 2013 Skjetten",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 17789,
+          "time1": 2847,
+          "dist2": 8124,
+          "time2": 1505
+        },
+        "driving": {
+          "dist1": 18032,
+          "time1": 1585,
+          "dist2": 6488,
+          "time2": 770
+        }
+      }
+    },
+    "294113246": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=294113246",
+      "id": "294113246",
+      "imgurl": "",
+      "address": "Fjellkroken 49D, 2022 Gjerdrum",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 34172,
+          "time1": 3803,
+          "dist2": 23984,
+          "time2": 3681
+        },
+        "driving": {
+          "dist1": 34980,
+          "time1": 2377,
+          "dist2": 19364,
+          "time2": 1659
+        }
+      }
+    },
+    "294250097": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=294250097",
+      "id": "294250097",
+      "imgurl": "",
+      "address": "Fossumberget 50, 0983 Oslo",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 13876,
+          "time1": 2115,
+          "dist2": 9565,
+          "time2": 2124
+        },
+        "driving": {
+          "dist1": 13944,
+          "time1": 1331,
+          "dist2": 13445,
+          "time2": 1030
+        }
+      }
+    },
+    "294563749": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=294563749",
+      "id": "294563749",
+      "imgurl": "",
+      "address": "Idrettsveien 112, 1914 Ytre Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 32269,
+          "time1": 4011,
+          "dist2": 50734,
+          "time2": 5264
+        },
+        "driving": {
+          "dist1": 32468,
+          "time1": 2239,
+          "dist2": 36811,
+          "time2": 2603
+        }
+      }
+    },
+    "294878494": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=294878494",
+      "id": "294878494",
+      "imgurl": "",
+      "address": "Møllervegen 18A, 2008 Fjerdingby",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 22514,
+          "time1": 2535,
+          "dist2": 4887,
+          "time2": 1492
+        },
+        "driving": {
+          "dist1": 23514,
+          "time1": 1711,
+          "dist2": 4762,
+          "time2": 556
+        }
+      }
+    },
+    "295012038": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=295012038",
+      "id": "295012038",
+      "imgurl": "",
+      "address": "Harald Hårfagres vei 38F, 1412 Sofiemyr",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 14177,
+          "time1": 2064,
+          "dist2": 32970,
+          "time2": 3395
+        },
+        "driving": {
+          "dist1": 14782,
+          "time1": 1267,
+          "dist2": 34185,
+          "time2": 1919
+        }
+      }
+    },
+    "295530480": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=295530480&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "295530480",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "295553343": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=295553343",
+      "id": "295553343",
+      "imgurl": "",
+      "address": "Jødalsvegen 368, 2056 Algarheim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54104,
+          "time1": 4899,
+          "dist2": 36464,
+          "time2": 3912
+        },
+        "driving": {
+          "dist1": 52409,
+          "time1": 2899,
+          "dist2": 37098,
+          "time2": 2226
+        }
+      }
+    },
+    "296472707": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=296472707&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&page=2&sort=PUBLISHED_DESC",
+      "id": "296472707",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "296678583": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=296678583",
+      "id": "296678583",
+      "imgurl": "",
+      "address": "Møllebakken 53, 2056 Algarheim",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 46390,
+          "time1": 2773,
+          "dist2": 45841,
+          "time2": 3061
+        },
+        "driving": {
+          "dist1": 48776,
+          "time1": 2596,
+          "dist2": 31819,
+          "time2": 2059
+        }
+      }
+    },
+    "296730288": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=296730288",
+      "id": "296730288",
+      "imgurl": "",
+      "address": "Øvre Drognesveg 12B, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56692,
+          "time1": 4206,
+          "dist2": 39050,
+          "time2": 3279
+        },
+        "driving": {
+          "dist1": 55744,
+          "time1": 3125,
+          "dist2": 40434,
+          "time2": 2452
+        }
+      }
+    },
+    "297478274": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=297478274",
+      "id": "297478274",
+      "imgurl": "",
+      "address": "Steinlivegen 23, 1929 Auli",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45259,
+          "time1": 3803,
+          "dist2": 27617,
+          "time2": 2876
+        },
+        "driving": {
+          "dist1": 47247,
+          "time1": 2938,
+          "dist2": 27369,
+          "time2": 1991
+        }
+      }
+    },
+    "297568279": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=297568279",
+      "id": "297568279",
+      "imgurl": "",
+      "address": "Klokkerudåsen 3, 1912 Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 39475,
+          "time1": 4106,
+          "dist2": 31642,
+          "time2": 3562
+        },
+        "driving": {
+          "dist1": 39462,
+          "time1": 2521,
+          "dist2": 27823,
+          "time2": 1929
+        }
+      }
+    },
+    "297606277": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=297606277",
+      "id": "297606277",
+      "imgurl": "",
+      "address": "Smedstuvegen 54B, 2030 Nannestad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57312,
+          "time1": 3055,
+          "dist2": 39865,
+          "time2": 2608
+        },
+        "driving": {
+          "dist1": 55812,
+          "time1": 2981,
+          "dist2": 33757,
+          "time2": 2429
+        }
+      }
+    },
+    "298744160": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=298744160",
+      "id": "298744160",
+      "imgurl": "",
+      "address": "Måltrostveien 5, 1914 Ytre Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 30106,
+          "time1": 3552,
+          "dist2": 48570,
+          "time2": 4805
+        },
+        "driving": {
+          "dist1": 30199,
+          "time1": 2045,
+          "dist2": 37412,
+          "time2": 2639
+        }
+      }
+    },
+    "298785711": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=298785711",
+      "id": "298785711",
+      "imgurl": "",
+      "address": "Angellstien 2, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 49712,
+          "time1": 3933,
+          "dist2": 32083,
+          "time2": 2831
+        },
+        "driving": {
+          "dist1": 50904,
+          "time1": 3211,
+          "dist2": 31708,
+          "time2": 2027
+        }
+      }
+    },
+    "298806691": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=298806691",
+      "id": "298806691",
+      "imgurl": "",
+      "address": "Kollerøysveien 2, 1425 Ski",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 33741,
+          "time1": 2544,
+          "dist2": 49659,
+          "time2": 3447
+        },
+        "driving": {
+          "dist1": 25463,
+          "time1": 1820,
+          "dist2": 40785,
+          "time2": 2518
+        }
+      }
+    },
+    "298921672": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=298921672",
+      "id": "298921672",
+      "imgurl": "",
+      "address": "Øvre Drognesveg 10B, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56680,
+          "time1": 4198,
+          "dist2": 39038,
+          "time2": 3271
+        },
+        "driving": {
+          "dist1": 55732,
+          "time1": 3122,
+          "dist2": 40422,
+          "time2": 2449
+        }
+      }
+    },
+    "299384080": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299384080",
+      "id": "299384080",
+      "imgurl": "",
+      "address": "Spellmyrveien 13, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 50506,
+          "time1": 4133,
+          "dist2": 32877,
+          "time2": 3031
+        },
+        "driving": {
+          "dist1": 51697,
+          "time1": 3309,
+          "dist2": 32501,
+          "time2": 2124
+        }
+      }
+    },
+    "299658359": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299658359",
+      "id": "299658359",
+      "imgurl": "",
+      "address": "Kjølstadvegen 6, 2160 Vormsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55049,
+          "time1": 4626,
+          "dist2": 37409,
+          "time2": 3639
+        },
+        "driving": {
+          "dist1": 51558,
+          "time1": 2788,
+          "dist2": 36247,
+          "time2": 2115
+        }
+      }
+    },
+    "299670638": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299670638",
+      "id": "299670638",
+      "imgurl": "",
+      "address": "Trondheimsvegen - Kløfta 257, 2040 Kløfta",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 34504,
+          "time1": 2376,
+          "dist2": 16907,
+          "time2": 2187
+        },
+        "driving": {
+          "dist1": 36426,
+          "time1": 2110,
+          "dist2": 17473,
+          "time2": 1355
+        }
+      }
+    },
+    "299720176": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299720176",
+      "id": "299720176",
+      "imgurl": "",
+      "address": "Landskronaveien 201, 2013 Skjetten",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 18602,
+          "time1": 2461,
+          "dist2": 4734,
+          "time2": 1036
+        },
+        "driving": {
+          "dist1": 20240,
+          "time1": 1529,
+          "dist2": 4436,
+          "time2": 608
+        }
+      }
+    },
+    "299808132": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299808132",
+      "id": "299808132",
+      "imgurl": "",
+      "address": "Søbyveien 9B, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55867,
+          "time1": 4928,
+          "dist2": 37983,
+          "time2": 3526
+        },
+        "driving": {
+          "dist1": 57043,
+          "time1": 3436,
+          "dist2": 37847,
+          "time2": 2251
+        }
+      }
+    },
+    "299898032": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=299898032",
+      "id": "299898032",
+      "imgurl": "",
+      "address": "Hovinbakken 23, 1900 Fetsund",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 24837,
+          "time1": 2257,
+          "dist2": 7210,
+          "time2": 1214
+        },
+        "driving": {
+          "dist1": 27302,
+          "time1": 1833,
+          "dist2": 8106,
+          "time2": 648
+        }
+      }
+    },
+    "300647298": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=300647298",
+      "id": "300647298",
+      "imgurl": "",
+      "address": "Jutulveien 35, 2016 Frogner",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 4051,
+          "time1": 1193,
+          "dist2": 22779,
+          "time2": 2647
+        },
+        "driving": {
+          "dist1": 4327,
+          "time1": 660,
+          "dist2": 22892,
+          "time2": 1427
+        }
+      }
+    },
+    "300761657": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=300761657",
+      "id": "300761657",
+      "imgurl": "",
+      "address": "Villaveien 3A, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 57201,
+          "time1": 5028,
+          "dist2": 39318,
+          "time2": 3626
+        },
+        "driving": {
+          "dist1": 57722,
+          "time1": 3513,
+          "dist2": 38526,
+          "time2": 2328
+        }
+      }
+    },
+    "300785686": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=300785686",
+      "id": "300785686",
+      "imgurl": "",
+      "address": "Slattum terrasse 41D, 1480 Slattum",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 19109,
+          "time1": 3219,
+          "dist2": 15217,
+          "time2": 2900
+        },
+        "driving": {
+          "dist1": 19361,
+          "time1": 1680,
+          "dist2": 12013,
+          "time2": 1216
+        }
+      }
+    },
+    "300785960": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=300785960",
+      "id": "300785960",
+      "imgurl": "",
+      "address": "Arteidveien 34, 2040 Kløfta",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 32998,
+          "time1": 1152,
+          "dist2": 15484,
+          "time2": 1140
+        },
+        "driving": {
+          "dist1": 34406,
+          "time1": 1913,
+          "dist2": 16440,
+          "time2": 1268
+        }
+      }
+    },
+    "300948336": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=300948336",
+      "id": "300948336",
+      "imgurl": "",
+      "address": "Einerhaugveien 2, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54841,
+          "time1": 4068,
+          "dist2": 37212,
+          "time2": 2966
+        },
+        "driving": {
+          "dist1": 56272,
+          "time1": 3324,
+          "dist2": 37076,
+          "time2": 2140
+        }
+      }
+    },
+    "301510227": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=301510227",
+      "id": "301510227",
+      "imgurl": "",
+      "address": "Ilebekkroken 14, 1963 Fosser",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "301530593": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=301530593",
+      "id": "301530593",
+      "imgurl": "",
+      "address": "Bliksrudstubben 38A, 1484 Hakadal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 27915,
+          "time1": 3635,
+          "dist2": 27795,
+          "time2": 4156
+        },
+        "driving": {
+          "dist1": 28409,
+          "time1": 2192,
+          "dist2": 21996,
+          "time2": 1744
+        }
+      }
+    },
+    "301896024": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=301896024",
+      "id": "301896024",
+      "imgurl": "",
+      "address": "Sletta 5, 1920 Sørumsand",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 34919,
+          "time1": 2543,
+          "dist2": 17391,
+          "time2": 1571
+        },
+        "driving": {
+          "dist1": 38899,
+          "time1": 2629,
+          "dist2": 19703,
+          "time2": 1444
+        }
+      }
+    },
+    "301954150": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=301954150",
+      "id": "301954150",
+      "imgurl": "",
+      "address": "F. E. Stabells veg 32, 2034 Holter",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 42570,
+          "time1": 4293,
+          "dist2": 32382,
+          "time2": 4171
+        },
+        "driving": {
+          "dist1": 38737,
+          "time1": 2464,
+          "dist2": 23120,
+          "time2": 1747
+        }
+      }
+    },
+    "301963388": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=301963388",
+      "id": "301963388",
+      "imgurl": "",
+      "address": "Kalkbrennerveien 57, 1487 Hakadal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 32738,
+          "time1": 4118,
+          "dist2": 29380,
+          "time2": 4039
+        },
+        "driving": {
+          "dist1": 33258,
+          "time1": 2551,
+          "dist2": 26845,
+          "time2": 2103
+        }
+      }
+    },
+    "302397481": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302397481",
+      "id": "302397481",
+      "imgurl": "",
+      "address": "Myrvoldveien 260, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45244,
+          "time1": 3269,
+          "dist2": 27615,
+          "time2": 2167
+        },
+        "driving": {
+          "dist1": 47356,
+          "time1": 2922,
+          "dist2": 28160,
+          "time2": 1737
+        }
+      }
+    },
+    "302476347": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302476347",
+      "id": "302476347",
+      "imgurl": "",
+      "address": "Nedre Bjertnes 11D, 1482 Nittedal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 22975,
+          "time1": 3139,
+          "dist2": 19459,
+          "time2": 3000
+        },
+        "driving": {
+          "dist1": 23493,
+          "time1": 1865,
+          "dist2": 17080,
+          "time2": 1417
+        }
+      }
+    },
+    "302543495": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302543495",
+      "id": "302543495",
+      "imgurl": "",
+      "address": "Hedumveien 87, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 46920,
+          "time1": 3479,
+          "dist2": 29291,
+          "time2": 2377
+        },
+        "driving": {
+          "dist1": 48465,
+          "time1": 2988,
+          "dist2": 29269,
+          "time2": 1803
+        }
+      }
+    },
+    "302624073": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302624073",
+      "id": "302624073",
+      "imgurl": "",
+      "address": "Tårnbyveien 21, 2013 Skjetten",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 22577,
+          "time1": 2424,
+          "dist2": 4951,
+          "time2": 952
+        },
+        "driving": {
+          "dist1": 21032,
+          "time1": 1553,
+          "dist2": 3807,
+          "time2": 520
+        }
+      }
+    },
+    "302749184": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302749184",
+      "id": "302749184",
+      "imgurl": "",
+      "address": "Blåveisveien 6, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67278,
+          "time1": 5195,
+          "dist2": 37455,
+          "time2": 3133
+        },
+        "driving": {
+          "dist1": 56515,
+          "time1": 3369,
+          "dist2": 37320,
+          "time2": 2185
+        }
+      }
+    },
+    "302844716": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302844716",
+      "id": "302844716",
+      "imgurl": "",
+      "address": "Slattum terrasse 23B, 1480 Slattum",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 18871,
+          "time1": 3035,
+          "dist2": 14979,
+          "time2": 2716
+        },
+        "driving": {
+          "dist1": 19077,
+          "time1": 1607,
+          "dist2": 11729,
+          "time2": 1143
+        }
+      }
+    },
+    "302885251": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302885251",
+      "id": "302885251",
+      "imgurl": "",
+      "address": "Haresvingen 18, 1914 Ytre Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 28892,
+          "time1": 2989,
+          "dist2": 50518,
+          "time2": 4542
+        },
+        "driving": {
+          "dist1": 28965,
+          "time1": 1897,
+          "dist2": 38322,
+          "time2": 2638
+        }
+      }
+    },
+    "302891465": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302891465",
+      "id": "302891465",
+      "imgurl": "",
+      "address": "Uknavegen 55, 2040 Kløfta",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 37043,
+          "time1": 2636,
+          "dist2": 19529,
+          "time2": 3584
+        },
+        "driving": {
+          "dist1": 43208,
+          "time1": 2311,
+          "dist2": 20013,
+          "time2": 1566
+        }
+      }
+    },
+    "302912445": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302912445",
+      "id": "302912445",
+      "imgurl": "",
+      "address": "Fåmyrsrøet 8B, 2030 Nannestad",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 67021,
+          "time1": 5037,
+          "dist2": 49382,
+          "time2": 4170
+        },
+        "driving": {
+          "dist1": 61825,
+          "time1": 3358,
+          "dist2": 46515,
+          "time2": 2685
+        }
+      }
+    },
+    "302918748": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302918748",
+      "id": "302918748",
+      "imgurl": "",
+      "address": "Rogneveien 10, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 54952,
+          "time1": 4147,
+          "dist2": 37323,
+          "time2": 3045
+        },
+        "driving": {
+          "dist1": 56384,
+          "time1": 3355,
+          "dist2": 37188,
+          "time2": 2171
+        }
+      }
+    },
+    "302953573": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=302953573",
+      "id": "302953573",
+      "imgurl": "",
+      "address": "Feviksvingen 44B, 2033 Åsgreina",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45595,
+          "time1": 5080,
+          "dist2": 31897,
+          "time2": 4488
+        },
+        "driving": {
+          "dist1": 42629,
+          "time1": 2755,
+          "dist2": 27013,
+          "time2": 2037
+        }
+      }
+    },
+    "303169617": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303169617",
+      "id": "303169617",
+      "imgurl": "",
+      "address": "Rødkløverveien 7A, 2016 Frogner",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 29406,
+          "time1": 2226,
+          "dist2": 11767,
+          "time2": 1239
+        },
+        "driving": {
+          "dist1": 30333,
+          "time1": 1830,
+          "dist2": 12244,
+          "time2": 1007
+        }
+      }
+    },
+    "303208845": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303208845",
+      "id": "303208845",
+      "imgurl": "",
+      "address": "Langhussenteret 7, 1405 Langhus",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 30356,
+          "time1": 2247,
+          "dist2": 47916,
+          "time2": 3167
+        },
+        "driving": {
+          "dist1": 24230,
+          "time1": 1720,
+          "dist2": 36514,
+          "time2": 2049
+        }
+      }
+    },
+    "303214984": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303214984",
+      "id": "303214984",
+      "imgurl": "",
+      "address": "Finstadlia 175, 1475 Finstadjordet",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 16279,
+          "time1": 2709,
+          "dist2": 9548,
+          "time2": 1636
+        },
+        "driving": {
+          "dist1": 17710,
+          "time1": 1387,
+          "dist2": 8350,
+          "time2": 661
+        }
+      }
+    },
+    "303288777": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303288777",
+      "id": "303288777",
+      "imgurl": "",
+      "address": "Fjuklia 14, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56553,
+          "time1": 4130,
+          "dist2": 38911,
+          "time2": 3203
+        },
+        "driving": {
+          "dist1": 55588,
+          "time1": 3064,
+          "dist2": 40278,
+          "time2": 2391
+        }
+      }
+    },
+    "303305710": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303305710",
+      "id": "303305710",
+      "imgurl": "",
+      "address": "Sagstuveien 7C, 1405 Langhus",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 20830,
+          "time1": 2225,
+          "dist2": 38355,
+          "time2": 3238
+        },
+        "driving": {
+          "dist1": 23358,
+          "time1": 1596,
+          "dist2": 37416,
+          "time2": 2024
+        }
+      }
+    },
+    "303305777": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303305777",
+      "id": "303305777",
+      "imgurl": "",
+      "address": "Bergstien 6, 1963 Fosser",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 58068,
+          "time1": 4993,
+          "dist2": 40439,
+          "time2": 3891
+        },
+        "driving": {
+          "dist1": 58432,
+          "time1": 3811,
+          "dist2": 39237,
+          "time2": 2626
+        }
+      }
+    },
+    "303308622": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303308622",
+      "id": "303308622",
+      "imgurl": "",
+      "address": "Lokshaugveien 309, 1930 Aurskog",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 50036,
+          "time1": 5200,
+          "dist2": 32407,
+          "time2": 4098
+        },
+        "driving": {
+          "dist1": 51464,
+          "time1": 3165,
+          "dist2": 32269,
+          "time2": 1981
+        }
+      }
+    },
+    "303310114": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303310114",
+      "id": "303310114",
+      "imgurl": "",
+      "address": "Egnehjemveien 17, 1466 Strømmen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 19967,
+          "time1": 2153,
+          "dist2": 2339,
+          "time2": 810
+        },
+        "driving": {
+          "dist1": 24827,
+          "time1": 1602,
+          "dist2": 2324,
+          "time2": 389
+        }
+      }
+    },
+    "303319230": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303319230",
+      "id": "303319230",
+      "imgurl": "",
+      "address": "Tokerudberget 25, 0986 Oslo",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 13505,
+          "time1": 1900,
+          "dist2": 10362,
+          "time2": 2404
+        },
+        "driving": {
+          "dist1": 14121,
+          "time1": 1377,
+          "dist2": 14657,
+          "time2": 1168
+        }
+      }
+    },
+    "303395022": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303395022",
+      "id": "303395022",
+      "imgurl": "",
+      "address": "Rugveien 4A, 1912 Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 40041,
+          "time1": 4310,
+          "dist2": 31831,
+          "time2": 3647
+        },
+        "driving": {
+          "dist1": 40022,
+          "time1": 2627,
+          "dist2": 27870,
+          "time2": 1983
+        }
+      }
+    },
+    "303400647": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303400647",
+      "id": "303400647",
+      "imgurl": "",
+      "address": "Liljeveien 19C, 1487 Hakadal",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 31863,
+          "time1": 4021,
+          "dist2": 28506,
+          "time2": 3942
+        },
+        "driving": {
+          "dist1": 32303,
+          "time1": 2456,
+          "dist2": 25890,
+          "time2": 2008
+        }
+      }
+    },
+    "303458667": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303458667",
+      "id": "303458667",
+      "imgurl": "",
+      "address": "Nylandveien 66, 1923 Sørum",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
+    },
+    "303624802": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303624802",
+      "id": "303624802",
+      "imgurl": "",
+      "address": "Landskronaveien 202, 2013 Skjetten",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 18550,
+          "time1": 2418,
+          "dist2": 4732,
+          "time2": 1040
+        },
+        "driving": {
+          "dist1": 20239,
+          "time1": 1526,
+          "dist2": 4435,
+          "time2": 605
+        }
+      }
+    },
+    "303642136": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303642136",
+      "id": "303642136",
+      "imgurl": "",
+      "address": "Åsenhagen 8A, 2020 Skedsmokorset",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 23149,
+          "time1": 2506,
+          "dist2": 8075,
+          "time2": 1314
+        },
+        "driving": {
+          "dist1": 23882,
+          "time1": 1604,
+          "dist2": 8266,
+          "time2": 886
+        }
+      }
+    },
+    "303664269": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303664269",
+      "id": "303664269",
+      "imgurl": "",
+      "address": "Vestliveien 9, 1960 Løken",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 9100,
+          "time1": 1809,
+          "dist2": 30029,
+          "time2": 2911
+        },
+        "driving": {
+          "dist1": 10985,
+          "time1": 1083,
+          "dist2": 30795,
+          "time2": 1939
+        }
+      }
+    },
+    "303700355": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303700355",
+      "id": "303700355",
+      "imgurl": "",
+      "address": "Taietveien 27, 1940 Bjørkelangen",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 56624,
+          "time1": 5399,
+          "dist2": 38995,
+          "time2": 4297
+        },
+        "driving": {
+          "dist1": 58141,
+          "time1": 3596,
+          "dist2": 38945,
+          "time2": 2412
+        }
+      }
+    },
+    "303721769": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303721769",
+      "id": "303721769",
+      "imgurl": "",
+      "address": "Lundsgutua 6, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 52706,
+          "time1": 4157,
+          "dist2": 35064,
+          "time2": 3230
+        },
+        "driving": {
+          "dist1": 60285,
+          "time1": 3407,
+          "dist2": 36145,
+          "time2": 2463
+        }
+      }
+    },
+    "303744410": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303744410",
+      "id": "303744410",
+      "imgurl": "",
+      "address": "Klokkerudåsen 17, 1912 Enebakk",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 39679,
+          "time1": 4244,
+          "dist2": 31846,
+          "time2": 3700
+        },
+        "driving": {
+          "dist1": 39666,
+          "time1": 2547,
+          "dist2": 28027,
+          "time2": 1955
+        }
+      }
+    },
+    "303749128": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303749128",
+      "id": "303749128",
+      "imgurl": "",
+      "address": "Vevelstadåsen 20, 1405 Langhus",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 21423,
+          "time1": 2676,
+          "dist2": 38948,
+          "time2": 3689
+        },
+        "driving": {
+          "dist1": 24391,
+          "time1": 1763,
+          "dist2": 36411,
+          "time2": 2063
+        }
+      }
+    },
+    "303817382": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303817382",
+      "id": "303817382",
+      "imgurl": "",
+      "address": "Røsslyngvegen 26B, 2150 Årnes",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 55574,
+          "time1": 4466,
+          "dist2": 37932,
+          "time2": 3539
+        },
+        "driving": {
+          "dist1": 58752,
+          "time1": 3314,
+          "dist2": 37928,
+          "time2": 2584
+        }
+      }
+    },
+    "303986240": {
+      "url": "https://www.finn.no/realestate/homes/ad.html?finnkode=303986240",
+      "id": "303986240",
+      "imgurl": "",
+      "address": "Myrvegen 18, 1929 Auli",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 45540,
+          "time1": 4039,
+          "dist2": 27898,
+          "time2": 3112
+        },
+        "driving": {
+          "dist1": 48146,
+          "time1": 3078,
+          "dist2": 28268,
+          "time2": 2131
+        }
+      }
+    },
+    "": {
+      "url": "https://www.finn.no/eiendom/nybygg/prosjekt?finnkode=209864156&lat=59.956823622105304&lon=11.055482554633187&radius=30000&price_collective_to=5000000&area_from=110&sort=PUBLISHED_DESC",
+      "id": "",
+      "imgurl": "",
+      "address": "<missing address>",
+      "description": "<missing description>",
+      "details": {},
+      "area": 0,
+      "price": 0,
+      "travel_details": {
+        "transit": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        },
+        "driving": {
+          "dist1": 0,
+          "time1": 0,
+          "dist2": 0,
+          "time2": 0
+        }
+      }
     }
   },
   "ids": [
+    "209864156",
+    "",
+    "303395022",
+    "303744410",
+    "303308622",
+    "303749128",
+    "303986240",
+    "210892176",
+    "287037242",
+    "302918748",
+    "303817382",
+    "303700355",
+    "303664269",
+    "303721769",
+    "297606277",
+    "303642136",
+    "295530480",
+    "303624802",
+    "216543127",
+    "303458667",
+    "303400647",
+    "302543495",
+    "303310114",
+    "293833384",
+    "303288777",
+    "302397481",
+    "303208845",
+    "302749184",
+    "303319230",
+    "303305777",
+    "303305710",
+    "303214984",
+    "303169617",
+    "302476347",
+    "302885251",
+    "281079368",
+    "302912445",
+    "302624073",
+    "302953573",
+    "302891465",
+    "302844716",
+    "294113246",
+    "257879858",
+    "291429854",
+    "298744160",
+    "301954150",
+    "301963388",
+    "301896024",
+    "294250097",
+    "301510227",
+    "297478274",
+    "301530593",
+    "300785960",
+    "300948336",
+    "273791418",
+    "300785686",
+    "300761657",
+    "300647298",
+    "274134846",
+    "296472707",
+    "299808132",
+    "299658359",
+    "299898032",
+    "293509539",
+    "299670638",
+    "299384080",
+    "299720176",
+    "289240376",
+    "292589594",
+    "294878494",
+    "295012038",
+    "298921672",
+    "298806691",
+    "298785711",
+    "294105309",
+    "292377777",
+    "285011570",
+    "272720024",
+    "296730288",
+    "294563749",
+    "297568279",
+    "296678583",
+    "276758400",
+    "262412705",
+    "269905063",
+    "292617015",
+    "291690117",
+    "295553343",
+    "287143927",
+    "271258805",
+    "286441965",
+    "280138822",
+    "282812048",
+    "281018530",
+    "271010247",
+    "281457024",
+    "271371554",
+    "277022682",
+    "274108185",
+    "254922579",
+    "286929627",
+    "281399028",
+    "286665161",
+    "279988184",
+    "280292657",
+    "281293133",
+    "286636588",
+    "281184382",
+    "286610723",
+    "270505565",
+    "282032025",
+    "269293896",
+    "284633580",
+    "286392687",
+    "280987218",
+    "286280080",
+    "282063471",
+    "280487508",
+    "278725911",
+    "284625213",
+    "285806920",
+    "269877473",
+    "277870522",
+    "280226036",
+    "279754378",
+    "285934095",
+    "285864723",
+    "285865879",
+    "284540163",
+    "281061086",
+    "285863504",
+    "285781599",
+    "272037969",
+    "285186312",
+    "284618077",
+    "285681323",
+    "285622175",
+    "274908948",
+    "274697684",
+    "285192684",
+    "269137029",
+    "277824724",
+    "277696836",
+    "281916375",
+    "284298753",
+    "283782903",
+    "267818023",
+    "282187800",
+    "282186218",
+    "282265730",
+    "282291266",
+    "273150414",
+    "282174414",
+    "281451587",
+    "280968919",
+    "270618022",
+    "280580677",
+    "273636388",
+    "279751196",
+    "279713571",
+    "264720779",
+    "279229167",
+    "279226278",
+    "278878677",
+    "277083884",
+    "277975454",
+    "277970199",
+    "276997465",
+    "276496115",
+    "275055896",
+    "275066525",
+    "274688404",
+    "273630654",
+    "273955532",
+    "273307214",
+    "273048120",
+    "272753818",
+    "271636951",
+    "271020181",
+    "270859230",
+    "262944889",
+    "260037322",
+    "285625846",
+    "277829878",
+    "285289529",
+    "273014405",
+    "282790547",
+    "282082611",
+    "280991267",
+    "280620922",
+    "278027349",
+    "272000206",
+    "274036700",
+    "270399581",
     "285149844",
     "283758327",
-    "282812048",
     "282447799",
     "282090891",
     "282175716",
     "273620142",
     "281401041",
     "276976698",
-    "280620922",
     "280249352",
-    "280138822",
-    "279751196",
     "270728326",
     "273130575",
-    "274036700",
     "271218190",
     "284441294"
   ]

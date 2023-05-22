@@ -6,7 +6,7 @@ const util 		= require('util');
 var USE_GMAPS = true;
 
 var base_url = "https://www.finn.no/realestate/homes/search.html";
-base_url += "?&lat=59.91298&lon=10.7339";
+base_url += "?&lat=59.956823622105304&lon=11.055482554633187";
 
 
 console.log("Finn scraping v2");
@@ -250,11 +250,12 @@ async function getHouseLinksAndIDs(page, url){
 	
 	//var linkClassPath = ".ads__unit > .ads__unit__content > h2 > a";
 	//var linkClassPath = "ads ads--list ads--cards > sf-ad-outline > f-grid > h2 > a";
-	var linkClassPath = ".ads > .sf-ad-outline > .f-grid > h2 > a";
+	//var linkClassPath = ".ads > .sf-ad-outline > .f-grid > h2 > a";
+	var linkClassPath = ".ads > .relative > .sf-search-ad-link";
 	
-	
-	const houseLinks = await page.evaluate((linkClassPath) => {			
+	const houseLinks = await page.evaluate(() => {			
 		let elements = Array.from(document.querySelectorAll(linkClassPath));
+		console.log("   found " + elements.length + " elements");
 		let links = elements.map(element => {
 			return {"url" : element.href, "id" : element.id}
 		});
@@ -324,13 +325,12 @@ async function getNumberOfPages(page, url){
 }
 
 /*
-Given the number of pages, and a url <search_url>,
-Iterates every page, and returns an array of objects with
-properties <id> and <url> of each house.
+	Given the number of pages, and a url <search_url>,
+	Iterates every page, and returns an array of objects with
+	properties <id> and <url> of each house.
 */
 async function getAllHouseLinksAndIDs(page, search_url, max_pages){
 
-    
 	var all_house_links_and_ids = [];
 	
 	for(var page_number = 1; page_number <= max_pages; page_number++){
