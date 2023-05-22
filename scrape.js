@@ -253,7 +253,7 @@ async function getHouseLinksAndIDs(page, url){
 	//var linkClassPath = ".ads > .sf-ad-outline > .f-grid > h2 > a";
 	var linkClassPath = ".ads > .relative > .sf-search-ad-link";
 	
-	const houseLinks = await page.evaluate(() => {			
+	const houseLinks = await page.evaluate((linkClassPath) => {			
 		let elements = Array.from(document.querySelectorAll(linkClassPath));
 		console.log("   found " + elements.length + " elements");
 		let links = elements.map(element => {
